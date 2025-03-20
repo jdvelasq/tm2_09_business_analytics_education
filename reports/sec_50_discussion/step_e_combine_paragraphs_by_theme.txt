@@ -1,0 +1,70 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. 
+
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. The theme is INNOVATIVE TEACHING METHODS. Discuss only the theme, without introduction or conclusions.
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+250 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+
+
+PARAGRAPHS TO COMBINE:
+
+
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. 
+
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. The theme is STUDENT ENGAGEMENT AND OUTCOMES. Discuss only the theme, without introduction or conclusions.
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+250 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+
+
+PARAGRAPHS TO COMBINE:
+
+

@@ -1,0 +1,377 @@
+---
+
+Record-No: 8
+AR Dean M.D., 2020, TRANS EDUC, V20, P125
+TI Using the learning assistant model in an undergraduate business analytics
+   course
+AU Dean M.D.
+TC 4
+SO INFORMS Transactions on Education
+PY 2020
+AB UNDERGRADUATE_BUSINESS_STUDENTS , like many other UNDERGRADUATE_MAJORS , are
+   often apprehensive about the QUANTITATIVE_COURSES required to earn their
+   degree . ACTIVE_LEARNING_METHODS , including flipped classrooms , have been
+   studied as approaches to mitigate these fears among STUDENTS . with our
+   overarching goal of helping STUDENTS improve their understanding of
+   QUANTITATIVE_BUSINESS_CONCEPTS , we implemented a
+   NOVEL_ACTIVE_LEARNING_METHOD called the LEARNING_ASSISTANT_MODEL . using an
+   EXPERIMENTAL_DESIGN holding the instructor and the STUDENT_ASSESSMENTS
+   constant , we report the results of the first_known implementation of this
+   technique in a BUSINESS_COURSE . as indicated by the change in the STUDENTS
+   FINAL_NUMERICAL_GRADES , this PEDAGOGICAL_TECHNIQUE_SHOWS promise in helping
+   STUDENTS_MASTER the material better than those who took the course in a
+   traditional lecture_based LEARNING_ENVIRONMENT . copyright : 2020 the author
+   ( s )
+DE ACTIVE_LEARNING; ANALYTICS_EDUCATION; FLIPPED_CLASSROOM;
+   LEARNING_ASSISTANT_MODEL
+** ACTIVE_LEARNING_METHODS; BUSINESS_COURSE; EXPERIMENTAL_DESIGN;
+   FINAL_NUMERICAL_GRADES; FIRSTKNOWN_IMPLEMENTATION; LEARNING_ASSISTANT_MODEL;
+   LEARNING_ENVIRONMENT; NOVEL_ACTIVE_LEARNING_METHOD;
+   PEDAGOGICAL_TECHNIQUE_SHOWS; QUANTITATIVE_BUSINESS_CONCEPTS;
+   QUANTITATIVE_COURSES; STUDENTS_MASTER; STUDENT_ASSESSMENTS;
+   UNDERGRADUATE_BUSINESS_ANALYTICS_COURSE; UNDERGRADUATE_BUSINESS_STUDENTS;
+   UNDERGRADUATE_MAJORS
+
+---
+
+Record-No: 55
+AR Sunny Park S.-H., 2020, SPRINGER PROC BUS ECON, P317
+TI Teaching a Man to Fish: Teaching Cases of Business Analytics
+AU Sunny Park S.-H.; Park S.; Oldham L.B.
+TC 0
+SO Springer Proceedings in Business and Economics
+PY 2020
+AB this paper gives an overview of a somewhat
+   UNUSUAL_BUSINESS_ANALYTICS_INITIATIVE at a southeastern PUBLIC_UNIVERSITY in
+   the usa . the massive influx of data and the accessibility of
+   ANALYTICS_TOOLS have presented a PROVOCATIVE_OPPORTUNITY for businesses to
+   improve decision_making and have also created a demand for talent with
+   DATA_ANALYTICS_SKILLS . though many universities have stepped up to meet
+   this growing need for DATA_ANALYTICS_TALENT , the VAST_MAJORITY have done so
+   by offering specialized programs at the m.s . level . the school offers
+   embedded UNDERGRADUATE_ANALYTICS program with EXPERIENTIAL_LEARNING . this
+   paper includes our motivations and reasons behind the ANALYTICS program as
+   well as how we have implemented it . 2020 , SPRINGER_NATURE_SWITZERLAND_AG .
+DE BUSINESS_ANALYTICS; DATA_LAB; EXPERIENTIAL_LEARNING
+** ANALYTICS_TOOLS; BUSINESS_ANALYTICS; DATA_ANALYTICS_SKILLS;
+   DATA_ANALYTICS_TALENT; EXPERIENTIAL_LEARNING; PROVOCATIVE_OPPORTUNITY;
+   PUBLIC_UNIVERSITY; SPRINGER_NATURE_SWITZERLAND_AG; UNDERGRADUATE_ANALYTICS;
+   UNUSUAL_BUSINESS_ANALYTICS_INITIATIVE; VAST_MAJORITY
+
+---
+
+Record-No: 66
+AR Mashayekhi M., 2020, AM CONF INF SYST AMCIS
+TI Toward designing a business analytics model curriculum for undergraduate
+   business students
+AU Mashayekhi M.; Yetgin E.; Shen J.
+TC 0
+SO 26th Americas Conference on Information Systems, AMCIS 2020
+PY 2020
+AB BUSINESS_ANALYTICS ( ba ) has become a source of COMPETITIVE_ADVANTAGES for
+   companies . while there is a MASSIVE_AMOUNT of data available to companies ,
+   only a SMALL_PORTION of it can actually be analyzed . lack of employees with
+   the RIGHT_ANALYTICAL_SKILLS is a PRIMARY_REASON for that . as the need for
+   professionals with BA_SKILLS has grown , universities have launched dozens
+   of BA_PROGRAMS to supply those professionals . however , there is no
+   BA_MODEL_CURRICULUM for UNDERGRADUATE_PROGRAMS , which makes it difficult
+   for employers to make any expectations in regard to SKILLS acquired when a
+   STUDENT_GRADUATES from these programs . as such , the MAIN_OBJECTIVE of this
+   RESEARCH is to propose a MODEL_CURRICULUM for an UNDERGRADUATE_BA_MAJOR .
+   using a KNOWLEDGE , SKILLS , abilities ( ksas ) FRAMEWORK , we aim to find
+   what ksas should be taught to UNDERGRADUATE_STUDENTS and what courses should
+   be included in a BA_CURRICULUM . 2020 26TH_AMERICAS_CONFERENCE on
+   INFORMATION_SYSTEMS , amcis 2020 . all rights reserved .
+ID ADVANCED_ANALYTICS; COMPETITION; CURRICULA; INFORMATION_SYSTEMS;
+   INFORMATION_USE; ANALYTICAL_SKILLS; BA_MODEL; BUSINESS_ANALYTICS;
+   COMPETITIVE_ADVANTAGE; MODEL_CURRICULUM; UNDERGRADUATE_PROGRAM;
+   UNDERGRADUATE_STUDENTS; STUDENTS
+** 26TH_AMERICAS_CONFERENCE; BA_CURRICULUM; BA_MODEL_CURRICULUM; BA_PROGRAMS;
+   BA_SKILLS; BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_MODEL_CURRICULUM;
+   COMPETITIVE_ADVANTAGES; INFORMATION_SYSTEMS; MAIN_OBJECTIVE; MASSIVE_AMOUNT;
+   MODEL_CURRICULUM; PRIMARY_REASON; RIGHT_ANALYTICAL_SKILLS; SMALL_PORTION;
+   STUDENT_GRADUATES; UNDERGRADUATE_BA_MAJOR; UNDERGRADUATE_BUSINESS_STUDENTS;
+   UNDERGRADUATE_PROGRAMS; UNDERGRADUATE_STUDENTS
+
+---
+
+Record-No: 79
+AR Jeyaraj A., 2019, J INF SYST EDUC, V30, P67
+TI Teaching Tip: Pedagogy for business analytics courses
+AU Jeyaraj A.
+TC 16
+SO Journal of Information Systems Education
+PY 2019
+AB responding to the INDUSTRY_NEED for professionals to employ data_driven
+   decision_making , EDUCATIONAL_INSTITUTIONS offer courses in
+   BUSINESS_ANALYTICS ( ba ) . since BA_PROFESSIONALS require a UNIQUE_SET of
+   SKILLS different from those found in SPECIFIC_BUSINESS_DISCIPLINES , a
+   PEDAGOGICAL_FRAMEWORK to impart SUCH_KNOWLEDGE and SKILLS was developed .
+   the FRAMEWORK_ENCOMPASSES MULTIPLE_STAGES related to data _ acquisition ,
+   preparation , analysis , VISUALIZATION , and INTERPRETATION _ and provides
+   an end_to_end LEARNING experience for STUDENTS . it enables STUDENTS to gain
+   related KNOWLEDGE and SKILLS including PYTHON scripting , DATA_CLEANSING ,
+   STATISTICAL_MODELING , VISUALIZATION , and INTERPRETATION , which provide a
+   SOLID_FOUNDATION for PROFESSIONAL_ENDEAVORS in ba . 2019 by the
+   INFORMATION_SYSTEMS & computing ACADEMIC_PROFESSIONALS , inc . ( iscap ) .
+DE BUSINESS_ANALYTICS; DATA_ACQUISITION; DATA_VISUALIZATION; PEDAGOGY
+ID ADVANCED_ANALYTICS; DATA_ACQUISITION; DECISION_MAKING; STUDENTS;
+   VISUALIZATION; BUSINESS_ANALYTICS; DATA_CLEANSING; DATA_DRIVEN_DECISION;
+   EDUCATIONAL_INSTITUTIONS; LEARNING_EXPERIENCES; MULTIPLE_STAGES; PEDAGOGY;
+   STATISTICAL_MODELING; DATA_VISUALIZATION
+** ACADEMIC_PROFESSIONALS; BA_PROFESSIONALS; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_COURSES; DATA_ACQUISITION; EDUCATIONAL_INSTITUTIONS;
+   EMPLOY_DATADRIVEN; ENDTOEND_LEARNING_EXPERIENCE; FRAMEWORK_ENCOMPASSES;
+   INDUSTRY_NEED; INFORMATION_SYSTEMS; INTERPRETATION; MULTIPLE_STAGES;
+   PEDAGOGICAL_FRAMEWORK; PROFESSIONAL_ENDEAVORS; SOLID_FOUNDATION;
+   SPECIFIC_BUSINESS_DISCIPLINES; SUCH_KNOWLEDGE; UNIQUE_SET
+
+---
+
+Record-No: 82
+AR Haywood M.E., 2019, INT J EDUC MANAGE, V33, P86
+TI Building a culture of business analytics: a marketing analytics exercise
+AU Haywood M.E.; Mishra A.
+TC 11
+SO International Journal of Educational Management
+PY 2019
+AB purpose : the purpose of this paper is to describe how BRIEF_EXERCISES in
+   introductory and advanced marketing courses can help BUSINESS_STUDENTS
+   achieve a BROADER_UNDERSTANDING of what BIG_DATA and DATA_ANALYTICS mean in
+   the workplace . these SHORT_ANALYTICS_PROBLEMS fit into the culture that we
+   are building at our institution to create ANALYTICS_CASES for courses within
+   our BUSINESS_CURRICULUM . DESIGN / methodology / approach : a DATABASE of
+   1,500 CUSTOMER_REVIEWS for a fictitious sporting company was created . two
+   exercises based on text mining and SENTIMENT_ANALYSIS were developed to be
+   tested in introductory and advanced marketing course . STUDENTS were
+   introduced to the BASIC_CONCEPTS used in DATA_ANALYSIS and the creation of
+   R_CODE for extracting SENTIMENT_WORDS was demonstrated . STUDENTS then used
+   PIVOT_TABLES to IDENTIFY_PATTERNS in the given data set . STUDENTS in the
+   INTRODUCTORY_COURSE completed a short exercise while the STUDENTS in the
+   advanced class developed a detailed memo . findings : results suggest that
+   STUDENTS in the INTRODUCTORY_COURSE are significantly more aware of the use
+   of data in the industry as well as methods to deal with BIG_DATA after
+   completing the exercise as compared to their KNOWLEDGE at the beginning of
+   the exercise . STUDENTS in the advanced course are able to IDENTIFY_PATTERNS
+   , detect shortcoming and propose STRATEGIC_PLANS based on their analysis of
+   the data . originality / VALUE : proposed exercises in the study are
+   developed with an aim to help BUSINESS_SCHOOLS develop a CULTURE_SUPPORTIVE
+   of ANALYTICS . the purpose of these exercises is to make STUDENTS aware of
+   the importance of BIG_DATA and ANALYTICS early on in their CURRICULUM and
+   reinforce their exposure in an advanced course . 2019 , emerald publishing
+   limited .
+DE BIG_DATA; MARKETING_CURRICULUM
+** ANALYTICS_CASES; BASIC_CONCEPTS; BIG_DATA; BRIEF_EXERCISES;
+   BROADER_UNDERSTANDING; BUSINESS_ANALYTICS; BUSINESS_CURRICULUM;
+   BUSINESS_SCHOOLS; BUSINESS_STUDENTS; CULTURE_SUPPORTIVE; CUSTOMER_REVIEWS;
+   DATA_ANALYSIS; DATA_ANALYTICS; IDENTIFY_PATTERNS; INTRODUCTORY_COURSE;
+   PIVOT_TABLES; R_CODE; SENTIMENT_ANALYSIS; SENTIMENT_WORDS;
+   SHORT_ANALYTICS_PROBLEMS; STRATEGIC_PLANS
+
+---
+
+Record-No: 18
+AR Jena R.K., 2019, COMPUT HUM BEHAV, V92, P716
+TI Understanding academic achievement emotions towards business analytics
+   course: A case study among business management students from India
+AU Jena R.K.
+TC 4
+SO Computers in Human Behavior
+PY 2019
+AB across business , industry , GOVERNMENT and other areas of HUMAN_ENDEAVOR ,
+   VAST_AMOUNTS of data are being accumulated and processed to develop
+   understanding of PEOPLE_ACTIVITIES , and to
+   OPTIMIZE_ORGANIZATIONAL_PROCESSES and outputs . BUSINESS_ANALYTIC related
+   technologies are playing MAJOR_ROLES in providing USEFUL_INSIGHTS from
+   VAST_AMOUNT of data . therefore BUSINESS_ANALYTIC_PROGRAMS are becoming more
+   popular among BUSINESS_MANAGEMENT_GRADUATES . in the other hand , due to the
+   TECHNICAL_NATURE of the course , it create a FEAR among
+   YOUNG_MANAGEMENT_STUDENTS . therefore , the MAJOR_OBJECTIVES of the RESEARCH
+   were threefold . ( 1 ) to known about how STUDENTS perceived values ,
+   ACADEMIC_ACHIEVEMENT_EMOTIONS and PERCEIVED_SUCCESS are interrelated in
+   LEARNING BUSINESS_ANALYTIC_COURSES , ( 2 ) to assess the mediating role of
+   ACHIEVEMENT_EMOTION on the relationship between the perceived VALUE and
+   SUCCESS , ( 3 ) the purpose of this study was also to access the moderating
+   effect of ACADEMIC_BACKGROUND ( technical , non_technical ) and GENDER (
+   MALE , FEMALE ) on the mediating relationship between VALUE , and
+   PERCEIVED_SUCCESS via ACHIEVEMENT_EMOTION . SURVEY_DATA from 372
+   GRADUATE_BUSINESS_MANAGEMENT_STUDENTS revealed the SIGNIFICANT_DIFFERENCE of
+   VALUE , emotion and PERCEIVED_SUCCESS with respect to ACADEMIC_BACKGROUND
+   and GENDER . furthermore , it was found that the enjoyment ( one of the
+   dimension of emotions ) significantly mediate the relationship between VALUE
+   and STUDENTS PERCEIVED_SUCCESS in BUSINESS_ANALYTIC . it was also found that
+   ACADEMIC_BACKGROUND played a MAJOR_MODERATOR_ROLE in the direct and indirect
+   ( via emotion ) relation between perceived VALUE and PERCEIVED_SUCCESS .
+   2018 ELSEVIER_LTD
+DE ACHIEVEMENT_EMOTION; BUSINESS_ANALYTICS; INDIA; MODERATED_MEDIATING_EFFECT;
+   PERCEIVED_SUCCESS; VALUE
+ID ADVANCED_ANALYTICS; STUDENTS; ACHIEVEMENT_EMOTION; BUSINESS_ANALYTICS;
+   INDIA; MEDIATING_EFFECT; PERCEIVED_SUCCESS; VALUE; ACADEMIC_ACHIEVEMENT;
+   ADULT; ARTICLE; FEAR; FEMALE; GENDER; HUMAN; HUMAN_EXPERIMENT; INDIA;
+   LEARNING; MAJOR_CLINICAL_STUDY; MALE; STUDENT; BEHAVIORAL_RESEARCH
+** ACADEMIC_ACHIEVEMENT_EMOTIONS; ACADEMIC_BACKGROUND; ACHIEVEMENT_EMOTION;
+   BUSINESS_ANALYTIC; BUSINESS_ANALYTICS_COURSE; BUSINESS_ANALYTIC_COURSES;
+   BUSINESS_ANALYTIC_PROGRAMS; BUSINESS_MANAGEMENT_GRADUATES;
+   BUSINESS_MANAGEMENT_STUDENTS; CASE_STUDY; ELSEVIER_LTD;
+   GRADUATE_BUSINESS_MANAGEMENT_STUDENTS; HUMAN_ENDEAVOR; MAJOR_MODERATOR_ROLE;
+   MAJOR_OBJECTIVES; MAJOR_ROLES; OPTIMIZE_ORGANIZATIONAL_PROCESSES;
+   PEOPLE_ACTIVITIES; SIGNIFICANT_DIFFERENCE; SURVEY_DATA; TECHNICAL_NATURE;
+   USEFUL_INSIGHTS; VAST_AMOUNT; VAST_AMOUNTS; YOUNG_MANAGEMENT_STUDENTS
+
+---
+
+Record-No: 33
+AR Al-Haddad S., 2019, J EDU BUS, V94, P92
+TI Teaching information technology alongside business analytics: Case study
+AU Al-Haddad S.; Thorne B.; Ahmed V.; Sause W.
+TC 4
+SO Journal of Education for Business
+PY 2019
+AB BUSINESS_ANALYTICS can be described as the STATISTICAL_ANALYSIS of data to
+   make decisions and MEANINGFUL_CONCLUSIONS . as the demand to advance the
+   CURRICULUM of UNDERGRADUATE_BUSINESS_EDUCATION_INCREASES , courses in
+   BUSINESS_ANALYTICS_AIM to provide STUDENTS with FUNDAMENTAL_SKILLS in
+   critical thinking . educators have found that SPREADSHEET_APPLICATIONS that
+   include STATISTICAL_FEATURES are easy to use and FACILITATE_STUDENT_LEARNING
+   . the authors analyzed STUDENT_PERFORMANCE in an
+   INTRODUCTORY_BUSINESS_ANALYTICS_COURSE that used MICROSOFT_EXCEL as a
+   STATISTICAL_TOOL by comparing scores from this INTRODUCTORY_COURSE with
+   those from an INFORMATION_TECHNOLOGY_COURSE in which only EXCEL_SKILLS were
+   learned . 2018 , 2018 taylor & FRANCIS_GROUP , llc .
+DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; EDUCATION; MICROSOFT_EXCEL;
+   STATISTICS
+** BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_AIM; CASE_STUDY; EXCEL_SKILLS;
+   FACILITATE_STUDENT_LEARNING; FRANCIS_GROUP; FUNDAMENTAL_SKILLS;
+   INFORMATION_TECHNOLOGY; INFORMATION_TECHNOLOGY_COURSE;
+   INTRODUCTORY_BUSINESS_ANALYTICS_COURSE; INTRODUCTORY_COURSE;
+   MEANINGFUL_CONCLUSIONS; MICROSOFT_EXCEL; SPREADSHEET_APPLICATIONS;
+   STATISTICAL_ANALYSIS; STATISTICAL_FEATURES; STATISTICAL_TOOL;
+   STUDENT_PERFORMANCE; UNDERGRADUATE_BUSINESS_EDUCATION_INCREASES
+
+---
+
+Record-No: 69
+AR Lu J., 2019, LECT NOTES COMPUT SCI, V11331 LNCS, P116
+TI Data science in the business environment: Skills analytics for curriculum
+   development
+AU Lu J.
+TC 1
+SO Lecture Notes in Computer Science (including subseries Lecture Notes in
+   Artificial Intelligence and Lecture Notes in Bioinformatics)
+PY 2019
+AB DATA_SCIENCE is an INTERDISCIPLINARY_FIELD of methods , processes ,
+   algorithms and systems to EXTRACT_KNOWLEDGE or insights from data .
+   UNIVERSITY of WINCHESTER_BUSINESS_SCHOOL , uk is developing an
+   UNDERGRADUATE_DEGREE_PROGRAMME in DATA_SCIENCE which brings together
+   student_centred and business_driven approaches : positioning the course for
+   the interests of STUDENTS and requirements of employers . the NEW_PROGRAMME
+   follows the expectations of RELEVANT_SUBJECT_BENCHMARK_STATEMENTS and is
+   built on activities which focus on DIFFERENT_ASPECTS of DATA_SCIENCE ,
+   drawing on some existing modules as a base . it INTEGRATES_KEY_THEMES in
+   INFORMATION_MANAGEMENT , DATA_MINING , MACHINE_LEARNING and
+   BUSINESS_INTELLIGENCE . this paper presents the ongoing development of the
+   DATA_SCIENCE_PROGRAMME through the KEY_ASPECTS in its conception and DESIGN
+   . understanding the EMPLOYMENT_MARKET while defining SPECIFIC_SKILLS sets
+   associated with POTENTIAL_GRADUATES is always important for courses in
+   HIGHER_EDUCATION . the SKILLS_FRAMEWORK for the INFORMATION_AGE ( SFIA ) has
+   been adopted and a novel mapping proposed for the INTERPRETATION of
+   EMPLOYABILITY_SKILLS related to DATA_SCIENCE . these are then linked to an
+   adapted PROCESS_MODEL as well as the SPECIALIST_MODULES across
+   ACADEMIC_LEVELS . SPRINGER_NATURE_SWITZERLAND_AG 2019 .
+DE ANALYTICAL_TOOLS; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; DATA_MINING;
+   MACHINE_LEARNING; SFIA; SKILLS_FRAMEWORKS; SUBJECT_BENCHMARKS
+ID COMPETITIVE_INTELLIGENCE; CURRICULA; DATA_SCIENCE; EDUCATION_COMPUTING;
+   EMPLOYMENT; INFORMATION_MANAGEMENT; LEARNING_SYSTEMS; MACHINE_LEARNING;
+   STUDENTS; ANALYTICAL_TOOL; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
+   CURRICULUM_DEVELOPMENT; INTERDISCIPLINARY_FIELDS; SFIA; SKILLS_FRAMEWORKS;
+   UNDERGRADUATE_DEGREES; DATA_MINING
+** ACADEMIC_LEVELS; BUSINESSDRIVEN_APPROACHES; BUSINESS_ENVIRONMENT;
+   BUSINESS_INTELLIGENCE; CURRICULUM_DEVELOPMENT; DATA_SCIENCE;
+   DATA_SCIENCE_PROGRAMME; DIFFERENT_ASPECTS; EMPLOYABILITY_SKILLS;
+   EMPLOYMENT_MARKET; EXTRACT_KNOWLEDGE; INFORMATION_AGE;
+   INFORMATION_MANAGEMENT; INTEGRATES_KEY_THEMES; INTERDISCIPLINARY_FIELD;
+   KEY_ASPECTS; MACHINE_LEARNING; NEW_PROGRAMME; POTENTIAL_GRADUATES;
+   PROCESS_MODEL; RELEVANT_SUBJECT_BENCHMARK_STATEMENTS; SKILLS_ANALYTICS;
+   SKILLS_FRAMEWORK; SPECIALIST_MODULES; SPECIFIC_SKILLS;
+   SPRINGER_NATURE_SWITZERLAND_AG; UNDERGRADUATE_DEGREE_PROGRAMME;
+   WINCHESTER_BUSINESS_SCHOOL
+
+---
+
+Record-No: 14
+AR Leclair D., 2018, MARK EDUC REV, V28, P6
+TI Integrating Business Analytics in the Marketing Curriculum: Eight
+   Recommendations
+AU Leclair D.
+TC 32
+SO Marketing Education Review
+PY 2018
+AB advances in technology and marketing practice have left little doubt that
+   ANALYTICS must be integrated into the MARKETING_CURRICULUM , the question
+   for many educators now is how to best to do so . while the response for each
+   school will depend on its mission and context , as well as its strategies
+   and resources , there already is much that can be learned from experiences
+   across the BUSINESS_EDUCATION_INDUSTRY . this ARTICLE_DRAWS on these
+   experiences to offer eight recommendations across FOURS_AREAS of the
+   MARKETING_CURRICULUM , including content , PEDAGOGY , structure , and
+   purpose . a WIDE_RANGE of IMPORTANT_ISSUES are considered in the process ,
+   including the role of EXPERIENTIAL_LEARNING and blended LEARNING , balance
+   of TECHNICAL_KNOWLEDGE and SOFT_SKILLS , rise of badges and other non_degree
+   credentials , importance of ethics , and challenges related to
+   PROGRAM_SUSTAINABILITY . 2018 , copyright 2018 society for marketing
+   advances .
+** ARTICLE_DRAWS; BUSINESS_ANALYTICS; BUSINESS_EDUCATION_INDUSTRY;
+   EXPERIENTIAL_LEARNING; FOURS_AREAS; IMPORTANT_ISSUES; NONDEGREE_CREDENTIALS;
+   PROGRAM_SUSTAINABILITY; SOFT_SKILLS; TECHNICAL_KNOWLEDGE; WIDE_RANGE
+
+---
+
+Record-No: 26
+AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
+TI Business analytics for institutional academic management: A case of South
+   African higher education
+AU Seaba T.R.; Anna Segooa M.; Kalema B.M.; Kekwaletswe R.
+TC 2
+SO 2018 International Conference on Intelligent and Innovative Computing
+   Applications, ICONIC 2018
+PY 2018
+AB DATA_INFRASTRUCTURE and quality are VITAL_ORGANS influencing the health of
+   any organizations and are essential for creating and delivering
+   BUSINESS_INSIGHTS . due to this fact , stakeholders expect a
+   FLAWLESS_EXPERIENCE , real_time solutions and support . however , these
+   expectations are normally too high for it departments that are always
+   immersed with VARIOUS_USERS_REQUESTS . the BIG_DATA_ERA and its ANALYTICS
+   have put organizations in positions to predict and forecast USERS_NEEDS to
+   produce a GREAT_USER_EXPERIENCE . this is achieved through INTUITIVE_DESIGN
+   , error_free coding and QUALITY_PERFORMANCE . there is increasing demand for
+   better BUSINESS_ANALYTICS so as to ENABLE_ORGANIZATIONS establish
+   SOLID_FOUNDATION by building out a DATA_MANAGEMENT_ECOSYSTEM that
+   DELIVERS_FLEXIBILITY and performance required by COGNITIVE_SOLUTIONS . the
+   objective of this paper was to highlight how universities can leverage
+   better ANALYTICS to process amount of continuously generated data from
+   VARIOUS_SOURCES and generate ACTIONABLE_INSIGHTS needed to achieve
+   ACADEMIC_BUSINESS_GOALS . this study followed an INTERPRETIVE_PARADIGM
+   taking a CASE_STUDY of a south AFRICAN_UNIVERSITY and employed
+   semi_structured interviews . this study found that DATA_VALUE and the
+   USE_THEREOF in the MANAGEMENT of ACADEMIC_DIVISIONS of the UNIVERSITY should
+   be consistent with FACULTY_BUSINESS_PLANS . in this way , BUSINESS_ANALYTICS
+   is not haphazardly used but is strategically aligned with FACULTY_PLANS and
+   OVERALL_INSTITUTIONAL STRATEGIC_OBJECTIVES and targets . 2018 ieee .
+DE BUSINESS_ANALYTICS; DECISION_MAKING; INSTITUTIONS_OF_HIGHER_LEARNING;
+   MANAGEMENT
+ID INFORMATION_MANAGEMENT; ACADEMIC_MANAGEMENTS; BUSINESS_ANALYTICS;
+   DATA_INFRASTRUCTURE; DATA_QUALITY; DECISIONS_MAKINGS; HIGH_EDUCATIONS;
+   HIGHER_LEARNING; INSTITUTION_OF_HIGH_LEARNING; REAL_TIME_SOLUTION;
+   USER_NEED; DECISION_MAKING
+** ACADEMIC_BUSINESS_GOALS; ACADEMIC_DIVISIONS; ACADEMIC_MANAGEMENT;
+   ACTIONABLE_INSIGHTS; AFRICAN_UNIVERSITY; BIG_DATA_ERA; BUSINESS_ANALYTICS;
+   BUSINESS_INSIGHTS; CASE_STUDY; COGNITIVE_SOLUTIONS; DATA_INFRASTRUCTURE;
+   DATA_MANAGEMENT_ECOSYSTEM; DATA_VALUE; DELIVERS_FLEXIBILITY;
+   ENABLE_ORGANIZATIONS; FACULTY_BUSINESS_PLANS; FACULTY_PLANS;
+   FLAWLESS_EXPERIENCE; GREAT_USER_EXPERIENCE; INTERPRETIVE_PARADIGM;
+   INTUITIVE_DESIGN; OVERALL_INSTITUTIONAL; QUALITY_PERFORMANCE;
+   REALTIME_SOLUTIONS; SOLID_FOUNDATION; STRATEGIC_OBJECTIVES; USERS_NEEDS;
+   USE_THEREOF; VARIOUS_SOURCES; VARIOUS_USERS_REQUESTS; VITAL_ORGANS
+
+
+---

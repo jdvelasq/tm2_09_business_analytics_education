@@ -1,0 +1,56 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+The provide paragraphs present different approaches to the definition of the same topic.
+
+
+GOAL:
+Write a new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+
+1. Segment each provided paragraph into phrases.
+2. Identify the phrases discussing the same topic.
+3. Combine the phrases discussing the same topic.
+4. Write a new paragraph by combining the phrases discussing the same topic. Summarize only the phrases discussing the same topic. 
+5. When combine the phrases, be sure of including all the references
+
+
+LENGTH:
+230 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of conserve all references provided in the text.
+- Be sure of not eliminate the references to the original text. 
+- Be sure of no loose phrases in both texts.
+- Do not use bullets.
+- Be sure of combining phrases discussing the same topic.
+- Do not count the references in the paragraph as words for computing the paragraph length.
+
+
+PARAGRAPHS TO COMBINE:
+
+---
+
+The third thematic cluster centers on innovative pedagogical approaches and curriculum development aimed at improving student engagement and learning outcomes in business analytics education. This cluster highlights the integration of experiential learning techniques, such as case-based learning and modular teaching frameworks, to cater to diverse student backgrounds and skill levels [91; 101]. By focusing on active learning and practical applications, these approaches enhance student engagement, satisfaction, and performance in analytics courses [91; 103]. The emphasis on bridging the gap between technical and non-technical students through tailored instructional methods reflects the need to equip all learners with the necessary skills for the modern data-centric business environment [103].
+
+---
+
+The third thematic cluster revolves around the integration of emerging technologies and interdisciplinary approaches in the pedagogy of business analytics. This cluster underscores the need for academic professionals to incorporate technologies such as blockchain, artificial intelligence, and data science into the curriculum, ensuring that educational programs remain relevant to industry demands [100, 71]. The focus is on developing innovative teaching methods and curricula that not only cover technical skills but also address the evolving needs of industries, particularly in terms of data management and decision-making [43, 69]. This approach requires a rethinking of traditional educational frameworks to include experiential learning and application-oriented models that better prepare students for the complexities of the modern business environment [79, 51].
+
+---
+
+The third thematic cluster focuses on the integration of experiential learning and curriculum development in analytics education, highlighting the role of academic professionals in enhancing teaching methodologies. This cluster underscores the necessity of evolving traditional pedagogy to include hands-on learning experiences, interactive visual narratives, and real-world problem-solving projects [57]. The development of comprehensive, cross-functional curricula that incorporate experiential learning opportunities is critical for preparing students with the analytical skills and practical knowledge needed for decision-making in complex business environments [17, 30]. The abstracts emphasize the strategic importance of aligning curriculum design with industry needs, thereby ensuring that students are not only engaged but also equipped to meet the demands of the data-driven economy [26, 32].
+
+---
+
+The third thematic cluster revolves around the dynamic intersection of pedagogy, curriculum development, and the innovative application of technology in teaching business analytics [19][97]. This cluster critically examines the challenges faced by academic professionals in adapting to the rapidly evolving field of analytics, where traditional teaching methods often fall short [73]. It emphasizes the need for developing innovative teaching practices and adaptive curricula that can respond to the complex, data-driven demands of the industry [73][90]. The integration of technology, such as collaborative environments and hands-on learning tools, is highlighted as a key enabler for enhancing student engagement and learning effectiveness [73][92]. This cluster also underscores the importance of continuous curriculum refinement to align educational outcomes with industry needs, particularly in fostering the analytical and technical skills required in the competitive intelligence domain [19][34].
+
+
+---

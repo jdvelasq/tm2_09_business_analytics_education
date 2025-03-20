@@ -1,0 +1,68 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters on BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. You must prepare a critical review formulating a position or an opinion about the FIRST thematic cluster based on the provided abstracts. The opinion describes the relationships among the keywords and stablish a critical position about the cluster. In the critical review has three paaragraphs: TRENS, CHALLENGES, and FUTURE DIRECTIONS.
+
+
+GOAL:
+Your goal is write the list of TOPICS for the critical review. The TOPICS do NOT include the name of the technique or methodology. The list of TOPICS correspond to a well-known topics of interest for the target journal.
+
+
+TARGET JOURNAL:
+IEEE-RITA covers technological applications and research in education including design and research in new learning tools that focus on teaching and learning. The scope includes learning applications, methods, materials and new experiences as they relate to engineering learning. The journal maintains a consistent focus on the IEEE environment inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science. Main areas include technological applications and research in Education covering the design and research in new learning tools, techniques and materials that focus on teaching and learning as well as learning applications, methods and materials and new experiences of engineering learning, always focusing on the teaching/learning of the IEEE fields inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science and Engineering.
+
+
+EXAMPLES OF TOPICS:
+- E-Learning Platforms and Tools
+- Blended and Hybrid Learning
+- Learning Analytics
+- Adaptive and Personalized Learning
+- Massive Open Online Courses (MOOCs)
+- Gamification and Serious Games
+- Collaborative Learning Technologies
+- Mobile and Ubiquitous Learning
+- Virtual and Augmented Reality in Education
+- Educational Robotics
+- STEM Education
+- Teacher Training and Professional Development
+- Distance and Online Learning
+- Cognitive and Affective Computing in Education
+- Ethics and Security in Educational Technology
+- Innovative Pedagogical Models
+- Technology-Enhanced Learning (TEL)
+- Digital Literacy
+- Accessibility in Educational Technologies
+- Internet of Things (IoT) in Education
+
+
+KEYWORDS DEFINING THE CLUSTER:
+Curriculum; Skills; Education; Information Use; Business Schools; Curriculum Design; Programs; Education Institutions; Competitive Advantages; Knowledge
+
+
+CLUSTER NAME:
+Curriculum Innovation for Industry Competencies
+
+
+CLUSTER DEFINITION:
+The first thematic cluster focuses on curriculum design and skills development in business schools, emphasizing the alignment of educational programs with evolving industry needs. Business schools play a pivotal role in bridging the gap between academic knowledge and market demands by fostering competencies in areas such as data analytics, decision-making, and quantitative analysis [85, 95, 48]. Institutions increasingly integrate experiential learning and innovative pedagogies, such as case-based and gamified approaches, to enhance student engagement and practical decision-making skills [91, 101, 102]. Despite this progress, gaps remain, particularly in addressing emerging technological demands and core areas like data quality [20, 71]. There is no standardized model curriculum, which creates inconsistencies in graduate skills and complicates employer expectations [66]. To maintain competitive advantage, educational institutions must continuously refine curricula by integrating interdisciplinary approaches, partnerships with external organizations, and adaptive educational models [17, 30, 41]. These reforms are necessary to prepare graduates for the data-driven business landscape, ensuring they possess the practical knowledge and technological competencies, including analytics and AI, required for success in modern industries [26, 53, 36].
+
+
+REQUIREMENTS:
+The requirements for the list of TOPICS are as follows:
+- The output is only the list of TOPICS. 
+- The list of TOPICS do NOT include the name of the technique or methodology.
+- Write a TOPIC by line. 
+- Do no use bullets or numbers. 
+- The TOPICS must be based only on the provided abstracts.
+- Be sure of use all provided abstracts to build the list of TOPICS.
+- Be sure of cover all TOPICS presented in the abstracts.
+- Be suer of not missing any relevant TOPIC in the abstracts.
+- Be sure of use the minimum number of TOPICS to cover all the abstracts.
+- The TOPICS have a maximum of 5 words.
+- The list has a maximum of 15 TOPICS.
+
+
+
+

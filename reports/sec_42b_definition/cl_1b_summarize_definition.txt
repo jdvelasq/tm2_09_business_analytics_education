@@ -1,0 +1,62 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+The provide paragraphs present different approaches to the definition of the same topic.
+
+
+GOAL:
+Write only and only one paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+
+1. Segment each provided paragraph into phrases.
+2. Identify the phrases discussing the same topic.
+3. Combine the phrases discussing the same topic.
+4. Write a new paragraph by combining the phrases discussing the same topic. Summarize only the phrases discussing the same topic. 
+5. When combine the phrases, be sure of including all the references
+
+
+LENGTH:
+230 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of conserve all references provided in the text.
+- Be sure of not eliminate the references to the original text. 
+- Be sure of no loose phrases in both texts.
+- Do not use bullets.
+- Be sure of combining phrases discussing the same topic.
+- Do not count the references in the paragraph as words for computing the paragraph length.
+
+PARAGRAPHS TO COMBINE:
+
+---
+
+The second thematic cluster focuses on the integration of experiential learning and student engagement to enhance learning outcomes and foster decision-making skills among students in business analytics courses. This cluster highlights the use of real-world case studies and simulation frameworks to immerse students in authentic decision-making scenarios, which has been shown to increase engagement and satisfaction with the learning process [91]. The pedagogical approaches discussed include both virtual and face-to-face modalities, which are designed to cater to diverse student backgrounds, thereby promoting deeper cognitive engagement and better learning outcomes [101]. Furthermore, this focus on experiential learning is critical in preparing students for the complexities of real-world analytics tasks, ultimately contributing to their professional development as analytics professionals [103]. The emphasis on active and experiential learning solidifies this approach as central to modern business analytics education.
+
+---
+
+This thematic cluster emphasizes the integration of experiential learning approaches to enhance student engagement and improve learning outcomes in business analytics education. The focus is on the application of real-world data and decision-making processes, where students are encouraged to develop essential skills through practical experiences, such as project-based learning and organizational analytics projects [63]. These experiential strategies provide students with opportunities to connect theoretical knowledge with industry-relevant tasks, fostering deeper insights into analytics concepts [7]. This approach also aims to prepare students for professional roles by engaging them with hands-on tasks that simulate real-world environments, ultimately enhancing their readiness for careers as analytics professionals [63]. The emphasis on student learning and engagement positions this cluster as critical to forming the analytical competencies required in the evolving job market .
+
+---
+
+The second thematic cluster emphasizes experiential learning as a crucial strategy for developing decision-making skills and enhancing student engagement in business analytics education. Active learning methods, such as flipped classrooms and innovative pedagogical frameworks, are designed to mitigate students' apprehensions about quantitative courses and promote a deeper understanding of complex business concepts [8]. These approaches are closely linked to student success, particularly in helping students master key analytical skills through hands-on experiences and real-world applications, bridging the gap between theoretical knowledge and practical decision-making [8][55]. The integration of these methods aims to develop analytics professionals who are better prepared to apply insights in business environments, thereby improving overall learning outcomes.
+
+---
+
+The second thematic cluster revolves around the importance of experiential learning in developing students' decision-making and analytical skills. This cluster highlights the role of interactive and applied learning experiences in bridging the gap between theoretical knowledge and practical application, which is critical for effective student engagement and learning outcomes [57]. Courses designed to integrate experiential learning, such as those that incorporate case studies and real-world scenarios, help students to not only understand but also apply analytical methods, thereby enhancing their decision-making abilities [39, 52]. This approach is particularly significant in preparing future analytics professionals, as it ensures that students are equipped with both the knowledge and the practical skills necessary to meet industry demands [36]. By focusing on student engagement and hands-on experiences, this cluster underscores the value of practical learning in fostering the competencies required for success in the data-driven business environment.
+
+---
+
+The second thematic cluster revolves around the integration of experiential learning into business analytics education, emphasizing the direct application of knowledge to real-world decision-making scenarios. Experiential learning is critical for fostering student engagement and improving learning outcomes, as students gain practical skills by tackling real-world problems in collaboration with industry partners [17]. This approach not only enhances technical expertise but also prepares students to become proficient decision-makers, a necessary skill for analytics professionals in today’s competitive environment [24]. Through these programs, students are encouraged to apply their classroom learning in interdisciplinary contexts, enabling them to derive actionable insights from data and navigate complex, multi-disciplinary challenges [50]. As such, experiential learning forms a bridge between theoretical education and the hands-on skills needed for professional success, emphasizing the importance of student engagement in their learning process [30].
+
+---
+
+The second thematic cluster examines the impact of experiential learning and structured educational strategies on student engagement, decision-making, and learning outcomes in business analytics education. By integrating hands-on labs and scaffolded activities, students gain practical skills and confidence, essential for navigating complex analytics tasks [92]. This cluster underscores the importance of immersive learning experiences that bridge theoretical knowledge with practical application, fostering deeper insights into business analytics. Additionally, it emphasizes student engagement as a critical factor in the effective acquisition of knowledge and the development of competencies needed by future analytics professionals [6]. The structured approach to learning supports both cognitive and metacognitive development, preparing students to thrive in dynamic professional environments.
+
+---

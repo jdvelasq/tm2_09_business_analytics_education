@@ -1,0 +1,95 @@
+Dean M.D., 2020, TRANS EDUC, V20, P125
+    Dean M. D., Using the Learning Assistant Model in an Undergraduate Business Analytics Course, INFORMS Transactions on Education, 20, 3, pp. 125-133, (2020)
+Deng X., 2016, INT CONF INF SYST ICIS
+    Deng X. N., Li Y., Galliers R. D., Business Analytics Education: A Latent Semantic Analysis of Skills, Knowledge and Abilities Required for Business Versus Non-Business Graduates, Proceedings of Thirty Seventh International Conference on Information Systems, (2016)
+    Deng X. N., Li Y., Galliers R. D., Business Analytics Education: A Latent Semantic Analysis of Skills, Knowledge and Abilities Required for Business versus Non-business Graduates, Thirty Seventh International Conference on Information Systems (ICIS), 12, (2016)
+    Deng X., Li Y., Galliers R., Business Analytics Education: A Latent Semantic Analysis of Skills, Knowledge and Abilities Required for Business versus Non-Business Graduates, ICIS, (2016)
+Dong T., 2020, AM CONF INF SYST AMCIS
+    Dong T., Triche J., Aligning BI&A Curriculum with Industry Demand, Twenty-Sixth Americas Conference on Information Systems (AMCIS), (2020)
+Dubey R., 2015, IND COMMER TRAIN, V47, P174
+    Dubey R., Gunasekaran A., Education and training for successful career in big data and business analytics, Industrial and Commercial Training, 47, 4, pp. 174-181, (2015)
+Fitzgerald B.K., 2014, IND HIGH EDU, V28, P371
+    Fitzgerald B.K., Barkanic S., Cardenas-Navia I., Et al., The BHEF national higher education and workforce initiative: a model for pathways to baccalaureate attainment and high-skill careers in emerging fields, Industry and Higher Education, 28, 5, pp. 371-378, (2014)
+Gillon K., 2012, INTERNAT CONF INF SYST ICIS 2012, V3, P2383
+    Gillon K, Brynjolfsson E, Mithas S, Griffin J, Gupta M, Business analytics: Radical shift or incremental change?, (2012)
+Gillon K., 2014, COMMUN ASSOC INFO SYST, V34, P287
+    Gillon K., Aral S., Lin C.-Y., Mithas S., Zozulia M., Business analytics: Radical shift or incremental change?, Communications of the Association for Information Systems, 34, 13, pp. 287-296, (2014)
+Gorman M.F., 2014, INTERFACES, V44, P329
+    Gorman M. F., Klimberg R. K., Benchmarking Academic Programs in Business Analytics, INFORMS Journal on Applied Analytics, 44, 3, pp. 329-341, (2014)
+    Gorman M. F., Klimberg R. K., Benchmarking academic programs in business analytics, Interfaces, 44, 3, pp. 329-341, (2014)
+    Gorman M., Klimberg R., Benchmarking academic programs in business analytics, Interfaces, 44, 3, pp. 320-341, (2014)
+    Gorman M., Klimberg R., Benchmarking academic programs in business analytics, Interfaces, 44, 3, pp. 329-341, (2014)
+    Gorman M.F., Klimberg R.K., Benchmarking academic programs in business analytics, Interfaces, 44, 3, pp. 329-341, (2014)
+    Gorman MF, Klimberg RK, Benchmarking academic programs in business analytics, Interfaces, 44, 3, pp. 329-341, (2014)
+Jaggia S., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P612
+    Jaggia S., Kelly A., Lertwachara K., Chen L., Applying the CRISP-DM framework for teaching business analytics, Decision Sciences Journal of Innovative Education, 18, 4, pp. 612-634, (2020)
+Johnson M.E., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P90
+    Johnson M. E., Albizri A., Jain R., Exploratory Analysis to Identify Concepts, Skills, Knowledge, and Tools to Educate Business Analytics Practitioners, Decision Sciences Journal of Innovative Education, 18, 1, pp. 90-118, (2020)
+    Johnson M. E., Albizri A., Jain R., Exploratory analysis to identify concepts, skills, knowledge, and tools to educate business analytics practitioners, Decision Sciences Journal of Innovative Education, 18, 1, pp. 90-118, (2020)
+    Johnson M.E., Albizri A., Jain R., Exploratory analysis to identify concepts, skills, knowledge, and tools to educate business analytics practitioners, Decision Sciences Journal of Innovative Education, 18, 1, pp. 90-118, (2020)
+Johnson M.E., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P17
+    Johnson M.E., Misra R., Berenson M., Teaching Bayesian and Markov methods in business analytics curricula: an integrated approach, Decision Sciences Journal of Innovative Education, 20, 1, pp. 17-28, (2022)
+Leclair D., 2018, MARK EDUC REV, V28, P6
+    LeClair D., Integrating business analytics in the marketing curriculum: Eight recommendations, Marketing Education Review, 28, 1, pp. 6-13, (2018)
+    LeClair D., Integrating business analytics in the marketing curriculum: eight recommendations, Marketing Education Review, 28, 1, pp. 6-13, (2018)
+Marjanovic O., 2013, PROC ANNU HAWAII INT CONF SYST SCI, P50
+    Marjanovic O., Sharing and reuse of innovative teaching practices in emerging business analytics disciplines, Proceedings of the Annual Hawaii International Conference on System Sciences, pp. 50-59, (2013)
+Marjanovic O., 2014, PROC AUSTRALAS CONF INF SYST
+    Marjanovic O., Sharing and co-creation of innovative teaching practices in business analytics – insights from an Action Research Design Project, Proc. of The Australian IS Conference ACIS 2014, (2014)
+Mills R.J., 2022, J INF SYST EDUC, V33, P232
+    Mills R. J., Fadel K. J., Olsen T., Chudoba K. M., Dupin-Bryant P. A., Examining Trends in Business Analytics Education From 2011 to 2020 in AACSB-Accredited Information Systems Programs, Journal of Information Systems Education, 33, 3, pp. 232-244, (2022)
+Rezaee Z., 2018, J EMERG TECHNOL ACCOUNT, V15, P183
+    Rezaee Z., Dorestani A., Aliabadi S., Application of time series analyses in Big Data: Practical research and education implications, Journal of Emerging Technologies in Accounting, 15, 1, pp. 183-197, (2018)
+Rodammer F., 2015, AM CONF INF SYST AMCIS
+    Haan J., Rodammer F., Speier C., The Integration of Business Analytics into a Business College Undergraduate Curriculum, AMCIS 2015 Proceedings, (2015)
+    Haan J., Rodammer F., Speier-Pero C., The Integration of Business Analytics into a Business College Undergraduate Curriculum, Twenty First Americas Conference on Information Systems, (2015)
+    Rodammer F., Speier-Pero C., Haan J., The Integration of Business Analytics Into a Business College Undergraduate Curriculum, Twenty-First Americas Conference on Information Systems, (2015)
+    Rodammer F., Speier-Pero C., Haan J., The Integration of Business Analytics into a Business College Undergraduate Curriculum, Proceedings of the Twenty-First Americas Conference on Information Systems (AMCIS), (2015)
+    Rodammer F., Speier-Pero C., Haan J., The integration of business analytics into a business college undergraduate curriculum, Twenty First Ameriacs Conference on Information Systems, (2015)
+Schiller S., 2015, COMMUN ASSOC INFO SYST, V37, P811
+    Schiller S., Goul M., Iyer L. S., Sharda R., Schrader D., Asamoah D., Build Your Dream (Not Just Big) Analytics Program, Communications of the Association for Information Systems, 37, pp. 811-826, (2015)
+    Schiller S., Goul M., Iyer L.S., Sharda R., Schrader D., Asamoah D., Build your dream (not just big) analytics program, Communications of the Association for Information Systems, 37, 1, (2015)
+    Schiller S., Goul M., Iyer L.S., Sharda R., Schrader D., Asamoah D., Build your dream (not just big) analytics program, Communications of the Association for Information Systems, 37, pp. 811-826, (2015)
+    Schiller S., Iyer L.S., Schrader D., Goul M., Sharda R., Asamoah D., Build your dream (not just big) analytics program, Communications of The Association for Information Systems, 37, pp. 811-826, (2015)
+Sharda R., 2013, J COMPT INF TECHNOL, V21, P171
+    Sharda R., Asamoah D.A., Ponna N., Research and pedagogy in business analytics: Opportunities and illustrative examples, CIT Journal of Computing and Information Technology, 3, (2013)
+Sharda R., 2013, PROC INT CONF INF TECHNOL INTERFACES ITI, P19
+    Sharda R., Asamoah D., Ponna N., Business Analytics: Research and Teaching Perspectives, Proceedings of the 35th International Conference on Information Technology Interfaces, (2013)
+    Sharda R., Daniel A.A., Ponna N., Business analytics: Research and teaching perspectives, Proceedings of the Proceedings of the 35th International Conference on Information Technology Interfaces, pp. 19-27, (2013)
+Shim K.J., 2021, IEEE GLOBAL ENG EDU CONF EDUCON, V2021-April, P1337
+    Shim K. J., Gottipati S., Lau Y. M., Integration of Professional Certifications with Information Systems Business Analytics Track Curriculum, 2021 IEEE Global Engineering Education Conference (EDUCON), (2021)
+Turel O., 2016, COMMUN ASSOC INFO SYST, V39, P96
+    Turel O, Kapoor B, A business analytics maturity perspective on the gap between business schools and presumed industry needs, Comm. Assoc. Inform. Systems, 39, 1, pp. 96-109, (2016)
+    Turel O., Kapoor B., A Business Analytics Maturity Perspective on the Gap Between Business Schools and Presumed Industry Needs, Communications of the Association for Information Systems, 39, pp. 96-109, (2016)
+    Turel O., Kapoor B., A Business Analytics Maturity Perspective on the Gap between Business Schools and Presumed Industry Needs, Communications of the Association for Information Systems, 39, pp. 96-109, (2016)
+    Turel O., Kapoor B., A business analytics maturity perspective on the gap between business schools and presumed industry needs, Communications of The Association for Information Systems, 39, pp. 96-109, (2016)
+    Turel O., Kapoor B., A business analytics maturity perspective on the gap between business schools and presumed industry needs, Communications of the Association for Information Systems (CAIS), 39, pp. 96â-109, (2016)
+    Turel O., Kapoor B., A business analytics maturity perspective on the gap between business schools and presumed industry needs, Communications of the Association for Information Systems, 39, (2016)
+    Turel O., Kapoor B., A business analytics maturity perspective on the gap between business schools and presumed industry needs, Communications of the Association for Information Systems, 39, 6, pp. 96-109, (2016)
+    Turel O., Ve Kapoor B., A business analytics maturity perspective on the gap between business schools and presumed industry needs, Cais, 39, (2016)
+Williams B., 2021, COMMUN ASSOC INFO SYST, V48, P32
+    Williams B., Elmore R., Teaching Business Analytics During the COVID-19 Pandemic: A Tale of Two Courses, Communications of the Association for Information Systems, 48, (2021)
+Wixom B., 2014, COMMUN ASSOC INFO SYST, V34, P1
+    Wixom B, Ariyachandra T, Douglas D, Goul M, Gupta B, Iyer L, Mooney JG, Phillips-Wren G, Turetken O, The current state of business intelligence in academia: The arrival of big data, Comm. Assoc. Inform. Systems, 34, 1, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Et al., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, 1, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney B. J. G., Phillips-Wren G., Turetken O., The Current State of Business Intelligence in Academia: The Arrival of Big Data, Communications of the Association for Information Systems, 34, 1, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney B.J.G., Phillips-Wren G., Turetken O., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney J. G., Phillips-Wren G., Turetken O., The Current State of Business Intelligence in Academia: The Arrival of Big Data, Communications of the Association for Information Systems, 34, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney J. G., Phillips-Wren G., Turetken O., The Current State of Business Intelligence in Academia: The Arrival of Big Data, Communications of the Association for Information Systems, 34, pp. 2-12, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney J.G., Phillips-Wren G., Turetken O., The Current State of Business Intelligence in Academia: The Arrival of Big Data, Communications of the Association for Information Systems, 34, 1, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney J.G., Phillips-Wren G., Turetken O., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Turetken O., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, 1, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L., Turetken O., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D., Goul M., Gupta B., Iyer L.S., Kulkarni U., Mooney J.G., Phillips-Wren G., Turetken O., The current state of business intelligence in academia: The arrival of Big Data, Communications of the Association for Information Systems, 34, 1, pp. 1-13, (2014)
+    Wixom B., Ariyachandra T., Douglas D.E., Goul M., Gupta B., Iyer L.S., Turetken O., The current state of business intelligence in academia: The arrival of big data, Cais, 34, 1, pp. 1-13, (2014)
+    Wixom B., Et al., The current state of business intelligence in academia: The arrival of big data, Comm. of The Association for Information Systems, 34, (2014)
+    Wixom B., Et al., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, (2014)
+    Wixom B., Et al., The current state of business intelligence in academia: The arrival of big data, Communications of the Association for Information Systems, 34, 1, (2014)
+    Wixom B., Thlini A., Douglas D., Goul M., Gupta B., Iyer L., Kulkarni U., Mooney J.G., Phillips-Wren G., Turetken O., The current state of business intelligence in academia: the arrival of big data, Communications of the Association for Information Systems, 34, 1, pp. 1-12, (2014)
+Yang L., 2013, PROC FRONT EDUC CONF FIE, P1516
+    Yang L., Liu X., Teaching business analytics, Proceedings–Frontiers in Education Conference, FIE, pp. 1516-1518, (2013)
+Yazici H.J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P589
+    Yazici H. J., Project-Based Learning for Teaching Business Analytics in the Undergraduate Curriculum, Decision Sciences Journal of Innovative Education, 18, 4, pp. 589-611, (2020)
+    Yazici H.J., Project-based learning for teaching business analytics in the undergraduate curriculum, Decision Sciences Journal of Innovative Education, 18, 4, pp. 589-611, (2020)
+Zhang L., 2020, J INF SYST EDUC, V31, P244
+    Zhang L., Chen F., Wei W., Teaching Tip: A Foundation Course in Business Analytics: Design and Implementation at Two Universities, Journal of Information Systems Education, 31, 4, pp. 244-259, (2020)

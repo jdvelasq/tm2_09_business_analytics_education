@@ -1,0 +1,71 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+The provide paragraphs present different approaches to the definition of the same topic.
+
+
+GOAL:
+Write only and only one paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+
+1. Segment each provided paragraph into phrases.
+2. Identify the phrases discussing the same topic.
+3. Combine the phrases discussing the same topic.
+4. Write a new paragraph by combining the phrases discussing the same topic. Summarize only the phrases discussing the same topic. 
+5. When combine the phrases, be sure of including all the references
+
+
+LENGTH:
+230 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of conserve all references provided in the text.
+- Be sure of not eliminate the references to the original text. 
+- Be sure of no loose phrases in both texts.
+- Do not use bullets.
+- Be sure of combining phrases discussing the same topic.
+- Do not count the references in the paragraph as words for computing the paragraph length.
+
+
+PARAGRAPHS TO COMBINE:
+
+---
+
+The first thematic cluster centers on curriculum design and skills development in business analytics education, where institutions focus on structuring programs that equip students with essential skills and knowledge for the data-driven business world. This cluster emphasizes experiential learning and innovative pedagogies designed to improve student engagement and satisfaction, particularly through case-based and gamified learning approaches [91], [101]. These methods help bridge the gap between diverse student backgrounds and technical proficiency by fostering engagement in both online and hybrid learning modes [91]. Programs are also developed with a focus on core components that support competitive advantages in the workforce, such as curriculum alignment with industry needs and the enhancement of practical decision-making skills [102]. The strategic combination of foundational business analytics courses with experiential learning ensures that graduates are equipped with the knowledge and skills to thrive in evolving business landscapes [101].
+
+---
+
+The first thematic cluster centers on the strategic design of business analytics curricula in higher education institutions, focusing on aligning educational programs with industry requirements. The increasing demand for analytics professionals has driven institutions to craft specialized curricula aimed at addressing the skill gaps prevalent in the job market [89]. This cluster highlights the role of curriculum design in fostering competitive advantages by equipping students with essential knowledge and practical skills, such as quantitative analysis and technical expertise [95]. Additionally, it emphasizes the importance of adaptive programs that respond to evolving market needs, ensuring that graduates are prepared to excel in their careers while promoting lifelong learning [95]. Business schools play a pivotal role in bridging the gap between academic knowledge and industry requirements, fostering employability through dynamic and flexible educational offerings [41].
+
+---
+
+The first thematic cluster revolves around the integration of curriculum design and skills development in business schools to meet the competitive demands of the industry. Business schools are increasingly focusing on aligning their programs with the skills required in the business community, particularly in fields like data analytics, decision-making, and quantitative skills [48]. This cluster highlights the critical role of education institutions in developing curricula that equip students with practical skills and knowledge, enhancing their employability and adaptability to industry requirements [61, 4]. Despite progress, there remain gaps in addressing essential areas such as data quality, which are often neglected in core programs [20]. To maintain relevance, institutions must innovate and continuously refine their curriculum to bridge these gaps and foster skills that offer competitive advantages in the business landscape.
+
+---
+
+The first thematic cluster revolves around the redesign of business education curricula to integrate industry-relevant technologies and skills. This cluster emphasizes the need for curriculum reform to address industry demands for technological competencies like data analytics, artificial intelligence, and blockchain. Current curricula are criticized for not reflecting the rapid technological changes in industries, which threatens graduates' employability and competitiveness [71]. Educational institutions are urged to create programs that balance traditional business knowledge with modern information technology skills, ensuring graduates are prepared for the evolving job market [53]. This reformation highlights the competitive advantage gained by institutions that proactively address the gap between industry needs and the skills taught in educational programs [71].
+
+---
+
+This thematic cluster examines the development of undergraduate business programs focused on fostering analytical skills, a critical need for modern businesses to gain competitive advantages. Educational institutions have responded by creating various programs, though there remains no standardized model curriculum. The absence of such a curriculum leads to inconsistencies in the skills graduates possess, complicating employer expectations [66]. These programs aim to equip students with knowledge, skills, and abilities (KSAs) necessary for data analysis and decision-making, framed within a structure designed to meet industry demands [66]. By aligning educational content with the evolving needs of the business landscape, schools seek to provide students with a comprehensive foundation in business analytics, thus enhancing their employability and aligning institutional offerings with market expectations [66].
+
+---
+
+This thematic cluster highlights the critical role of curriculum design in business schools, emphasizing the need to align educational offerings with industry demands for skill development and practical knowledge application. Business schools must focus on cultivating expertise in areas like business analytics and quantitative skills to meet the increasing demand for graduates equipped with market-relevant competencies [85]. By strategically aligning curriculums with business objectives, educational institutions can ensure that students are prepared for the data-driven business environment, where decision-making relies heavily on the effective use of information and analytics [26]. The challenge is to bridge the gap between traditional educational models and the evolving needs of the industry, making curriculum design a key driver of competitive advantage for both students and institutions [36].
+
+---
+
+The first thematic cluster revolves around the integration of experiential learning into business school curricula, aiming to enhance students' skills and knowledge application. This cluster critically explores how curriculum design enables students to tackle real-world problems, blending theoretical knowledge with practical experience, thus providing a competitive edge for graduates [17]. Programs are increasingly incorporating interdisciplinary approaches and partnerships with external organizations to help students develop the necessary skills for a successful career [30]. Business schools are responding to the growing demand for marketable skills by reshaping their educational models, ensuring students are well-prepared for the workforce through innovative curriculum design and experiential learning opportunities [17, 30].
+
+---
+
+The first thematic cluster focuses on the critical role of business school curricula in fostering essential skills and knowledge for competitive advantage. Business schools demonstrate significant variation in their integration of management science and related analytical skills into their curricula, raising concerns about their capacity to equip graduates with the necessary competencies for supporting advanced analytics in the industry [35]. The absence of a unified model for business analytics curricula contributes to disparities in the structure and content of educational programs, limiting the effectiveness of these programs in aligning with industry needs [60]. This cluster underscores the necessity for curriculum reform to address these gaps and ensure that educational institutions effectively contribute to developing competitive skills and knowledge.
+
+---

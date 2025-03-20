@@ -1,0 +1,64 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in BUSINESS ANALYTICS EDICATION AND SKILLS DEVELOPMENT. 
+
+
+GOAL:
+Give me suggestions of cluster names based on the provided list of names presented below and the cluster description.
+
+
+CLUSTER DESCRIPTION:
+
+
+INSTRUCTIONS:
+- Do not use "business analytics" in the suggested names.
+- Be sure of the suggested names covers all themes in the provided list of names.
+- The suggested names have at least six words.
+
+
+LIST OF CLUSTER NAMES:
+
+Enhancing Engagement through Experiential Learning
+Integrating Experiential Pedagogy in Analytics
+Experiential Learning for Decision-Making Skills
+Student-Centered Learning Strategies
+Engagement-Focused Learning Approaches
+Experiential Learning and Student Engagement
+Applied Analytics for Student Competence
+Student-Centric Decision-Making Skills
+Bridging Academic and Professional Skills
+Enhancing Learning Outcomes through Experience
+Experiential Learning for Analytics Education
+Student-Centered Analytics Skill Development
+Applied Learning in Analytics Courses
+Student Engagement in Analytics Learning
+Practical Analytics for Student Learning
+Experiential Learning in Decision-Making
+Enhancing Student Engagement in Analytics
+Student-Centered Business Analytics Education
+Experiential Learning and Decision-Making
+Improving Learning Outcomes in Analytics
+Experiential Learning for Decision-Making
+Student-Centered Learning Approaches
+Applied Learning for Analytics Competence
+Building Analytical Decision-Making Proficiency
+Engaging Strategies for Analytics Professionals
+Experiential Learning in Analytics Education
+Practical Applications in Analytics Learning
+Bridging Classroom and Real-World Analytics
+Student Engagement through Experiential Learning
+Collaborative Learning in Analytics Courses
+Experiential Learning in Business Analytics
+Enhancing Student Engagement through Real-World Applications
+Bridging Theory and Practice in Analytics
+Developing Decision-Making Skills in Analytics
+Applied Learning in Business Analytics Education
+Preparing Analytics Professionals through Experiential Learning
+
+
+
+
+

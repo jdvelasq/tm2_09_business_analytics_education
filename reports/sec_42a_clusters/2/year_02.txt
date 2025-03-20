@@ -1,0 +1,452 @@
+---
+
+Record-No: 26
+AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
+TI Business analytics for institutional academic management: A case of South
+   African higher education
+AU Seaba T.R.; Anna Segooa M.; Kalema B.M.; Kekwaletswe R.
+TC 2
+SO 2018 International Conference on Intelligent and Innovative Computing
+   Applications, ICONIC 2018
+PY 2018
+AB DATA_INFRASTRUCTURE and quality are VITAL_ORGANS influencing the health of
+   any organizations and are essential for creating and delivering
+   BUSINESS_INSIGHTS . due to this fact , stakeholders expect a
+   FLAWLESS_EXPERIENCE , real_time solutions and support . however , these
+   expectations are normally too high for it departments that are always
+   immersed with VARIOUS_USERS_REQUESTS . the BIG_DATA_ERA and its ANALYTICS
+   have put organizations in positions to predict and forecast USERS_NEEDS to
+   produce a GREAT_USER_EXPERIENCE . this is achieved through INTUITIVE_DESIGN
+   , error_free coding and QUALITY_PERFORMANCE . there is increasing demand for
+   better BUSINESS_ANALYTICS so as to ENABLE_ORGANIZATIONS establish
+   SOLID_FOUNDATION by building out a DATA_MANAGEMENT_ECOSYSTEM that
+   DELIVERS_FLEXIBILITY and performance required by COGNITIVE_SOLUTIONS . the
+   objective of this paper was to highlight how universities can leverage
+   better ANALYTICS to process amount of continuously generated data from
+   VARIOUS_SOURCES and generate ACTIONABLE_INSIGHTS needed to achieve
+   ACADEMIC_BUSINESS_GOALS . this study followed an INTERPRETIVE_PARADIGM
+   taking a CASE_STUDY of a south AFRICAN_UNIVERSITY and employed
+   semi_structured interviews . this study found that DATA_VALUE and the
+   USE_THEREOF in the MANAGEMENT of ACADEMIC_DIVISIONS of the UNIVERSITY should
+   be consistent with FACULTY_BUSINESS_PLANS . in this way , BUSINESS_ANALYTICS
+   is not haphazardly used but is strategically aligned with FACULTY_PLANS and
+   OVERALL_INSTITUTIONAL STRATEGIC_OBJECTIVES and targets . 2018 ieee .
+DE BUSINESS_ANALYTICS; DECISION_MAKING; INSTITUTIONS_OF_HIGHER_LEARNING;
+   MANAGEMENT
+ID INFORMATION_MANAGEMENT; ACADEMIC_MANAGEMENTS; BUSINESS_ANALYTICS;
+   DATA_INFRASTRUCTURE; DATA_QUALITY; DECISIONS_MAKINGS; HIGH_EDUCATIONS;
+   HIGHER_LEARNING; INSTITUTION_OF_HIGH_LEARNING; REAL_TIME_SOLUTION;
+   USER_NEED; DECISION_MAKING
+** ACADEMIC_BUSINESS_GOALS; ACADEMIC_DIVISIONS; ACADEMIC_MANAGEMENT;
+   ACTIONABLE_INSIGHTS; AFRICAN_UNIVERSITY; BIG_DATA_ERA; BUSINESS_ANALYTICS;
+   BUSINESS_INSIGHTS; CASE_STUDY; COGNITIVE_SOLUTIONS; DATA_INFRASTRUCTURE;
+   DATA_MANAGEMENT_ECOSYSTEM; DATA_VALUE; DELIVERS_FLEXIBILITY;
+   ENABLE_ORGANIZATIONS; FACULTY_BUSINESS_PLANS; FACULTY_PLANS;
+   FLAWLESS_EXPERIENCE; GREAT_USER_EXPERIENCE; INTERPRETIVE_PARADIGM;
+   INTUITIVE_DESIGN; OVERALL_INSTITUTIONAL; QUALITY_PERFORMANCE;
+   REALTIME_SOLUTIONS; SOLID_FOUNDATION; STRATEGIC_OBJECTIVES; USERS_NEEDS;
+   USE_THEREOF; VARIOUS_SOURCES; VARIOUS_USERS_REQUESTS; VITAL_ORGANS
+
+---
+
+Record-No: 39
+AR Morgan J., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
+   V2017-August
+TI Using business analytics to target baseball free agents: A case study
+AU Morgan J.; Ravindran S.
+TC 1
+SO AMCIS 2017 _ America's Conference on Information Systems: A Tradition of
+   Innovation
+PY 2017
+AB this paper presents a scenario for a BUSINESS_ANALYTICS ( ba ) TEACHING_CASE
+   that is targeted at the baseball FREE_AGENT_MARKET . it is presented in a
+   FLEXIBLE_MANNER designed to allow for its use as a multi_part case covering
+   all phases of a DATA_ANALYTICS_PROJECT or a more RESTRICTIVE_CASE where the
+   DATA_COLLECTION has been completed for the STUDENTS and / or only a portion
+   of the analyses described in the case are covered . the case is primarily
+   designed for use by undergraduate or GRADUATE_STUDENTS in BA_COURSES .
+   however , selected portions of the case are suitable for use in a
+   STATISTICS_COURSE or UPPER_DIVISION_GENERAL_MIS_COURSE . it is intended to
+   support the stages of PROBLEM_IDENTIFICATION and PLANNING and the
+   application of ANALYTICS_OUTPUTS to the BUSINESS_DECISION , as well as ,
+   supporting the TECHNICAL_ASPECTS of : DATA_COLLECTION , cleaning , and
+   storage ( ETL ) . application of APPROPRIATE_DATA mining TOOLS to produce
+   ACTIONABLE_RESULTS , and development of user FRIENDLY_VISUALIZATIONS that
+   highlight those results . 2017 ais / icis ADMINISTRATIVE_OFFICE . all rights
+   reserved .
+DE BUSINESS_ANALYTICS; BUSINESS_DECISIONS; DATA_MINING; DATA_VISUALIZATION;
+   ETL; TEACHING_CASE; VISUAL_ANALYTICS
+ID CURRICULA; DATA_ACQUISITION; DATA_MINING; DATA_VISUALIZATION;
+   DIGITAL_STORAGE; INFORMATION_SYSTEMS; INFORMATION_USE; SPORTS; STUDENTS;
+   VISUALIZATION; BUSINESS_ANALYTICS; BUSINESS_DECISIONS; DATA_COLLECTION;
+   DATA_MINING_TOOLS; GRADUATE_STUDENTS; PROBLEM_IDENTIFICATION;
+   TECHNICAL_ASPECTS; VISUAL_ANALYTICS; TEACHING
+** ACTIONABLE_RESULTS; ADMINISTRATIVE_OFFICE; ANALYTICS_OUTPUTS;
+   APPROPRIATE_DATA; BA_COURSES; BUSINESS_ANALYTICS; BUSINESS_DECISION;
+   CASE_STUDY; DATA_ANALYTICS_PROJECT; DATA_COLLECTION; FLEXIBLE_MANNER;
+   FREE_AGENTS; FREE_AGENT_MARKET; FRIENDLY_VISUALIZATIONS; GRADUATE_STUDENTS;
+   MULTIPART_CASE; PROBLEM_IDENTIFICATION; RESTRICTIVE_CASE; STATISTICS_COURSE;
+   TARGET_BASEBALL; TECHNICAL_ASPECTS; UPPER_DIVISION_GENERAL_MIS_COURSE
+
+---
+
+Record-No: 28
+AR Tarasewich P., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
+   V2017-August
+TI Building an online business analytics graduate program
+AU Tarasewich P.; Lee Y.
+TC 0
+SO AMCIS 2017 _ America's Conference on Information Systems: A Tradition of
+   Innovation
+PY 2017
+AB this paper describes the process of designing an ONLINE_MASTER of science in
+   BUSINESS_ANALYTICS ( msba ) . the program was created to provide STUDENTS
+   with the ANALYTICAL_SKILLS , TOOLS , and techniques required to understand
+   data sets , both large and small , from sources internal and external to an
+   organization . this understanding of data can then be used to
+   SUPPORT_BUSINESS_DECISION_MAKING and create a MEASURABLE_IMPROVEMENT in
+   BUSINESS_PERFORMANCE . the PROGRAM_DIFFERENTIATES itself from offerings at
+   other schools by integrating EXPERIENTIAL_LEARNING into each of its courses
+   , and its CURRICULUM is firmly grounded in business . it places an emphasis
+   on the use and INTERPRETATION of data , not on programming or mathematics ,
+   and underscores the benefits of VISUALIZATION during the
+   DATA_ANALYSIS_PROCESS and as a COMMUNICATIONS_TOOL for supporting decisions
+   . an overview of the PROGRAM_CURRICULUM and courses is provided , as well as
+   the reasons behind the choices that were made . 2017 ais / icis
+   ADMINISTRATIVE_OFFICE . all rights reserved .
+DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; DESIGN; ONLINE_DEGREE_PROGRAM
+ID DATA_VISUALIZATION; DECISION_MAKING; DESIGN; INFORMATION_SYSTEMS;
+   INFORMATION_USE; STUDENTS; TEACHING; BUSINESS_ANALYTICS; BUSINESS_DECISIONS;
+   BUSINESS_PERFORMANCE; CURRICULUM_DEVELOPMENT; EXPERIENTIAL_LEARNING;
+   INTERPRETATION_OF_DATA; MASTER_OF_SCIENCE; ONLINE_DEGREE; CURRICULA
+** ADMINISTRATIVE_OFFICE; ANALYTICAL_SKILLS; BUSINESS_ANALYTICS;
+   BUSINESS_PERFORMANCE; COMMUNICATIONS_TOOL; DATA_ANALYSIS_PROCESS;
+   EXPERIENTIAL_LEARNING; MEASURABLE_IMPROVEMENT;
+   ONLINE_BUSINESS_ANALYTICS_GRADUATE_PROGRAM; ONLINE_MASTER;
+   PROGRAM_CURRICULUM; PROGRAM_DIFFERENTIATES; SUPPORT_BUSINESS_DECISION_MAKING
+
+---
+
+Record-No: 57
+AR Saundage D., 2016, J INF SYST EDUC, V27, P233
+TI Teaching data analysis with interactive visual narratives
+AU Saundage D.; Cybulski J.L.; Keller S.; Dharmasena L.
+TC 9
+SO Journal of Information Systems Education
+PY 2016
+AB DATA_ANALYSIS is a MAJOR_PART of BUSINESS_ANALYTICS ( ba ) , which refers to
+   the SKILLS , methods , and technologies that ENABLE_MANAGERS to make swift ,
+   QUALITY_DECISIONS based on LARGE_AMOUNTS of data . ba has become a
+   MAJOR_COMPONENT of INFORMATION_SYSTEMS ( is ) courses all over the world .
+   the challenge for is educators is to teach DATA_ANALYSIS _ the
+   FOUNDATIONAL_BA_CONCEPTS _ to EARLY_YEARS_UNDERGRADUATE_STUDENTS who
+   commonly have an aversion to STATISTICS as well as poor problem_solving
+   SKILLS . this ARTICLE describes the development and evaluation of a
+   LEARNING_INTERVENTION , INTERACTIVE_VISUAL_NARRATIVES ( ivn ) , which is
+   informed by PREVIOUS_RESEARCH into the efficacy of interaction ,
+   VISUALIZATION , and NARRATIVES across a variety of LEARNING contexts . the
+   results suggest that a combination of INTERACTIVE_VISUALIZATIONS and
+   NARRATIVES can improve the acquisition of DATA_ANALYSIS_KNOWLEDGE ,
+   facilitate ESSENTIAL_SKILLS in PROBLEM_ANALYSIS and the application of
+   BA_SOLUTIONS , and ENHANCE_STUDENT_ENGAGEMENT . these findings provide
+   USEFUL_INSIGHTS for improving STUDENTS_LEARNING_OUTCOMES and engagement .
+DE BUSINESS_ANALYTICS; INTERACTIVE_DATA_VISUALIZATION; NARRATIVES
+ID DATA_HANDLING; DATA_VISUALIZATION; EDUCATION; INFORMATION_ANALYSIS;
+   PROBLEM_SOLVING; STUDENTS; TEACHING; VISUALIZATION; BUSINESS_ANALYTICS;
+   INTERACTIVE_VISUALIZATIONS; LARGE_AMOUNTS_OF_DATA; NARRATIVES;
+   PROBLEM_ANALYSIS; PROBLEM_SOLVING_SKILLS; STUDENT_ENGAGEMENT;
+   UNDERGRADUATE_STUDENTS; QUALITY_CONTROL
+** BA_SOLUTIONS; BUSINESS_ANALYTICS; DATA_ANALYSIS; DATA_ANALYSIS_KNOWLEDGE;
+   EARLY_YEARS_UNDERGRADUATE_STUDENTS; ENABLE_MANAGERS;
+   ENHANCE_STUDENT_ENGAGEMENT; ESSENTIAL_SKILLS; FOUNDATIONAL_BA_CONCEPTS;
+   INFORMATION_SYSTEMS; INTERACTIVE_VISUALIZATIONS;
+   INTERACTIVE_VISUAL_NARRATIVES; LARGE_AMOUNTS; LEARNING_INTERVENTION;
+   MAJOR_COMPONENT; MAJOR_PART; PREVIOUS_RESEARCH; PROBLEM_ANALYSIS;
+   QUALITY_DECISIONS; STUDENTS_LEARNING_OUTCOMES; USEFUL_INSIGHTS
+
+---
+
+Record-No: 52
+AR Zadeh A.H., 2016, AMCIS SURFING IT INNOV WAVE AMERICAS CONF INF SYST
+TI Teaching analytics: A demonstration of association discovery with SAS
+   enterprise miner
+AU Zadeh A.H.; Schiller S.; Duffy K.
+TC 2
+SO AMCIS 2016: Surfing the IT Innovation Wave _ 22nd Americas Conference on
+   Information Systems
+PY 2016
+AB in the CURRENT_AGE of DATA_ANALYTICS , there has been a push for the
+   emergence of technologies that allow for INTERACTIVE_ANALYSIS of
+   EXTENSIVE_AMOUNTS of quickly produced , highly varied data . these
+   technologies require people ( nicknamed " DATA_SCIENTISTS " ) from many
+   BUSINESS_DISCIPLINES who are capable of managing and analyzing this data for
+   use in DECISION_MAKING_PROCESSES . in order to educate and train more of
+   these people , there has been an increase in the TEACHING of
+   ANALYTICAL_TOOLS in both MANAGEMENT_INFORMATION_SYSTEMS ( MIS ) and
+   BUSINESS_ANALYTICS ( ba ) programs . this ARTICLE will DESCRIBE_DETAILS of
+   an exercise on BUSINESS_ANALYTICS specially tailored for the introduction to
+   MIS or BA_COURSE . the exercise utilizes a MARKET_BASKET_ANALYSIS for a
+   CASE_SCENARIO in which point_of_sale data will be used to compare
+   DIFFERENT_PRODUCTS . the goal of the exercise is to give STUDENTS hands_on
+   experience with association mining , NETWORK_ANALYSIS , RECOMMENDER_SYSTEMS
+   and VISUALIZATION in order to facilitate higher LEVEL_LEARNING of
+   DATA_ANALYTICS . SAS_ENTERPRISE_MINER is a full_feature stand_alone
+   DATA_ANALYTICS platform that will be used by the STUDENTS to perform the
+   business_centric DATA_ANALYSIS . the MAIN_GOAL for this project is to
+   educate first YEAR_BUSINESS_STUDENTS about the importance and usefulness of
+   DATA_ANALYTICS without discouraging them with EXCESSIVE_COVERAGE of
+   TECHNICAL_SOFTWARE_DETAILS .
+DE BUSINESS_ANALYTICS; DATA_ANALYTICS; HANDS_ON_TRAINING; SAS; TEACHING
+ID BEHAVIORAL_RESEARCH; DATA_VISUALIZATION; DECISION_MAKING; MINERS; STUDENTS;
+   TEACHING; ASSOCIATION_DISCOVERIES; BUSINESS_ANALYTICS; DATA_ANALYTICS;
+   DECISION_MAKING_PROCESS; HANDS_ON_TRAININGS; INTERACTIVE_ANALYSIS;
+   MANAGEMENT_INFORMATION_SYSTEM (MIS); MARKET_BASKET_ANALYSIS;
+   INFORMATION_MANAGEMENT
+** ANALYTICAL_TOOLS; ASSOCIATION_DISCOVERY; BA_COURSE;
+   BUSINESSCENTRIC_DATA_ANALYSIS; BUSINESS_ANALYTICS; BUSINESS_DISCIPLINES;
+   CASE_SCENARIO; CURRENT_AGE; DATA_ANALYTICS; DATA_SCIENTISTS;
+   DECISION_MAKING_PROCESSES; DESCRIBE_DETAILS; DIFFERENT_PRODUCTS;
+   EXCESSIVE_COVERAGE; EXTENSIVE_AMOUNTS;
+   FULLFEATURE_STANDALONE_DATA_ANALYTICS_PLATFORM; INTERACTIVE_ANALYSIS;
+   LEVEL_LEARNING; MAIN_GOAL; MANAGEMENT_INFORMATION_SYSTEMS;
+   MARKET_BASKET_ANALYSIS; NETWORK_ANALYSIS; POINTOFSALE_DATA;
+   RECOMMENDER_SYSTEMS; SAS_ENTERPRISE_MINER; STUDENTS_HANDSON_EXPERIENCE;
+   TECHNICAL_SOFTWARE_DETAILS; YEAR_BUSINESS_STUDENTS
+
+---
+
+Record-No: 17
+AR Swapna G., 2016, AIS SIGED INT CONF IS EDUC RES, V2016-December
+TI Designing a datawarehousing and Business Analytics course using experiential
+   learning pedagogy
+AU Swapna G.; Shankararaman V.
+TC 0
+SO 2016 AIS SIGED International Conference on IS Education and Research
+PY 2016
+AB EXPERIENTIAL_LEARNING_REFERS to LEARNING from experience or LEARNING by
+   doing . universities have explored VARIOUS_FORMS for implementing
+   EXPERIENTIAL_LEARNING such as apprenticeships , internships ,
+   COOPERATIVE_EDUCATION , practicums , SERVICE_LEARNING , job shadowing ,
+   fellowships and COMMUNITY_ACTIVITIES . however , very little has been done
+   in systematically trying to integrate EXPERIENTIAL_LEARNING to the
+   MAIN_STREAM ACADEMIC_CURRICULUM . over the last two years , at the
+   AUTHORS_UNIVERSITY , a NEW_PROGRAM titled uni_x was launched to achieve this
+   . combining ACADEMIC_CURRICULUM with EXPERIENTIAL_LEARNING_PEDAGOGY ,
+   provides a CHALLENGING_ENVIRONMENT for STUDENTS to use their
+   DISCIPLINARY_KNOWLEDGE and SKILLS to tackle REAL_WORLD_PROBLEMS and issues
+   through inter_disciplinary approaches and activities . a course designated
+   as uni_x involves external partners from corporate , non_profit or
+   government_sector organisations . the course requires the STUDENT to learn
+   KNOWLEDGE and SKILLS during the CLASSROOM_SESSIONS and then to apply them in
+   solving a real_world project proposed by the partners . the instructor along
+   with the INDUSTRY_PARTNER_PLAYS an ACTIVE_ROLE in the PROJECT_DESIGN ,
+   mentoring and ASSESSMENT . in this PAPER_CONTRIBUTION , the authors share
+   their experience in designing a DATA_WAREHOUSING and BUSINESS_ANALYTICS (
+   dwba ) course to include EXPERIENTIAL_LEARNING_ACTIVITIES . the paper
+   describes in detail the content , PEDAGOGY , in_course project , challenges
+   and lessons learned when introducing EXPERIENTIAL_LEARNING into an existing
+   course . thus providing one pathway for INFORMATION_SYSTEMS ( is )
+   professors to adapt their ANALYTICS_COURSE to include
+   EXPERIENTIAL_LEARNING_ACTIVITIES . 2016 curran_conference . all rights
+   reserved .
+DE BUSINESS_ANALYTICS; COURSE_DESIGN; DATA_WAREHOUSING; EXPERIENTIAL_LEARNING;
+   PEDAGOGY
+ID APPRENTICES; CURRICULA; DATA_WAREHOUSES; STUDENTS; WAREHOUSES;
+   BUSINESS_ANALYTICS; COMMUNITY_ACTIVITIES; COOPERATIVE_EDUCATION;
+   COURSE_DESIGN; EXPERIENTIAL_LEARNING; LEARNING_FROM_EXPERIENCES; PEDAGOGY;
+   REAL_WORLD_PROJECTS; TEACHING
+** ACADEMIC_CURRICULUM; ACTIVE_ROLE; ANALYTICS_COURSE; AUTHORS_UNIVERSITY;
+   BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_COURSE; CHALLENGING_ENVIRONMENT;
+   CLASSROOM_SESSIONS; COMMUNITY_ACTIVITIES; COOPERATIVE_EDUCATION;
+   DISCIPLINARY_KNOWLEDGE; EXPERIENTIAL_LEARNING;
+   EXPERIENTIAL_LEARNING_ACTIVITIES; EXPERIENTIAL_LEARNING_PEDAGOGY;
+   EXPERIENTIAL_LEARNING_REFERS; GOVERNMENTSECTOR_ORGANISATIONS;
+   INCOURSE_PROJECT; INDUSTRY_PARTNER_PLAYS; INFORMATION_SYSTEMS;
+   INTERDISCIPLINARY_APPROACHES; MAIN_STREAM; NEW_PROGRAM; PAPER_CONTRIBUTION;
+   PROJECT_DESIGN; REALWORLD_PROJECT; REAL_WORLD_PROBLEMS; SERVICE_LEARNING;
+   UNIX_INVOLVES_EXTERNAL_PARTNERS; VARIOUS_FORMS
+
+---
+
+Record-No: 30
+AR Price B.S., 2016, PROC INF SYST EDUC CONF ISECON, P142
+TI Incorporating program-spanning experiential learning into an online/hybrid
+   master of science business data analytics program
+AU Price B.S.; Kleist V.F.; Mcintyre N.
+TC 0
+SO Proceedings of the 33rd Information Systems Education Conference, ISECON
+   2016
+PY 2016
+AB like many newly expanding fields , the INTELLECTUAL_TRADITIONS of
+   DATA_ANALYTICS_INTERSECT many MAJOR_FIELDS . EDUCATION_MODELS_ABOUND in the
+   DATA_ANALYTICS_SPACE , and no one MODEL has yet to have been determined to
+   be optimal . this paper provides an overview of a cross_functional
+   CURRICULUM_DESIGN for DATA_ANALYTICS housed in a BUSINESS_SCHOOL at a major
+   , land_grant UNIVERSITY . the PROGRAM_DESIGN allows for an online / hybrid
+   MASTER_OF_SCIENCE in BUSINESS_DATA_ANALYTICS ( buda ) program as well as an
+   area of emphasis in an MBA_PROGRAM . the program is also designed to partner
+   with other disciplines across the UNIVERSITY . the PROGRAM_INCORPORATES
+   program_spanning EXPERIENTIAL_LEARNING_OPPORTUNITIES for STUDENTS while
+   working on a dedicated set of HIGH_PERFORMANCE computing_based CORE_CLUSTERS
+   . due to the urgency in developing DATA_ANALYTICS_PROGRAMS and the
+   ever_expanding demand for DATA_SCIENTISTS , this paper will benefit
+   educators at other universities who are seeking to develop immediately
+   MARKETABLE_PROGRAMS . 2016 33RD_INFORMATION_SYSTEMS_EDUCATION_CONFERENCE .
+   all rights reserved
+DE BIG_DATA; CURRICULUM_DEVELOPMENT; DATA_ANALYTICS
+ID BIG_DATA; CURRICULA; E_LEARNING; EDUCATION_COMPUTING; INFORMATION_SYSTEMS;
+   INFORMATION_USE; BUSINESS_SCHOOLS; CROSS_FUNCTIONAL; CURRICULUM_DESIGNS;
+   CURRICULUM_DEVELOPMENT; EXPERIENTIAL_LEARNING; HIGH_PERFORMANCE_COMPUTING;
+   MASTER_OF_SCIENCE; PROGRAM_DESIGN; DATA_ANALYTICS
+** 33RD_INFORMATION_SYSTEMS_EDUCATION_CONFERENCE; BUSINESS_DATA_ANALYTICS;
+   BUSINESS_SCHOOL; CORE_CLUSTERS; CROSSFUNCTIONAL_CURRICULUM_DESIGN;
+   DATA_ANALYTICS; DATA_ANALYTICS_INTERSECT; DATA_ANALYTICS_PROGRAMS;
+   DATA_ANALYTICS_SPACE; DATA_SCIENTISTS; EDUCATION_MODELS_ABOUND;
+   EXPERIENTIAL_LEARNING; EXPERIENTIAL_LEARNING_OPPORTUNITIES;
+   HIGH_PERFORMANCE; INTELLECTUAL_TRADITIONS; LANDGRANT_UNIVERSITY;
+   MAJOR_FIELDS; MARKETABLE_PROGRAMS; MBA_PROGRAM; PROGRAM_DESIGN;
+   PROGRAM_INCORPORATES; SCIENCE_BUSINESS_DATA_ANALYTICS
+
+---
+
+Record-No: 24
+AR Balkan S., 2015, COMMUN ASSOC INFO SYST, V37, P586
+TI Teaching predictive model management in MIS classrooms: A tutorial
+AU Balkan S.; Demirkan H.
+TC 1
+SO Communications of the Association for Information Systems
+PY 2015
+AB ANALYTICS has become a KEY_ELEMENT of the BUSINESS_DECISION_PROCESS over the
+   last decade . in today COMPETITIVE_BUSINESS_WORLD , organizations have found
+   out that their data and how they use it can make them much more competitive
+   . according to many RESEARCH_INSTITUTIONS ( e.g., gartner and mckinsey ) ,
+   the WORLDWIDE_MARKET for BUSINESS_ANALYTICS_SOLUTIONS in practice , RESEARCH
+   , and EDUCATION is growing exponentially . as the use of ANALYTICS become
+   widespread , BUSINESS_SCHOOL_GRADUATES_NEED to gain the NECESSARY_KNOWLEDGE
+   and SKILL_SETS to use these assets effectively . in the spirit of
+   ANALYTICAL_THINKING , we developed a practice_oriented BUSINESS_CASE that
+   uses a SAMPLE_SCENARIO , MANAGERIAL_DASHBOARDS , BETTING_TEMPLATES ,
+   MODEL_REPOSITORY and MODEL_PERFORMANCE_MANAGEMENT_METRICS that teaches
+   PREDICTIVE_ANALYTICS_CONCEPTS and DECISION_MAKING with
+   INCOMPLETE_INFORMATION intended for MIS_COURSES . through exercises and
+   interactions , STUDENTS_GAIN the SKILLS , KNOWLEDGE and experience necessary
+   to be become EFFECTIVE_DECISION_MAKERS through applying ANALYTICAL_THINKING
+   . DIGITAL_COPIES of WORKSHOP_LESSON_PLANS with DASHBOARD and
+   DATA_ENTRY_TEMPLATES can be downloaded free of charge from the
+   TERADATA_UNIVERSITY_NETWORK . 2015 by the association for
+   INFORMATION_SYSTEMS .
+DE BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; PREDICTIVE_MODELING
+ID COMPETITIVE_INTELLIGENCE; EDUCATION_COMPUTING; PREDICTIVE_ANALYTICS;
+   STUDENTS; TEACHING; ANALYTICAL_THINKING; BUSINESS_ANALYTICS;
+   COMPETITIVE_BUSINESS; INCOMPLETE_INFORMATION; KNOWLEDGE_AND_EXPERIENCE;
+   MODEL_REPOSITORIES; PREDICTIVE_MODELING; RESEARCH_INSTITUTIONS;
+   DECISION_MAKING
+** BETTING_TEMPLATES; BUSINESS_ANALYTICS_SOLUTIONS; BUSINESS_CASE;
+   BUSINESS_DECISION_PROCESS; BUSINESS_SCHOOL_GRADUATES_NEED;
+   COMPETITIVE_BUSINESS_WORLD; DATA_ENTRY_TEMPLATES; DECISION_MAKING;
+   DIGITAL_COPIES; EFFECTIVE_DECISION_MAKERS; INCOMPLETE_INFORMATION;
+   INFORMATION_SYSTEMS; KEY_ELEMENT; MANAGERIAL_DASHBOARDS; MIS_CLASSROOMS;
+   MIS_COURSES; MODEL_PERFORMANCE_MANAGEMENT_METRICS; MODEL_REPOSITORY;
+   NECESSARY_KNOWLEDGE; PREDICTIVE_ANALYTICS_CONCEPTS;
+   PREDICTIVE_MODEL_MANAGEMENT; RESEARCH_INSTITUTIONS; SAMPLE_SCENARIO;
+   STUDENTS_GAIN; TERADATA_UNIVERSITY_NETWORK; WORKSHOP_LESSON_PLANS;
+   WORLDWIDE_MARKET
+
+---
+
+Record-No: 32
+AR Jalao E.R.L., 2015, PROCEDIA MANUF, V3, P3494
+TI Developing the Manpower Complement for Business Analytics Service
+   Professionals: A Case Study on the Challenges Faced by the Philippines
+AU Jalao E.R.L.
+TC 0
+SO Procedia Manufacturing
+PY 2015
+AB it has been known for a fact that businesses are currently seeking ways to
+   gain a COMPETITIVE_ADVANTAGE over its competitors . majority of these
+   organizations started analysing their HISTORICAL_DATA to find valuable and
+   ACTIONABLE_INSIGHTS to better serve their customers . this leads to the
+   concept of BUSINESS_ANALYTICS ( ba ) . however , ba has not been fully
+   appreciated in the philippines . furthermore , there is a shortage of
+   BA_SERVICE_PROFESSIONALS . to address these issues , an
+   UNDERGRADUATE_SPECIALIZATION_FRAMEWORK is proposed for STUDENTS who want to
+   specialize in ba . hence , PHILIPPINE_COLLEGES and universities are now
+   scrambling to offer courses of ba to supply the growing need of
+   BA_PROFESSIONALS in the philippines . however , several roadblocks and
+   challenges have arose . firstly , COLLEGE_INSTRUCTORS are currently
+   ill_equipped to fully teach all concepts of ba . secondly , the BA_FRAMEWORK
+   is designed such that the concepts are not spread out evenly on all subjects
+   which leads to some concept HEAVY_COURSES while some are LIGHT_COURSES .
+   thirdly , this FRAMEWORK is recommended as a specialization to two bachelor
+   of SCIENCE_PROGRAMS specifically INFORMATION_TECHNOLOGY ( it ) and
+   BUSINESS_ADMINISTRATION ( ba ) . based on the contents of the FRAMEWORK ,
+   POTENTIAL_STUDENTS taking BA_COURSES would not have the PREREQUISITE_TOPICS
+   and concepts to fully appreciate and understand ba . based on this premise ,
+   this paper seeks to discuss the proposed recommendations on addressing these
+   issues specifically : ( 1 ) an introduction of STANDARD_SYLLABI for each
+   BA_COURSE , ( 2 ) requirement of ADDITIONAL_PREREQUISITE_COURSES and ( 3 )
+   institution of the BA_FRAMEWORK to other SUITABLE_UNDERGRADUATE and
+   MASTERS_PROGRAMS . 2015 the authors
+DE BUSINESS_ANALYTICS; CURRICULUM; SERVICES; TEACHING
+** ACTIONABLE_INSIGHTS; ADDITIONAL_PREREQUISITE_COURSES; BA_COURSE; BA_COURSES;
+   BA_FRAMEWORK; BA_PROFESSIONALS; BA_SERVICE_PROFESSIONALS;
+   BUSINESS_ADMINISTRATION; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_SERVICE_PROFESSIONALS; CASE_STUDY; COLLEGE_INSTRUCTORS;
+   COMPETITIVE_ADVANTAGE; HEAVY_COURSES; HISTORICAL_DATA;
+   INFORMATION_TECHNOLOGY; LIGHT_COURSES; MANPOWER_COMPLEMENT;
+   MASTERS_PROGRAMS; PHILIPPINE_COLLEGES; POTENTIAL_STUDENTS;
+   PREREQUISITE_TOPICS; SCIENCE_PROGRAMS; STANDARD_SYLLABI;
+   SUITABLE_UNDERGRADUATE; UNDERGRADUATE_SPECIALIZATION_FRAMEWORK
+
+---
+
+Record-No: 40
+AR Ghosh B., 2015, CSEDU INT CONF COMPUT SUPPORT EDUC PROC, V2, P5
+TI Project based learning to support enterprise busineß analytics education:
+   The Role of Croß Functional Groups to Enhance Cognitive Outcomes
+AU Ghosh B.
+TC 0
+SO CSEDU 2015 _ 7th International Conference on Computer Supported Education,
+   Proceedings
+PY 2015
+AB ENTERPRISE_BUSINE_ANALYTICS ( ba ) TOOLS have gained SIGNIFICANT_ATTENTION
+   as a VIABLE_OPTION for manipulating LARGE_DATA sets during
+   COMPLEX_BUSINE_DECISION_MAKING . however , the cro_functional , boundary
+   spanning nature of these applications make them particularly difficult to
+   learn for users , who predominantly work in FUNCTIONAL_SILOS . a
+   TYPICAL_ENTERPRISE_BA_PROJECT_INVOLVES aggregating LARGE_DATASETS from
+   MULTIPLE_FUNCTIONAL_AREAS , discovering relationships in the data and
+   BUILDING_MODELS to help visualize and evaluate the selected
+   KEY_PERFORMANCE_INDICATORS ( kpi ) . however , most BA_LEARNING_PROGRAMS
+   emphasize TOOL_PROCEDURAL or SKILL based KNOWLEDGE , which does not allow
+   END_USERS to understand the BROADER_SCOPE of
+   ENTERPRISE_ANALYTICS_PROJECT_IMPLEMENTATIONS . cro FUNCTIONAL_GROUP_PROJECT
+   based LEARNING_PROGRAMS are needed to provide REAL_WORLD_EXPERIENCES ,
+   increasing the END_USER_MOTIVATION to learn and enhancing their
+   COGNITIVE_OUTCOMES . there is also a need to create validated models to ae
+   the outcomes of these LEARNING_PROGRAMS . this RESEARCH_STUDY develops and
+   conducts an INNOVATIVE_PROJECT based LEARNING program among the users of a
+   leading ERP_VENDOR_ANALYTICS_TOOL and collects SURVEY_DATA to confirm the
+   benefits of SUCH_GROUP_PROJECT based LEARNING_PROGRAMS in enhancing the
+   PARTICIPANT_MOTIVATION to learn and improving their COGNITIVE_OUTCOMES that
+   emphasize cro FUNCTIONAL_CONCEPTS .
+DE BUSINESS_ANALYTICS; COGNITIVE_OUTCOMES; MOTIVATION_THEORY;
+   PROJECT_BASED_LEARNING
+ID BENCHMARKING; DECISION_MAKING; HUMAN_COMPUTER_INTERACTION; MOTIVATION;
+   SURVEYS; COGNITIVE_OUTCOMES; ENTERPRISE_ANALYTICS; INNOVATIVE_PROJECTS;
+   KEY_PERFORMANCE_INDICATORS; MOTIVATION_THEORIES; PROJECT_BASED_LEARNING;
+   PROJECT_IMPLEMENTATION; REAL_WORLD_EXPERIENCE; E_LEARNING
+** BA_LEARNING_PROGRAMS; BROADER_SCOPE; BUILDING_MODELS; COGNITIVE_OUTCOMES;
+   COMPLEX_BUSINE_DECISION_MAKING; END_USERS; END_USER_MOTIVATION;
+   ENHANCE_COGNITIVE_OUTCOMES; ENTERPRISE_ANALYTICS_PROJECT_IMPLEMENTATIONS;
+   ENTERPRISE_BUSINE_ANALYTICS; ERP_VENDOR_ANALYTICS_TOOL; FUNCTIONAL_CONCEPTS;
+   FUNCTIONAL_GROUPS; FUNCTIONAL_GROUP_PROJECT; FUNCTIONAL_SILOS;
+   INNOVATIVE_PROJECT; KEY_PERFORMANCE_INDICATORS; LARGE_DATA; LARGE_DATASETS;
+   LEARNING_PROGRAMS; MULTIPLE_FUNCTIONAL_AREAS; PARTICIPANT_MOTIVATION;
+   REAL_WORLD_EXPERIENCES; RESEARCH_STUDY; SIGNIFICANT_ATTENTION;
+   SUCH_GROUP_PROJECT; SUPPORT_ENTERPRISE_BUSINE_ANALYTICS_EDUCATION;
+   SURVEY_DATA; TOOL_PROCEDURAL; TYPICAL_ENTERPRISE_BA_PROJECT_INVOLVES;
+   VIABLE_OPTION
+
+
+---

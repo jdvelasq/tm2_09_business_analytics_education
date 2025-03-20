@@ -1,0 +1,373 @@
+---
+
+Record-No: 66
+AR Mashayekhi M., 2020, AM CONF INF SYST AMCIS
+TI Toward designing a business analytics model curriculum for undergraduate
+   business students
+AU Mashayekhi M.; Yetgin E.; Shen J.
+TC 0
+SO 26th Americas Conference on Information Systems, AMCIS 2020
+PY 2020
+AB BUSINESS_ANALYTICS ( ba ) has become a source of COMPETITIVE_ADVANTAGES for
+   companies . while there is a MASSIVE_AMOUNT of data available to companies ,
+   only a SMALL_PORTION of it can actually be analyzed . lack of employees with
+   the RIGHT_ANALYTICAL_SKILLS is a PRIMARY_REASON for that . as the need for
+   professionals with BA_SKILLS has grown , universities have launched dozens
+   of BA_PROGRAMS to supply those professionals . however , there is no
+   BA_MODEL_CURRICULUM for UNDERGRADUATE_PROGRAMS , which makes it difficult
+   for employers to make any expectations in regard to SKILLS acquired when a
+   STUDENT_GRADUATES from these programs . as such , the MAIN_OBJECTIVE of this
+   RESEARCH is to propose a MODEL_CURRICULUM for an UNDERGRADUATE_BA_MAJOR .
+   using a KNOWLEDGE , SKILLS , abilities ( ksas ) FRAMEWORK , we aim to find
+   what ksas should be taught to UNDERGRADUATE_STUDENTS and what courses should
+   be included in a BA_CURRICULUM . 2020 26TH_AMERICAS_CONFERENCE on
+   INFORMATION_SYSTEMS , amcis 2020 . all rights reserved .
+ID ADVANCED_ANALYTICS; COMPETITION; CURRICULA; INFORMATION_SYSTEMS;
+   INFORMATION_USE; ANALYTICAL_SKILLS; BA_MODEL; BUSINESS_ANALYTICS;
+   COMPETITIVE_ADVANTAGE; MODEL_CURRICULUM; UNDERGRADUATE_PROGRAM;
+   UNDERGRADUATE_STUDENTS; STUDENTS
+** 26TH_AMERICAS_CONFERENCE; BA_CURRICULUM; BA_MODEL_CURRICULUM; BA_PROGRAMS;
+   BA_SKILLS; BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_MODEL_CURRICULUM;
+   COMPETITIVE_ADVANTAGES; INFORMATION_SYSTEMS; MAIN_OBJECTIVE; MASSIVE_AMOUNT;
+   MODEL_CURRICULUM; PRIMARY_REASON; RIGHT_ANALYTICAL_SKILLS; SMALL_PORTION;
+   STUDENT_GRADUATES; UNDERGRADUATE_BA_MAJOR; UNDERGRADUATE_BUSINESS_STUDENTS;
+   UNDERGRADUATE_PROGRAMS; UNDERGRADUATE_STUDENTS
+
+---
+
+Record-No: 79
+AR Jeyaraj A., 2019, J INF SYST EDUC, V30, P67
+TI Teaching Tip: Pedagogy for business analytics courses
+AU Jeyaraj A.
+TC 16
+SO Journal of Information Systems Education
+PY 2019
+AB responding to the INDUSTRY_NEED for professionals to employ data_driven
+   decision_making , EDUCATIONAL_INSTITUTIONS offer courses in
+   BUSINESS_ANALYTICS ( ba ) . since BA_PROFESSIONALS require a UNIQUE_SET of
+   SKILLS different from those found in SPECIFIC_BUSINESS_DISCIPLINES , a
+   PEDAGOGICAL_FRAMEWORK to impart SUCH_KNOWLEDGE and SKILLS was developed .
+   the FRAMEWORK_ENCOMPASSES MULTIPLE_STAGES related to data _ acquisition ,
+   preparation , analysis , VISUALIZATION , and INTERPRETATION _ and provides
+   an end_to_end LEARNING experience for STUDENTS . it enables STUDENTS to gain
+   related KNOWLEDGE and SKILLS including PYTHON scripting , DATA_CLEANSING ,
+   STATISTICAL_MODELING , VISUALIZATION , and INTERPRETATION , which provide a
+   SOLID_FOUNDATION for PROFESSIONAL_ENDEAVORS in ba . 2019 by the
+   INFORMATION_SYSTEMS & computing ACADEMIC_PROFESSIONALS , inc . ( iscap ) .
+DE BUSINESS_ANALYTICS; DATA_ACQUISITION; DATA_VISUALIZATION; PEDAGOGY
+ID ADVANCED_ANALYTICS; DATA_ACQUISITION; DECISION_MAKING; STUDENTS;
+   VISUALIZATION; BUSINESS_ANALYTICS; DATA_CLEANSING; DATA_DRIVEN_DECISION;
+   EDUCATIONAL_INSTITUTIONS; LEARNING_EXPERIENCES; MULTIPLE_STAGES; PEDAGOGY;
+   STATISTICAL_MODELING; DATA_VISUALIZATION
+** ACADEMIC_PROFESSIONALS; BA_PROFESSIONALS; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_COURSES; DATA_ACQUISITION; EDUCATIONAL_INSTITUTIONS;
+   EMPLOY_DATADRIVEN; ENDTOEND_LEARNING_EXPERIENCE; FRAMEWORK_ENCOMPASSES;
+   INDUSTRY_NEED; INFORMATION_SYSTEMS; INTERPRETATION; MULTIPLE_STAGES;
+   PEDAGOGICAL_FRAMEWORK; PROFESSIONAL_ENDEAVORS; SOLID_FOUNDATION;
+   SPECIFIC_BUSINESS_DISCIPLINES; SUCH_KNOWLEDGE; UNIQUE_SET
+
+---
+
+Record-No: 3
+AR Wang S., 2019, J INF SYST EDUC, V30, P19
+TI Teaching tip a teaching module of database-centric online analytical process
+   for MBA business analytics programs
+AU Wang S.; Wang H.
+TC 12
+SO Journal of Information Systems Education
+PY 2019
+AB BUSINESS_SCHOOLS are increasingly establishing
+   MBA_BUSINESS_ANALYTICS_PROGRAMS . this ARTICLE_DISCUSSES the importance of a
+   SUFFICIENT_BODY of KNOWLEDGE about databases for
+   MBA_BUSINESS_ANALYTICS_STUDENTS . it presents the PEDAGOGICAL_DESIGN and the
+   TEACHING_METHOD of a module of database_centric olap (
+   ONLINE_ANALYTICAL_PROCESS ) for an MBA_BUSINESS_ANALYTICS_COURSE when a
+   STANDALONE_DATABASE_COURSE is infeasible for the MBA_BUSINESS_ANALYTICS
+   program . the TEACHING_MODULE includes KEY_DATABASE_CONCEPTS for
+   BUSINESS_ANALYTICS , a tutorial on database_centric olap , and a
+   database_centric olap exercise assignment . the TEACHING_MODULE_DEMANDS
+   about a half_credit_hour workload and can be embedded in a three_credit_hour
+   MBA_BUSINESS_ANALYTICS_COURSE . iscap_information systems and computing
+   ACADEMIC_PROFESSIONALS .
+DE BIG_DATA; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE;
+   CURRICULUM_DESIGN_AND_DEVELOPMENT; DATA_MANAGEMENT; NORTHWIND_DATABASE
+ID ADVANCED_ANALYTICS; BIG_DATA; COMPETITIVE_INTELLIGENCE; DATABASE_SYSTEMS;
+   E_LEARNING; INFORMATION_MANAGEMENT; TEACHING; BODY_OF_KNOWLEDGE;
+   BUSINESS_ANALYTICS; BUSINESS_SCHOOLS; CURRICULUM_DESIGNS; DATABASE_COURSE;
+   ON_LINE_ANALYTICAL_PROCESS; PEDAGOGICAL_DESIGNS; TEACHING_METHODS; CURRICULA
+** ACADEMIC_PROFESSIONALS; ARTICLE_DISCUSSES; BUSINESS_ANALYTICS;
+   BUSINESS_SCHOOLS; DATABASECENTRIC_OLAP;
+   DATABASECENTRIC_ONLINE_ANALYTICAL_PROCESS; HALFCREDITHOUR_WORKLOAD;
+   ISCAPINFORMATION_SYSTEMS; KEY_DATABASE_CONCEPTS; MBA_BUSINESS_ANALYTICS;
+   MBA_BUSINESS_ANALYTICS_COURSE; MBA_BUSINESS_ANALYTICS_PROGRAMS;
+   MBA_BUSINESS_ANALYTICS_STUDENTS; ONLINE_ANALYTICAL_PROCESS;
+   PEDAGOGICAL_DESIGN; STANDALONE_DATABASE_COURSE; SUFFICIENT_BODY;
+   TEACHING_METHOD; TEACHING_MODULE; TEACHING_MODULE_DEMANDS;
+   THREECREDITHOUR_MBA_BUSINESS_ANALYTICS_COURSE
+
+---
+
+Record-No: 82
+AR Haywood M.E., 2019, INT J EDUC MANAGE, V33, P86
+TI Building a culture of business analytics: a marketing analytics exercise
+AU Haywood M.E.; Mishra A.
+TC 11
+SO International Journal of Educational Management
+PY 2019
+AB purpose : the purpose of this paper is to describe how BRIEF_EXERCISES in
+   introductory and advanced marketing courses can help BUSINESS_STUDENTS
+   achieve a BROADER_UNDERSTANDING of what BIG_DATA and DATA_ANALYTICS mean in
+   the workplace . these SHORT_ANALYTICS_PROBLEMS fit into the culture that we
+   are building at our institution to create ANALYTICS_CASES for courses within
+   our BUSINESS_CURRICULUM . DESIGN / methodology / approach : a DATABASE of
+   1,500 CUSTOMER_REVIEWS for a fictitious sporting company was created . two
+   exercises based on text mining and SENTIMENT_ANALYSIS were developed to be
+   tested in introductory and advanced marketing course . STUDENTS were
+   introduced to the BASIC_CONCEPTS used in DATA_ANALYSIS and the creation of
+   R_CODE for extracting SENTIMENT_WORDS was demonstrated . STUDENTS then used
+   PIVOT_TABLES to IDENTIFY_PATTERNS in the given data set . STUDENTS in the
+   INTRODUCTORY_COURSE completed a short exercise while the STUDENTS in the
+   advanced class developed a detailed memo . findings : results suggest that
+   STUDENTS in the INTRODUCTORY_COURSE are significantly more aware of the use
+   of data in the industry as well as methods to deal with BIG_DATA after
+   completing the exercise as compared to their KNOWLEDGE at the beginning of
+   the exercise . STUDENTS in the advanced course are able to IDENTIFY_PATTERNS
+   , detect shortcoming and propose STRATEGIC_PLANS based on their analysis of
+   the data . originality / VALUE : proposed exercises in the study are
+   developed with an aim to help BUSINESS_SCHOOLS develop a CULTURE_SUPPORTIVE
+   of ANALYTICS . the purpose of these exercises is to make STUDENTS aware of
+   the importance of BIG_DATA and ANALYTICS early on in their CURRICULUM and
+   reinforce their exposure in an advanced course . 2019 , emerald publishing
+   limited .
+DE BIG_DATA; MARKETING_CURRICULUM
+** ANALYTICS_CASES; BASIC_CONCEPTS; BIG_DATA; BRIEF_EXERCISES;
+   BROADER_UNDERSTANDING; BUSINESS_ANALYTICS; BUSINESS_CURRICULUM;
+   BUSINESS_SCHOOLS; BUSINESS_STUDENTS; CULTURE_SUPPORTIVE; CUSTOMER_REVIEWS;
+   DATA_ANALYSIS; DATA_ANALYTICS; IDENTIFY_PATTERNS; INTRODUCTORY_COURSE;
+   PIVOT_TABLES; R_CODE; SENTIMENT_ANALYSIS; SENTIMENT_WORDS;
+   SHORT_ANALYTICS_PROBLEMS; STRATEGIC_PLANS
+
+---
+
+Record-No: 18
+AR Jena R.K., 2019, COMPUT HUM BEHAV, V92, P716
+TI Understanding academic achievement emotions towards business analytics
+   course: A case study among business management students from India
+AU Jena R.K.
+TC 4
+SO Computers in Human Behavior
+PY 2019
+AB across business , industry , GOVERNMENT and other areas of HUMAN_ENDEAVOR ,
+   VAST_AMOUNTS of data are being accumulated and processed to develop
+   understanding of PEOPLE_ACTIVITIES , and to
+   OPTIMIZE_ORGANIZATIONAL_PROCESSES and outputs . BUSINESS_ANALYTIC related
+   technologies are playing MAJOR_ROLES in providing USEFUL_INSIGHTS from
+   VAST_AMOUNT of data . therefore BUSINESS_ANALYTIC_PROGRAMS are becoming more
+   popular among BUSINESS_MANAGEMENT_GRADUATES . in the other hand , due to the
+   TECHNICAL_NATURE of the course , it create a FEAR among
+   YOUNG_MANAGEMENT_STUDENTS . therefore , the MAJOR_OBJECTIVES of the RESEARCH
+   were threefold . ( 1 ) to known about how STUDENTS perceived values ,
+   ACADEMIC_ACHIEVEMENT_EMOTIONS and PERCEIVED_SUCCESS are interrelated in
+   LEARNING BUSINESS_ANALYTIC_COURSES , ( 2 ) to assess the mediating role of
+   ACHIEVEMENT_EMOTION on the relationship between the perceived VALUE and
+   SUCCESS , ( 3 ) the purpose of this study was also to access the moderating
+   effect of ACADEMIC_BACKGROUND ( technical , non_technical ) and GENDER (
+   MALE , FEMALE ) on the mediating relationship between VALUE , and
+   PERCEIVED_SUCCESS via ACHIEVEMENT_EMOTION . SURVEY_DATA from 372
+   GRADUATE_BUSINESS_MANAGEMENT_STUDENTS revealed the SIGNIFICANT_DIFFERENCE of
+   VALUE , emotion and PERCEIVED_SUCCESS with respect to ACADEMIC_BACKGROUND
+   and GENDER . furthermore , it was found that the enjoyment ( one of the
+   dimension of emotions ) significantly mediate the relationship between VALUE
+   and STUDENTS PERCEIVED_SUCCESS in BUSINESS_ANALYTIC . it was also found that
+   ACADEMIC_BACKGROUND played a MAJOR_MODERATOR_ROLE in the direct and indirect
+   ( via emotion ) relation between perceived VALUE and PERCEIVED_SUCCESS .
+   2018 ELSEVIER_LTD
+DE ACHIEVEMENT_EMOTION; BUSINESS_ANALYTICS; INDIA; MODERATED_MEDIATING_EFFECT;
+   PERCEIVED_SUCCESS; VALUE
+ID ADVANCED_ANALYTICS; STUDENTS; ACHIEVEMENT_EMOTION; BUSINESS_ANALYTICS;
+   INDIA; MEDIATING_EFFECT; PERCEIVED_SUCCESS; VALUE; ACADEMIC_ACHIEVEMENT;
+   ADULT; ARTICLE; FEAR; FEMALE; GENDER; HUMAN; HUMAN_EXPERIMENT; INDIA;
+   LEARNING; MAJOR_CLINICAL_STUDY; MALE; STUDENT; BEHAVIORAL_RESEARCH
+** ACADEMIC_ACHIEVEMENT_EMOTIONS; ACADEMIC_BACKGROUND; ACHIEVEMENT_EMOTION;
+   BUSINESS_ANALYTIC; BUSINESS_ANALYTICS_COURSE; BUSINESS_ANALYTIC_COURSES;
+   BUSINESS_ANALYTIC_PROGRAMS; BUSINESS_MANAGEMENT_GRADUATES;
+   BUSINESS_MANAGEMENT_STUDENTS; CASE_STUDY; ELSEVIER_LTD;
+   GRADUATE_BUSINESS_MANAGEMENT_STUDENTS; HUMAN_ENDEAVOR; MAJOR_MODERATOR_ROLE;
+   MAJOR_OBJECTIVES; MAJOR_ROLES; OPTIMIZE_ORGANIZATIONAL_PROCESSES;
+   PEOPLE_ACTIVITIES; SIGNIFICANT_DIFFERENCE; SURVEY_DATA; TECHNICAL_NATURE;
+   USEFUL_INSIGHTS; VAST_AMOUNT; VAST_AMOUNTS; YOUNG_MANAGEMENT_STUDENTS
+
+---
+
+Record-No: 33
+AR Al-Haddad S., 2019, J EDU BUS, V94, P92
+TI Teaching information technology alongside business analytics: Case study
+AU Al-Haddad S.; Thorne B.; Ahmed V.; Sause W.
+TC 4
+SO Journal of Education for Business
+PY 2019
+AB BUSINESS_ANALYTICS can be described as the STATISTICAL_ANALYSIS of data to
+   make decisions and MEANINGFUL_CONCLUSIONS . as the demand to advance the
+   CURRICULUM of UNDERGRADUATE_BUSINESS_EDUCATION_INCREASES , courses in
+   BUSINESS_ANALYTICS_AIM to provide STUDENTS with FUNDAMENTAL_SKILLS in
+   critical thinking . educators have found that SPREADSHEET_APPLICATIONS that
+   include STATISTICAL_FEATURES are easy to use and FACILITATE_STUDENT_LEARNING
+   . the authors analyzed STUDENT_PERFORMANCE in an
+   INTRODUCTORY_BUSINESS_ANALYTICS_COURSE that used MICROSOFT_EXCEL as a
+   STATISTICAL_TOOL by comparing scores from this INTRODUCTORY_COURSE with
+   those from an INFORMATION_TECHNOLOGY_COURSE in which only EXCEL_SKILLS were
+   learned . 2018 , 2018 taylor & FRANCIS_GROUP , llc .
+DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; EDUCATION; MICROSOFT_EXCEL;
+   STATISTICS
+** BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_AIM; CASE_STUDY; EXCEL_SKILLS;
+   FACILITATE_STUDENT_LEARNING; FRANCIS_GROUP; FUNDAMENTAL_SKILLS;
+   INFORMATION_TECHNOLOGY; INFORMATION_TECHNOLOGY_COURSE;
+   INTRODUCTORY_BUSINESS_ANALYTICS_COURSE; INTRODUCTORY_COURSE;
+   MEANINGFUL_CONCLUSIONS; MICROSOFT_EXCEL; SPREADSHEET_APPLICATIONS;
+   STATISTICAL_ANALYSIS; STATISTICAL_FEATURES; STATISTICAL_TOOL;
+   STUDENT_PERFORMANCE; UNDERGRADUATE_BUSINESS_EDUCATION_INCREASES
+
+---
+
+Record-No: 59
+AR Yaman T.T., 2019, PROC INT CONF DATA SCI BUS ANAL ICDSBA, P152
+TI Is Business Analytics Education Sufficient in Business Schools?  The Case in
+   Turkish Business Schools
+AU Yaman T.T.; Bilgic E.
+TC 1
+SO Proceedings _ 2019 3rd International Conference on Data Science and Business
+   Analytics, ICDSBA 2019
+PY 2019
+AB undergraduate and GRADUATE_PROGRAMS conducted with the names of
+   BUSINESS_ANALYTICS , DATA_ANALYTICS , BIG_DATA_ANALYTICS and
+   BUSINESS_INTELLIGENCE have become one of the most discussed topics both in
+   academia and in the MARKET_NOVADAYS . this CURRENT_DISCUSSION is due to the
+   increasing importance of the MANAGEMENT and analysis of BIG_DATA , which has
+   emerged as a result of developments in INFORMATION_TECHNOLOGY and science .
+   in order to meet the needs of both academy and the companies about how to
+   take advantage of BIG_DATA , many universities in europe and usa have
+   established ANALYTICS related GRADUATE_PROGRAMS . this PAPER_INVESTIGATES
+   RECENT_ANALYTICS related programs in turkey and determines whether these
+   programs can meet the needs and demands of the companies by considering the
+   literature on ANALYTICS_EDUCATION and assessing a MATURITY_SCORE based on
+   the offered ANALYTICS related classes . 2019 ieee .
+DE ANALYTICS_EDUCATION; BIG_DATA_ANALYTICS; BUSINESS_ANALYTICS; DATA_ANALYTICS
+ID BIG_DATA; DATA_ANALYTICS; BUSINESS_ANALYTICS; BUSINESS_SCHOOLS;
+   GRADUATE_PROGRAM; TURKISHS; ADVANCED_ANALYTICS
+** ANALYTICS_EDUCATION; BIG_DATA; BIG_DATA_ANALYTICS; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_EDUCATION; BUSINESS_INTELLIGENCE; BUSINESS_SCHOOLS;
+   CURRENT_DISCUSSION; DATA_ANALYTICS; GRADUATE_PROGRAMS;
+   INFORMATION_TECHNOLOGY; MARKET_NOVADAYS; MATURITY_SCORE; PAPER_INVESTIGATES;
+   RECENT_ANALYTICS; TURKISH_BUSINESS_SCHOOLS
+
+---
+
+Record-No: 69
+AR Lu J., 2019, LECT NOTES COMPUT SCI, V11331 LNCS, P116
+TI Data science in the business environment: Skills analytics for curriculum
+   development
+AU Lu J.
+TC 1
+SO Lecture Notes in Computer Science (including subseries Lecture Notes in
+   Artificial Intelligence and Lecture Notes in Bioinformatics)
+PY 2019
+AB DATA_SCIENCE is an INTERDISCIPLINARY_FIELD of methods , processes ,
+   algorithms and systems to EXTRACT_KNOWLEDGE or insights from data .
+   UNIVERSITY of WINCHESTER_BUSINESS_SCHOOL , uk is developing an
+   UNDERGRADUATE_DEGREE_PROGRAMME in DATA_SCIENCE which brings together
+   student_centred and business_driven approaches : positioning the course for
+   the interests of STUDENTS and requirements of employers . the NEW_PROGRAMME
+   follows the expectations of RELEVANT_SUBJECT_BENCHMARK_STATEMENTS and is
+   built on activities which focus on DIFFERENT_ASPECTS of DATA_SCIENCE ,
+   drawing on some existing modules as a base . it INTEGRATES_KEY_THEMES in
+   INFORMATION_MANAGEMENT , DATA_MINING , MACHINE_LEARNING and
+   BUSINESS_INTELLIGENCE . this paper presents the ongoing development of the
+   DATA_SCIENCE_PROGRAMME through the KEY_ASPECTS in its conception and DESIGN
+   . understanding the EMPLOYMENT_MARKET while defining SPECIFIC_SKILLS sets
+   associated with POTENTIAL_GRADUATES is always important for courses in
+   HIGHER_EDUCATION . the SKILLS_FRAMEWORK for the INFORMATION_AGE ( SFIA ) has
+   been adopted and a novel mapping proposed for the INTERPRETATION of
+   EMPLOYABILITY_SKILLS related to DATA_SCIENCE . these are then linked to an
+   adapted PROCESS_MODEL as well as the SPECIALIST_MODULES across
+   ACADEMIC_LEVELS . SPRINGER_NATURE_SWITZERLAND_AG 2019 .
+DE ANALYTICAL_TOOLS; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; DATA_MINING;
+   MACHINE_LEARNING; SFIA; SKILLS_FRAMEWORKS; SUBJECT_BENCHMARKS
+ID COMPETITIVE_INTELLIGENCE; CURRICULA; DATA_SCIENCE; EDUCATION_COMPUTING;
+   EMPLOYMENT; INFORMATION_MANAGEMENT; LEARNING_SYSTEMS; MACHINE_LEARNING;
+   STUDENTS; ANALYTICAL_TOOL; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
+   CURRICULUM_DEVELOPMENT; INTERDISCIPLINARY_FIELDS; SFIA; SKILLS_FRAMEWORKS;
+   UNDERGRADUATE_DEGREES; DATA_MINING
+** ACADEMIC_LEVELS; BUSINESSDRIVEN_APPROACHES; BUSINESS_ENVIRONMENT;
+   BUSINESS_INTELLIGENCE; CURRICULUM_DEVELOPMENT; DATA_SCIENCE;
+   DATA_SCIENCE_PROGRAMME; DIFFERENT_ASPECTS; EMPLOYABILITY_SKILLS;
+   EMPLOYMENT_MARKET; EXTRACT_KNOWLEDGE; INFORMATION_AGE;
+   INFORMATION_MANAGEMENT; INTEGRATES_KEY_THEMES; INTERDISCIPLINARY_FIELD;
+   KEY_ASPECTS; MACHINE_LEARNING; NEW_PROGRAMME; POTENTIAL_GRADUATES;
+   PROCESS_MODEL; RELEVANT_SUBJECT_BENCHMARK_STATEMENTS; SKILLS_ANALYTICS;
+   SKILLS_FRAMEWORK; SPECIALIST_MODULES; SPECIFIC_SKILLS;
+   SPRINGER_NATURE_SWITZERLAND_AG; UNDERGRADUATE_DEGREE_PROGRAMME;
+   WINCHESTER_BUSINESS_SCHOOL
+
+---
+
+Record-No: 14
+AR Leclair D., 2018, MARK EDUC REV, V28, P6
+TI Integrating Business Analytics in the Marketing Curriculum: Eight
+   Recommendations
+AU Leclair D.
+TC 32
+SO Marketing Education Review
+PY 2018
+AB advances in technology and marketing practice have left little doubt that
+   ANALYTICS must be integrated into the MARKETING_CURRICULUM , the question
+   for many educators now is how to best to do so . while the response for each
+   school will depend on its mission and context , as well as its strategies
+   and resources , there already is much that can be learned from experiences
+   across the BUSINESS_EDUCATION_INDUSTRY . this ARTICLE_DRAWS on these
+   experiences to offer eight recommendations across FOURS_AREAS of the
+   MARKETING_CURRICULUM , including content , PEDAGOGY , structure , and
+   purpose . a WIDE_RANGE of IMPORTANT_ISSUES are considered in the process ,
+   including the role of EXPERIENTIAL_LEARNING and blended LEARNING , balance
+   of TECHNICAL_KNOWLEDGE and SOFT_SKILLS , rise of badges and other non_degree
+   credentials , importance of ethics , and challenges related to
+   PROGRAM_SUSTAINABILITY . 2018 , copyright 2018 society for marketing
+   advances .
+** ARTICLE_DRAWS; BUSINESS_ANALYTICS; BUSINESS_EDUCATION_INDUSTRY;
+   EXPERIENTIAL_LEARNING; FOURS_AREAS; IMPORTANT_ISSUES; NONDEGREE_CREDENTIALS;
+   PROGRAM_SUSTAINABILITY; SOFT_SKILLS; TECHNICAL_KNOWLEDGE; WIDE_RANGE
+
+---
+
+Record-No: 44
+AR Rezaee Z., 2018, J EMERG TECHNOL ACCOUNT, V15, P183
+TI Application of time series analyses in big data: Practical, research, and
+   education implications
+AU Rezaee Z.; Dorestani A.; Aliabadi S.
+TC 25
+SO Journal of Emerging Technologies in Accounting
+PY 2018
+AB the application of BIG_DATA and TIME_SERIES_MODELS is currently at an
+   EARLY_STAGE . this PAPER_EXAMINES the relevance and use of
+   TIME_SERIES_ANALYSES for BIG_DATA and BUSINESS_ANALYTICS by discussing the
+   emergence of BIG_DATA in business , presenting TIME_SERIES_MODELS , and
+   providing an example of how TIME_SERIES_MODELS can be efficiently and
+   effectively applied in accounting and auditing using BIG_DATA . using
+   SOPHISTICATED_BIG_DATA and TIME_SERIES_MODELS , millions of transactions can
+   be searched to spot patterns and DETECT_ABNORMALITIES and irregularities .
+   the TIME_SERIES_MODEL and BIG_DATA_ANALYSIS presented in this paper provide
+   policy , practical , educational , and RESEARCH_IMPLICATIONS . businesses
+   and MANAGEMENT can use our suggested TIME_SERIES_MODEL and BIG_DATA_ANALYSIS
+   in their PREDICTIVE_MODELS of MANAGERIAL_STRATEGIES , decisions , and
+   actions . BUSINESS_SCHOOLS and accounting programs can integrate the
+   TIME_SERIES_MODEL , BIG_DATA , and DATA_ANALYTICS into business and
+   ACCOUNTING_EDUCATION . 2018 , american accounting association . all rights
+   reserved .
+DE BIG_DATA; BUSINESS_ANALYTICS; DATA_ANALYTICS; TIME_SERIES
+** BIG_DATA; BIG_DATA_ANALYSIS; BUSINESS_ANALYTICS; BUSINESS_SCHOOLS;
+   DATA_ANALYTICS; DETECT_ABNORMALITIES; EARLY_STAGE; EDUCATION_IMPLICATIONS;
+   MANAGERIAL_STRATEGIES; PAPER_EXAMINES; PREDICTIVE_MODELS;
+   RESEARCH_IMPLICATIONS; SOPHISTICATED_BIG_DATA; TIME_SERIES_ANALYSES;
+   TIME_SERIES_MODEL; TIME_SERIES_MODELS
+
+
+---

@@ -1,0 +1,53 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. 
+
+
+GOAL:
+You must write one paragraph explaining the definition, impact and importance of BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT using the provided abstracts. The paragraph is of interest for the readers of the target journal. 
+
+
+LENGTH:
+The paragraph has a maixmum of 250 words.
+
+TARGET JOURNAL:
+IEEE-RITA covers technological applications and research in education including design and research in new learning tools that focus on teaching and learning. The scope includes learning applications, methods, materials and new experiences as they relate to engineering learning. The journal maintains a consistent focus on the IEEE environment inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science. Main areas include technological applications and research in Education covering the design and research in new learning tools, techniques and materials that focus on teaching and learning as well as learning applications, methods and materials and new experiences of engineering learning, always focusing on the teaching/learning of the IEEE fields inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science and Engineering.
+
+
+EXAMPLES OF TOPICS:
+- E-Learning Platforms and Tools
+- Blended and Hybrid Learning
+- Learning Analytics
+- Adaptive and Personalized Learning
+- Massive Open Online Courses (MOOCs)
+- Gamification and Serious Games
+- Collaborative Learning Technologies
+- Mobile and Ubiquitous Learning
+- Virtual and Augmented Reality in Education
+- Educational Robotics
+- STEM Education
+- Teacher Training and Professional Development
+- Distance and Online Learning
+- Cognitive and Affective Computing in Education
+- Ethics and Security in Educational Technology
+- Innovative Pedagogical Models
+- Technology-Enhanced Learning (TEL)
+- Digital Literacy
+- Accessibility in Educational Technologies
+- Internet of Things (IoT) in Education
+
+
+REQUIREMENTS:
+The requirements for the paragraph are as follows:
+- Be sure of formulating a deep definition about BUSINESS ANALYTICS.
+- Use all the provided abstracts for elaborate the paragraph.
+- Be sure of the generated paragraph is of the interest for the readers of the target journal.
+
+
+CITATION:
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the record. For example, [1] means that the information is in the Record-No 1. Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+

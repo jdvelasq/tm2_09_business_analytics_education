@@ -1,0 +1,397 @@
+---
+
+Record-No: 89
+AR Sebastianelli R., 2023, INT CONF ELEARN DIGIT LEARN ELDL INT CONF SUSTAIN
+   TECHNOL EDUC STE, P210
+TI ONLINE MS IN BUSINESS ANALYTICS BEST PRACTICES AND BEYOND
+AU Sebastianelli R.; Tamimi N.
+TC 0
+SO 17th International Conference on e_Learning and Digital Learning 2023, ELDL
+   2023 and 11th International Conference on Sustainability, Technology and
+   Education 2023, STE 2023
+PY 2023
+AB the demand for talent in ANALYTICS has significantly outpaced supply ,
+   prompting INSTITUTIONS_OF_HIGHER_LEARNING to develop related CURRICULA to
+   address this UNMET_MARKET_NEED . one DEGREE_OFFERING that has proliferated
+   is the ONLINE_MASTER of science ( ms ) degree in BUSINESS_ANALYTICS . unlike
+   the more GENERAL_MBA with a concentration in ANALYTICS , this specialized
+   MASTER_DEGREE usually includes advanced coursework in areas related to the
+   three SUBJECT_AREA_DOMAINS ( descriptive , predictive , and
+   PRESCRIPTIVE_ANALYTICS ) . these types of courses , such as
+   STATISTICAL_MODELING , optimization , and COMPUTER_PROGRAMMING , involve
+   technical and QUANTITATIVE_SKILLS that can pose unique challenges in an
+   ASYNCHRONOUS_ONLINE_LEARNING_ENVIRONMENT . moreover , with the
+   EXPLOSIVE_GROWTH in JOB_OPPORTUNITIES , PROSPECTIVE_STUDENTS may be drawn to
+   the ms in BUSINESS_ANALYTICS without understanding fully the advanced nature
+   of the CURRICULUM or the PREREQUISITE_KNOWLEDGE needed to succeed . with the
+   goal of better positioning PROSPECTIVE_STUDENTS for SUCCESS in the ms in
+   BUSINESS_ANALYTICS , we approach the issue in two DIFFERENT_WAYS . first ,
+   we benchmark the top ranked ONLINE_MS_BUSINESS_ANALYTICS_PROGRAMS in the us
+   to uncover BEST_PRACTICES with respect to CURRICULUM as well as the
+   ONLINE_APPLICATION and ADMISSIONS screening process . second , we consider
+   strategies for increasing STUDENT_ENGAGEMENT in
+   ASYNCHRONOUS_ONLINE_LEARNING_ENVIRONMENTS suitable for use in advanced
+   ONLINE_BUSINESS_ANALYTICS_COURSES . 2023 17th INTERNATIONAL_CONFERENCE on
+   e_learning and DIGITAL_LEARNING 2023 , eldl 2023 and 11th
+   INTERNATIONAL_CONFERENCE on sustainability , technology and EDUCATION 2023 ,
+   ste 2023 . all rights reserved .
+DE ADMISSIONS; ASYNCHRONOUS_LEARNING; BENCHMARKING; BUSINESS_ANALYTICS;
+   STUDENT_ENGAGEMENT
+ID APPLICATION_PROGRAMS; COMPUTER_AIDED_INSTRUCTION; COMPUTER_PROGRAMMING;
+   CURRICULA; E_LEARNING; PREDICTIVE_ANALYTICS; STUDENTS;
+   SUSTAINABLE_DEVELOPMENT; ADMISSION; ASYNCHRONOUS_LEARNING; BEST_PRACTICES;
+   BUSINESS_ANALYTICS; HIGHER_LEARNING; MARKET_NEEDS; MASTER_OF_SCIENCE;
+   ONLINE_LEARNING_ENVIRONMENT; PROSPECTIVES; STUDENT_ENGAGEMENT; BENCHMARKING
+** ASYNCHRONOUS_ONLINE_LEARNING_ENVIRONMENT;
+   ASYNCHRONOUS_ONLINE_LEARNING_ENVIRONMENTS; BUSINESS_ANALYTICS;
+   DEGREE_OFFERING; DIFFERENT_WAYS; DIGITAL_LEARNING; EXPLOSIVE_GROWTH;
+   GENERAL_MBA; INTERNATIONAL_CONFERENCE; JOB_OPPORTUNITIES; MASTER_DEGREE;
+   ONLINE_APPLICATION; ONLINE_BUSINESS_ANALYTICS_COURSES; ONLINE_MASTER;
+   ONLINE_MS; ONLINE_MS_BUSINESS_ANALYTICS_PROGRAMS; PREREQUISITE_KNOWLEDGE;
+   PRESCRIPTIVE_ANALYTICS; PROSPECTIVE_STUDENTS; QUANTITATIVE_SKILLS;
+   STUDENT_ENGAGEMENT; SUBJECT_AREA_DOMAINS; UNMET_MARKET_NEED
+
+---
+
+Record-No: 95
+AR Dickson K., 2023, LECT NOTES INST COMPUT SCI SOC INFORMATICS TELECOMMUN ENG,
+   V514 LNICST, P305
+TI An Integrated Framework for Assessing Data and Business Analytics Skills for
+   the Job Market
+AU Dickson K.; Zlatev V.
+TC 0
+SO Lecture Notes of the Institute for Computer Sciences, Social_Informatics and
+   Telecommunications Engineering, LNICST
+PY 2023
+AB we present a FRAMEWORK for integrating ACADEMIC_PROGRAMS and
+   STUDENTS_PREPARATION for the JOB_MARKET . a GRADUATE_PROGRAM_CURRICULA ,
+   especially in data and BUSINESS_ANALYTICS , should prepare STUDENTS for
+   landing their DREAM_JOB and prepare them to excel in their desired roles and
+   grow within the company . our approach is to assist our STUDENTS in ( i )
+   their ACTIVE_PARTICIPATION in charting a course for their career and ( ii )
+   becoming a COMPETITIVE_FORCE within the market based on KNOWLEDGE gained in
+   the program . the applied BUSINESS_ANALYTICS program at BOSTON_UNIVERSITY
+   METROPOLITAN_COLLEGE has created a COMPETITIVE_CURRICULUM that
+   SHAPES_STUDENTS into leaders by assessing the MARKETPLACE_NEEDS ( a function
+   of its environment ) and preparing our STUDENTS to become LIFELONG_LEARNERS
+   , thereby creating their COMPETITIVE_ADVANTAGE . the MODEL we have created
+   contains three KEY_AREAS , ( i ) the ACADEMIC_PROGRAM and the valuation of
+   its quality through SKILL_DEVELOPMENT , ( ii ) the evaluation of the
+   JOB_MARKET as a subset of the MACRO_ENVIRONMENT , ( iii ) the
+   ACTIVE_PREPARATION of STUDENTS in our CONSULTATION_SERVICE_OFFERINGS to
+   become COMPETITIVE_PLAYERS in the JOB_MARKET . we introduce the
+   COMPLEX_NATURE of this MODEL by discussing the VARIOUS_TOOLS offered to our
+   STUDENTS , our approach for conducting JOB_MARKET_ASSESSMENTS , and the
+   FRAMEWORK for creating DIAGNOSTIC_TOOLS for SKILLS_ASSESSMENT .
+   ICST_INSTITUTE for COMPUTER_SCIENCES , SOCIAL_INFORMATICS and
+   TELECOMMUNICATIONS_ENGINEERING 2023 .
+DE BUSINESS_ANALYTICS_CURRICULUM; CAREER_PLANNING;
+   COMPETITIVE_LANDSCAPE_ANALYSIS; INDUSTRY_ASSESSMENT; JOB_PLACEMENT;
+   KNOWLEDGE_COMPETENCE; SKILLS_ASSESSMENT; SKILLS_DEVELOPMENT;
+   STUDENT_EMPLOYABILITY
+ID COMMERCE; COMPETITION; CURRICULA; EMPLOYMENT; QUALITY_CONTROL;
+   BUSINESS_ANALYTIC_CURRICULUM; BUSINESS_ANALYTICS; CAREER_PLANNING;
+   COMPETITIVE_LANDSCAPE_ANALYSE; INDUSTRY_ASSESSMENT; JOB_PLACEMENT;
+   KNOWLEDGE_COMPETENCES; LANDSCAPE_ANALYSIS; SKILL_ASSESSMENT;
+   SKILLS_DEVELOPMENT; STUDENT_EMPLOYABILITY; STUDENTS
+** ACADEMIC_PROGRAM; ACADEMIC_PROGRAMS; ACTIVE_PARTICIPATION;
+   ACTIVE_PREPARATION; BOSTON_UNIVERSITY; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_SKILLS; COMPETITIVE_ADVANTAGE; COMPETITIVE_CURRICULUM;
+   COMPETITIVE_FORCE; COMPETITIVE_PLAYERS; COMPLEX_NATURE; COMPUTER_SCIENCES;
+   CONSULTATION_SERVICE_OFFERINGS; DIAGNOSTIC_TOOLS; DREAM_JOB;
+   GRADUATE_PROGRAM_CURRICULA; ICST_INSTITUTE; JOB_MARKET;
+   JOB_MARKET_ASSESSMENTS; KEY_AREAS; LIFELONG_LEARNERS; MACRO_ENVIRONMENT;
+   MARKETPLACE_NEEDS; METROPOLITAN_COLLEGE; SHAPES_STUDENTS; SKILLS_ASSESSMENT;
+   SKILL_DEVELOPMENT; SOCIAL_INFORMATICS; STUDENTS_PREPARATION;
+   TELECOMMUNICATIONS_ENGINEERING; VARIOUS_TOOLS
+
+---
+
+Record-No: 98
+AR Bačić D., 2023, J INF SYST EDUC, V34, P216
+TI Building a Business Data Analytics Graduate Certificate
+AU Bačić D.; Jukić N.; Malliaris M.; Nestorov S.; Varma A.
+TC 0
+SO Journal of Information Systems Education
+PY 2023
+AB in this paper we present the evolution of the
+   BUSINESS_DATA_ANALYTICS_GRADUATE_CERTIFICATE ( BDA_CERTIFICATE ) at our
+   institution , LOYOLA_UNIVERSITY_CHICAGO . this CERTIFICATE is a successful
+   and expanding program that attracts a DIVERSE_GROUP of DYNAMIC_PROFESSIONALS
+   from local , national , and INTERNATIONAL_POPULATIONS . the
+   PROGRAM_EVOLUTION described in this PAPER_INVOLVES MULTIPLE_REVISIONS of the
+   CURRICULUM , additions , and subtractions of INDIVIDUAL_COURSES , expansions
+   of DELIVERY_METHODS , and PROGRAM_NAME_CHANGES . the CORE_PRINCIPLES of
+   acknowledging the centrality of data , mandating the modeling_based course
+   sequencing , and recognizing the PROPER_ROLE of SOFTWARE_TOOLS , are
+   outlined and recognized as the foundation of the PROGRAM_SUCCESS . 2023 ,
+   journal of INFORMATION_SYSTEMS_EDUCATION . all rights reserved .
+DE BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_CURRICULUM;
+   CURRICULUM_DESIGN_AND_DEVELOPMENT; DATA_ANALYTICS; GRADUATE_CERTIFICATE;
+   GRADUATE_EDUCATION
+ID DATA_ANALYTICS; BUSINESS_ANALYTIC_CURRICULUM; BUSINESS_ANALYTICS;
+   BUSINESS_DATA; CURRICULA_DESIGN; CURRICULUM_DEVELOPMENT; DATA_ANALYTICS;
+   DESIGN_DEVELOPMENT; GRADUATE_CERTIFICATES; GRADUATE_EDUCATION; CURRICULA
+** BDA_CERTIFICATE; BUSINESS_DATA_ANALYTICS_GRADUATE_CERTIFICATE;
+   CORE_PRINCIPLES; DELIVERY_METHODS; DIVERSE_GROUP; DYNAMIC_PROFESSIONALS;
+   INDIVIDUAL_COURSES; INFORMATION_SYSTEMS_EDUCATION;
+   INTERNATIONAL_POPULATIONS; LOYOLA_UNIVERSITY_CHICAGO; MULTIPLE_REVISIONS;
+   PAPER_INVOLVES; PROGRAM_EVOLUTION; PROGRAM_NAME_CHANGES; PROGRAM_SUCCESS;
+   PROPER_ROLE; SOFTWARE_TOOLS
+
+---
+
+Record-No: 64
+AR Johnson M.E., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P17
+TI Teaching Bayesian and Markov methods in business analytics curricula: An
+   integrated approach
+AU Johnson M.E.; Misra R.; Berenson M.
+TC 3
+SO Decision Sciences Journal of Innovative Education
+PY 2022
+AB in the era of ARTIFICIAL_INTELLIGENCE ( ai ) , BIG_DATA ( bd ) , and
+   DIGITAL_TRANSFORMATION ( dt ) , ANALYTICS_STUDENTS should gain the ability
+   to solve BUSINESS_PROBLEMS by integrating VARIOUS_METHODS . this TEACHING
+   BRIEF_ILLUSTRATES how two SUCH_METHODSBAYESIAN_ANALYSIS and MARKOV_CHAINSCAN
+   be combined to ENHANCE_STUDENT_LEARNING using the
+   ANALYTICS_PROJECT_LIFE_CYCLE_MANAGEMENT ( aplcm ) approach and a CASE_STUDY
+   involving qualitative forecasting . the THEORETICAL_FRAMEWORKS for combining
+   bayesian and MARKOV_METHODS are developed , and a forecasting solution is
+   implemented in both MS_EXCEL and PYTHON . based on an ASSESSMENT of
+   STUDENT_LEARNING , applying this PEDAGOGICAL_APPROACH helps STUDENTS better
+   use these DISJOINT_METHODS and appreciate the VALUE of integrating them .
+   although this TEACHING brief is designed and most appropriate for
+   GRADUATE_STUDENTS with PREVIOUS_BA_COURSES , it can also be used in
+   upper_level courses within an UNDERGRADUATE_BA_CURRICULUM . finally , this
+   TEACHING brief provides the instructors wishing to use this
+   PEDAGOGICAL_APPROACH in their APPROPRIATE_COURSES with the
+   NECESSARY_RESOURCES ( i.e., CASE_STUDY , in_class example , and the MS_EXCEL
+   and PYTHON_TEMPLATES ) . 2021 DECISION_SCIENCES_INSTITUTE
+** ANALYTICS_PROJECT_LIFE_CYCLE_MANAGEMENT; ANALYTICS_STUDENTS;
+   APPROPRIATE_COURSES; ARTIFICIAL_INTELLIGENCE; BIG_DATA; BRIEF_ILLUSTRATES;
+   BUSINESS_ANALYTICS_CURRICULA; BUSINESS_PROBLEMS; CASE_STUDY;
+   DECISION_SCIENCES_INSTITUTE; DIGITAL_TRANSFORMATION; DISJOINT_METHODS;
+   ENHANCE_STUDENT_LEARNING; GRADUATE_STUDENTS; INCLASS_EXAMPLE;
+   MARKOV_CHAINSCAN; MARKOV_METHODS; MS_EXCEL; NECESSARY_RESOURCES;
+   PEDAGOGICAL_APPROACH; PREVIOUS_BA_COURSES; PYTHON_TEMPLATES;
+   STUDENT_LEARNING; SUCH_METHODSBAYESIAN_ANALYSIS; THEORETICAL_FRAMEWORKS;
+   UNDERGRADUATE_BA_CURRICULUM; UPPERLEVEL_COURSES; VARIOUS_METHODS
+
+---
+
+Record-No: 1
+AR Anand T., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P235
+TI Objectives and curriculum for a graduate business analytics capstone:
+   Reflections from practice
+AU Anand T.; Mitchell D.
+TC 3
+SO Decision Sciences Journal of Innovative Education
+PY 2022
+AB many higher EDUCATION_INSTITUTIONS have responded to the
+   SIGNIFICANT_SHORTAGE of professionals with STRONG_ANALYTICAL_EXPERTISE by
+   OFFERING_GRADUATE_PROGRAMS in BUSINESS_ANALYTICS and DATA_SCIENCE . these
+   programs are typically designed to be practitioner focused and many of them
+   offer a CAPSTONE_COURSE that gives STUDENTS the opportunity to conduct a
+   real_world ANALYTICS_PROJECT . in this ARTICLE , we describe the
+   INNOVATIVE_DESIGN of a CAPSTONE_COURSE offered to cohorts of approximately
+   110 GRADUATE_STUDENTS in the BUSINESS_SCHOOL at the UNIVERSITY of texas ,
+   austin . this course is designed to deliver self_directed and
+   EXPERIENTIAL_LEARNING from interacting with BUSINESS_STAKEHOLDERS and
+   successfully completing team_based , BUSINESS_ANALYTICS_PROJECTS within a
+   COMMERCIAL_FIRM using the FIRM_DATA . the COURSE_DESIGN includes STUDENT and
+   SPONSOR_ENGAGEMENT , the formation of diverse balanced PROJECT_TEAMS ,
+   matching of teams with projects , and SCAFFOLDING , which includes
+   consistent structured mentoring , TEAM_REFLECTIONS , INTERIM_DELIVERABLES
+   and in_class LEARNING for PRACTICAL_SKILLS not covered elsewhere in the
+   CURRICULUM . this course has now been offered successfully to two cohorts .
+   in this ARTICLE , we will also DESCRIBE_CHANGES made for the second cohort
+   related to TEAM_FORMATION , project matching , mentoring and in_class
+   LEARNING . these changes were based on feedback from the first cohort . 2022
+   DECISION_SCIENCES_INSTITUTE .
+DE ARTIFICIAL_INTELLIGENCE_MACHINE_LEARNING; BUSINESS_ANALYTICS; CAPSTONE;
+   COURSE_DESIGN
+** BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_PROJECTS; BUSINESS_SCHOOL;
+   BUSINESS_STAKEHOLDERS; CAPSTONE_COURSE; COMMERCIAL_FIRM; COURSE_DESIGN;
+   DATA_SCIENCE; DECISION_SCIENCES_INSTITUTE; DESCRIBE_CHANGES;
+   EDUCATION_INSTITUTIONS; EXPERIENTIAL_LEARNING; FIRM_DATA;
+   GRADUATE_BUSINESS_ANALYTICS_CAPSTONE; GRADUATE_STUDENTS; INCLASS_LEARNING;
+   INNOVATIVE_DESIGN; INTERIM_DELIVERABLES; OFFERING_GRADUATE_PROGRAMS;
+   PRACTICAL_SKILLS; PROJECT_TEAMS; REALWORLD_ANALYTICS_PROJECT;
+   SIGNIFICANT_SHORTAGE; SPONSOR_ENGAGEMENT; STRONG_ANALYTICAL_EXPERTISE;
+   TEAM_FORMATION; TEAM_REFLECTIONS
+
+---
+
+Record-No: 22
+AR Page G., 2022, LECT NOTES INST COMPUT SCI SOC INFORMATICS TELECOMMUN ENG,
+   V450 LNICST, P274
+TI Reflections on the Applied Business Analytics Student Writing Project
+AU Page G.; Tay H.F.
+TC 1
+SO Lecture Notes of the Institute for Computer Sciences, Social_Informatics and
+   Telecommunications Engineering, LNICST
+PY 2022
+AB in this paper , the AUTHORS_DESCRIBE a STUDENT_ARTICLE writing PROJECT_RUN
+   by a professor in applied BUSINESS_ANALYTICS at BOSTON_UNIVERSITY
+   METROPOLITAN_COLLEGE . through this project , STUDENTS write and
+   self_publish articles on VARIOUS_TOPICS related to DATA_SCIENCE . the
+   project enables STUDENTS to build and refine their data modeling SKILLS ,
+   and to build a portfolio of content related to the DATA_SCIENCE_FIELD . the
+   AUTHORS_TRACE the history of the project , point out some of its notable
+   successes and setbacks , and identify some thoughts about how the project
+   should continue to evolve . 2022 , ICST_INSTITUTE for COMPUTER_SCIENCES ,
+   SOCIAL_INFORMATICS and TELECOMMUNICATIONS_ENGINEERING .
+DE DATA_MINING; DATA_SCIENCE; DATA_SCIENCE_EDUCATION
+ID DATA_ANALYTICS; DATA_SCIENCE; STUDENTS; BOSTON_UNIVERSITY;
+   BUSINESS_ANALYTICS; DATA_SCIENCE_EDUCATION; MODEL_SKILL; SCIENCE_EDUCATION;
+   STUDENT_WRITING; WRITING_PROJECTS; DATA_MINING
+** AUTHORS_DESCRIBE; AUTHORS_TRACE; BOSTON_UNIVERSITY; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_STUDENT; COMPUTER_SCIENCES; DATA_SCIENCE;
+   DATA_SCIENCE_FIELD; ICST_INSTITUTE; METROPOLITAN_COLLEGE; PROJECT_RUN;
+   SELFPUBLISH_ARTICLES; SOCIAL_INFORMATICS; STUDENT_ARTICLE;
+   TELECOMMUNICATIONS_ENGINEERING; VARIOUS_TOPICS
+
+---
+
+Record-No: 45
+AR Cadersaib Z., 2022, IEEE GLOBAL ENG EDU CONF EDUCON, V2022-March, P2114
+TI Enterprise Resource Planning integrated with Business Analytics in Higher
+   Education
+AU Cadersaib Z.; Sta H.B.; Gobin-Rahimbux B.
+TC 1
+SO IEEE Global Engineering Education Conference, EDUCON
+PY 2022
+AB ENTERPRISE_RESOURCE_PLANNING ( erp ) systems are widely used across the
+   world and have attracted a lot of RESEARCH_ATTENTION in HIGHER_EDUCATION (
+   he ) CURRICULUM . although the demand for ERP_SKILLS from industry is
+   continuously growing , there is still SKILL_MISMATCH between graduates and
+   MARKET_DEMAND . MODERN_ERP_SYSTEMS are connected to BIG_DATA and embed
+   features for BUSINESS_ANALYTICS ( ba ) . this requires ERP_CURRICULUM to be
+   adapted to align with the NEW_REQUIREMENTS of industry . this paper proposes
+   an adaptive he FRAMEWORK for erp that also integrates BIG_DATA .
+   experimentation of the FRAMEWORK was carried out with a group of STUDENTS
+   studying an ERP_SUBJECT in a specific higher EDUCATION_INSTITUTION ( hei ) .
+   although the experimentation is still at its INITIAL_STAGE , the results
+   show that STUDENTS are in favor of an ADAPTIVE_ERP_CURRICULUM where
+   DIFFERENT_DIDACTICS and TOOLS can be used . internal and EXTERNAL_FACTORS
+   were also seen as IMPORTANT_FEATURES that ensure that STUDENTS are equipped
+   with the required SKILLS that align with INDUSTRY_STANDARDS . 2022 ieee .
+DE BIG_DATA; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; EDUCATION;
+   ENTERPRISE_RESOURCE_PLANNING
+ID CURRICULA; ENTERPRISE_RESOURCE_PLANNING; RESOURCE_ALLOCATION; STUDENTS;
+   ADAPTIVE_ENTERPRISE; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE;
+   EDUCATION_CURRICULUMS; ENTERPRISE_RESOURCE_PLANNING_SYSTEMS;
+   ENTERPRISE_RESOURCES_PLANNING; HIGH_EDUCATIONS;
+   HIGHER_EDUCATION_INSTITUTIONS; INTERNAL_AND_EXTERNAL_FACTORS; MARKET_DEMAND;
+   BIG_DATA
+** ADAPTIVE_ERP_CURRICULUM; BIG_DATA; BUSINESS_ANALYTICS; DIFFERENT_DIDACTICS;
+   EDUCATION_INSTITUTION; ENTERPRISE_RESOURCE_PLANNING; ERP_CURRICULUM;
+   ERP_SKILLS; ERP_SUBJECT; EXTERNAL_FACTORS; IMPORTANT_FEATURES;
+   INDUSTRY_STANDARDS; INITIAL_STAGE; MARKET_DEMAND; MODERN_ERP_SYSTEMS;
+   NEW_REQUIREMENTS; RESEARCH_ATTENTION; SKILL_MISMATCH
+
+---
+
+Record-No: 4
+AR Zhang Y./1, 2022, MOB INF SYS, V2022
+TI Introducing Business Visual Analytics into Business Education by Information
+   Technology and Computing Methods
+AU Zhang Y./1; Chan K.K.; Liu J.
+TC 0
+SO Mobile Information Systems
+PY 2022
+AB BUSINESS_STUDENTS feel an urgency to be competent involving
+   BUSINESS_INTELLIGENCE in their studies and career . this STUDY_EXAMINES the
+   CURRENT_LITERATURE on BUSINESS_VISUAL_ANALYTIC_TECHNOLOGIES ( vats ) , both
+   in the BUSINESS_COMMUNITY and in BUSINESS_LEARNING , and points out
+   consideration as a RESEARCH_GAP in the existing literature . we conduct a
+   SYSTEMATIC_REVIEW with DATABASE_SEARCHES from 2006 to 2020 . the objectives
+   of the review are to identify ( a ) . the existing terminologies related to
+   vats in the literature . ( b ) . the purpose of VAT_APPLICATION and the
+   benefits of vats in the BUSINESS_COMMUNITY . and to examine ( c ) . how the
+   vats are related to the EDUCATIONAL_CONTEXT , particularly , in
+   BUSINESS_LEARNING . the findings indicate that vats provide
+   POSITIVE_ENHANCEMENT in BUSINESS_ANALYTICS . however , the effect of
+   VAT_APPLICATION in BUSINESS_LEARNING is rather limited . we provide insights
+   for further studies involving vat_enhanced BUSINESS_LEARNING . 2022
+   YUYU_ZHANG et al .
+ID SEARCH_ENGINES; CURRENT; BUSINESS_COMMUNITY; BUSINESS_EDUCATIONS;
+   COMPUTING_METHODS; DATABASE_SEARCHES; EDUCATIONAL_CONTEXT; RESEARCH_GAPS;
+   SYSTEMATIC_REVIEW; TECHNOLOGY_APPLICATION; VISUAL_ANALYTICS; VISUALIZATION
+** BUSINESS_ANALYTICS; BUSINESS_COMMUNITY; BUSINESS_EDUCATION;
+   BUSINESS_INTELLIGENCE; BUSINESS_LEARNING; BUSINESS_STUDENTS;
+   BUSINESS_VISUAL_ANALYTICS; BUSINESS_VISUAL_ANALYTIC_TECHNOLOGIES;
+   CURRENT_LITERATURE; DATABASE_SEARCHES; EDUCATIONAL_CONTEXT;
+   INFORMATION_TECHNOLOGY; POSITIVE_ENHANCEMENT; RESEARCH_GAP; STUDY_EXAMINES;
+   SYSTEMATIC_REVIEW; VAT_APPLICATION; YUYU_ZHANG
+
+---
+
+Record-No: 20
+AR Zhu H., 2022, AIS SIGED INT CONF INF SYST EDUC RES, P201
+TI TEACHING DATA QUALITY IN BUSINESS ANALYTICS
+AU Zhu H.
+TC 0
+SO AIS SIGED International Conference on Information Systems Education and
+   Research 2022
+PY 2022
+AB despite the importance of DATA_QUALITY in BUSINESS_ANALYTICS , most
+   DEGREE_PROGRAMS do not offer a course on the topic . it is usually left to
+   the discretion of INDIVIDUAL_INSTRUCTORS to decide where and how much to
+   cover the topic . in this CASE_STUDY , we describe a course on DATA_QUALITY
+   in a MASTER_OF_SCIENCE in BUSINESS_ANALYTICS program . organized in eight
+   modules , the first part of the course covers DATA_PREPARATION and
+   preprocessing . this prepares STUDENTS with the ability to tackle
+   REAL_DATASETS in other ANALYTICS_COURSES . the second part covers ANALYTICS
+   for DATA_QUALITY where algorithms for detecting and resolving
+   DATA_QUALITY_ISSUES are covered . the third PART_ADDRESSES LARGE_SCALE and
+   ENGINEERING_ISSUES of ANALYTICS_PRACTICE where DATA_COLLECTION_NEEDS to be
+   managed and DATA_QUALITY_TASKS must be part of the pipeline . ( 2022 ) by
+   association for INFORMATION_SYSTEMS ( ais ) all rights reserved .
+DE BUSINESS_ANALYTICS; CURRICULUM; DATA_PREPARATION; DATA_QUALITY
+ID CURRICULA; DATA_REDUCTION; INFORMATION_SYSTEMS; BUSINESS_ANALYTICS;
+   CASE_STUDIES; DATA_PREPARATION; DATA_PREPROCESSING; DATA_QUALITY;
+   DEGREE_PROGRAM; LARGE_SCALES; MASTER_OF_SCIENCE; QUALITY_ISSUES;
+   REAL_DATA_SETS; INFORMATION_USE
+** ANALYTICS_COURSES; ANALYTICS_PRACTICE; BUSINESS_ANALYTICS; CASE_STUDY;
+   DATA_COLLECTION_NEEDS; DATA_PREPARATION; DATA_QUALITY; DATA_QUALITY_ISSUES;
+   DATA_QUALITY_TASKS; DEGREE_PROGRAMS; ENGINEERING_ISSUES;
+   INDIVIDUAL_INSTRUCTORS; INFORMATION_SYSTEMS; LARGE_SCALE; PART_ADDRESSES;
+   REAL_DATASETS
+
+---
+
+Record-No: 48
+AR Nosrati F., 2022, AM CONF INF SYST AMCIS
+TI A Systematic Review of the US Graduate Programs in Business Analytics
+AU Nosrati F.; Burns T.; Gao Y.; Sherman C.A.
+TC 0
+SO 28th Americas Conference on Information Systems, AMCIS 2022
+PY 2022
+AB this RESEARCH_RESPONDS to a growing interest among higher
+   EDUCATION_INSTITUTES in creating programs to train data_savvy managers . the
+   PAPER_EXPLORES the CURRENT_LANDSCAPE of BUSINESS_ANALYTICS_EDUCATION in the
+   UNITED_STATES . the aim is to understand how higher EDUCATION_INSTITUTES
+   respond to the GROWING_DEMAND for analysts and professionals with
+   QUANTITATIVE_SKILLS . by conducting a SYSTEMATIC_REVIEW of more than 190
+   GRADUATE_PROGRAMS , this paper provides a detailed snapshot of the
+   CURRENT_STATUS of the programs related to training data_savvy managers .
+   benchmarks are provided for HIGHER_EDUCATION decision_makers to guide the
+   DESIGN of GRADUATE_PROGRAMS for TRAINING_MANAGERS , who will need to rely
+   heavily on DATA_ANALYSIS in their decision_making . 2022 28th
+   AMERICAS_CONFERENCE on INFORMATION_SYSTEMS , amcis 2022 . all rights
+   reserved .
+DE BUSINESS_ANALYTICS_EDUCATION; DATA_SAVVY_MANAGERS; GRADUATE_PROGRAMS;
+   HIGHER_EDUCATION; SYSTEMATIC_REVIEW
+ID DECISION_MAKING; INFORMATION_USE; PERSONNEL_TRAINING; CURRENT;
+   BUSINESS_ANALYTIC_EDUCATION; BUSINESS_ANALYTICS; CURRENT_STATUS;
+   DATA_SAVVY_MANAGER; GRADUATE_PROGRAMME; GROWING_DEMAND; HIGH_EDUCATIONS;
+   SYSTEMATIC_REVIEW; TRAINING_DATA; INFORMATION_SYSTEMS
+** AMERICAS_CONFERENCE; BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_EDUCATION;
+   CURRENT_LANDSCAPE; CURRENT_STATUS; DATA_ANALYSIS; EDUCATION_DECISIONMAKERS;
+   EDUCATION_INSTITUTES; GRADUATE_PROGRAMS; INFORMATION_SYSTEMS;
+   PAPER_EXPLORES; QUANTITATIVE_SKILLS; RESEARCH_RESPONDS; SYSTEMATIC_REVIEW;
+   TRAINING_DATASAVVY_MANAGERS; TRAINING_MANAGERS; TRAIN_DATASAVVY_MANAGERS
+
+
+---

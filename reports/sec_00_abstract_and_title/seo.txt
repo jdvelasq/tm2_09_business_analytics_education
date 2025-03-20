@@ -1,0 +1,700 @@
+
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+GOAL:
+Apply SEO techniques to improve the abstract, title and keywords of a scientific manuscript. The objective is to increase the visibility of the manuscript in search engines and academic databases.
+
+
+CURRENT TITLE:
+Trends in Business Analytics Education and Skill Development
+
+
+CURENT ABSTRACT: 
+This literature review critically examines the evolving landscape of business analytics education and skills development, focusing on articles published between 2012 and 2014. A total of 103 scholarly articles were analyzed, revealing three primary thematic clusters: Curriculum Innovation for Industry Competencies, Experimental Learning in Analytical Decision-Making, and Innovative Pedagogies and Curriculum Development. These clusters were further dissected using nine key dimensions: Curriculum Design and Development, Analytical Skills Development, Experiential Learning Approaches, Industry Collaboration, Student Engagement and Outcomes, Faculty and Professional Development, Innovative Teaching Methods, Data Literacy and Ethics, and Technology-Enhanced Learning. The analysis highlights the growing demand for curricula that align with industry needs, emphasizing the importance of experiential learning and innovative teaching methods in fostering analytical decision-making skills. The review identifies significant trends, including the integration of data literacy and ethical considerations into business analytics programs, and the increasing role of technology in enhancing learning outcomes. Additionally, challenges such as the gap between academic offerings and industry expectations, and the need for ongoing faculty and professional development, are discussed. This review not only synthesizes the current state of business analytics education but also provides insights into future directions, suggesting pathways for curriculum innovation and enhanced industry collaboration. The findings underscore the necessity of aligning educational practices with the dynamic demands of the business analytics field to ensure the development of graduates equipped with the competencies required in the modern workforce.
+
+
+MOST FREQUENT KEYWORDS SORT BY NUMBER OF RESULTS:
+- Business Analytics
+- Curricula
+- Students
+- Information Systems
+- Teaching
+- Information Use
+- Advanced Analytics
+- Data Analytics
+- Big Data
+- Business Intelligence
+- Experiential Learning
+- Education
+- Information Management
+- Decision Making
+- Data Mining
+- Curriculum Development
+- Competitive Intelligence
+- Business Schools
+- Pedagogy
+- Higher Education
+- Education Computing
+- Curriculum Design
+- Analytics
+- Student Engagement
+
+
+MOST FREQUENT KEYWORDS BY CLUSTER:
+
+* Curriculum Innovation for Industry Competencies: Curriculum; Skills; Education; Information Use; Business Schools; Curriculum Design; Programs; Education Institutions; Competitive Advantages; Knowledge
+
+* Experimental Learning in Analytical Decision-Making: Students; Courses; Experiential Learning; Decision Making; Learning; Student Learning; Student Engagement; Insights; Learning Outcomes; Analytics Professionals
+
+* Innovative Pedagogies and Curriculum Development: Teaching; Information Management; Academic Professionals; Pedagogy; Competitive Intelligence; Curriculum Development; Electronic Learning; Technology; Analytics Tools; Business Data
+
+
+PUBLICATION PLATFORM:
+The manuscript will be send to the IEEE-RITA jounal. IEEE-RITA covers technological applications and research in education including design and research in new learning tools that focus on teaching and learning. The scope includes learning applications, methods, materials and new experiences as they relate to engineering learning. The journal maintains a consistent focus on the IEEE environment inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science. Main areas include technological applications and research in Education covering the design and research in new learning tools, techniques and materials that focus on teaching and learning as well as learning applications, methods and materials and new experiences of engineering learning, always focusing on the teaching/learning of the IEEE fields inside Electrical Engineering, Electronic Technology, Telecommunications and Computer Science and Engineering.
+
+
+EXAMPLES OF LITERATURE REVIEW:
+There are not examples of literaute reviews on the theme of the manuscript. However, the following examples of literature reviews on the theme of business analytics are provided:
+
+
+Record-No: 900
+AR Sharma R., 2014, EUR J INF SYST, V23, P433
+TI Transforming decision-making processes: A research agenda for understanding
+   the impact of business analytics on organisations
+AU Sharma R.; Mithas S.; Kankanhalli A.
+TC 413
+SO European Journal of Information Systems
+PY 2014
+** BUSINESS_ANALYTICS; RESEARCH_AGENDA
+
+--
+
+Record-No: 469
+AR Zhang C., 2020, J IND INTEGR MANAG, V5, P165
+TI A review of research relevant to the emerging industry trends: Industry 4.0,
+   iot, blockchain, and business analytics
+AU Zhang C.; Chen Y.
+TC 252
+SO Journal of Industrial Integration and Management
+PY 2020
+AB INDUSTRY 4.0 , INTERNET_OF_THINGS , BLOCKCHAIN , and BUSINESS_ANALYTICS are
+   the HOT_RESEARCH_TOPICS and have attracted much attention from scholars and
+   practitioners in RECENT_YEARS . in order to identify the forces driving
+   their development and to promote their development , this PAPER_REVIEWS the
+   EXTANT_STUDIES on these topics . the REVIEW provides a
+   COMPREHENSIVE_OVERVIEW of state_of_the_art researches on INDUSTRY 4.0 ,
+   INTERNET_OF_THINGS , BLOCKCHAIN , and BUSINESS_ANALYTICS . the results
+   assist scholars to figure out the directions of FUTURE_STUDIES on these
+   topics . world scientific PUBLISHING co .
+DE BLOCK_CHAIN; BUSINESS_ANALYTICS; INDUSTRY_40; INTERNET_OF_THINGS
+ID BLOCKCHAIN; INDUSTRY_40; INTERNET_OF_THINGS; BUSINESS_ANALYTICS;
+   HOT_RESEARCH_TOPICS; INDUSTRY_TRENDS; STATE_OF_THE_ART; ADVANCED_ANALYTICS
+** BUSINESS_ANALYTICS; COMPREHENSIVE_OVERVIEW; EXTANT_STUDIES; FUTURE_STUDIES;
+   HOT_RESEARCH_TOPICS; INDUSTRY_TRENDS; PAPER_REVIEWS; RECENT_YEARS;
+   RESEARCH_RELEVANT; STATEOFTHEART_RESEARCHES
+
+--
+
+Record-No: 522
+AR Ajah I.A., 2019, BIG DATA COGN COMPUTING, V3, P1
+TI Big data and business analytics: Trends, platforms, success factors and
+   applications
+AU Ajah I.A.; Nweke H.F.
+TC 99
+SO Big Data and Cognitive Computing
+PY 2019
+AB BIG_DATA and BUSINESS_ANALYTICS are TRENDS that are positively impacting the
+   BUSINESS_WORLD . PAST_RESEARCHES show that DATA generated in the
+   MODERN_WORLD is huge and growing exponentially . these include structured
+   and UNSTRUCTURED_DATA that FLOOD_ORGANIZATIONS daily . unstructured
+   DATA_CONSTITUTE the majority of the WORLD_DIGITAL_DATA and these include
+   TEXT_FILES , web , and SOCIAL_MEDIA_POSTS , emails , images , audio , movies
+   , etc . the UNSTRUCTURED_DATA cannot be managed in the
+   TRADITIONAL_RELATIONAL_DATABASE_MANAGEMENT_SYSTEM ( rdbms ) . therefore ,
+   DATA_PROLIFERATION requires a rethinking of TECHNIQUES for capturing ,
+   storing , and processing the DATA . this is the role BIG_DATA has come to
+   play . this paper , therefore , is aimed at increasing the attention of
+   ORGANIZATIONS and researchers to VARIOUS_APPLICATIONS and benefits of
+   BIG_DATA_TECHNOLOGY . the PAPER_REVIEWS and discusses , the RECENT_TRENDS ,
+   opportunities and pitfalls of BIG_DATA and how it has enabled ORGANIZATIONS
+   to create SUCCESSFUL_BUSINESS_STRATEGIES and remain competitive , based on
+   AVAILABLE_LITERATURE . furthermore , the REVIEW presents the
+   VARIOUS_APPLICATIONS of BIG_DATA and BUSINESS_ANALYTICS , DATA_SOURCES
+   generated in these APPLICATIONS and their KEY_CHARACTERISTICS . finally ,
+   the REVIEW not only outlines the CHALLENGES for SUCCESSFUL_IMPLEMENTATION of
+   BIG_DATA_PROJECTS but also highlights the CURRENT_OPEN_RESEARCH_DIRECTIONS
+   of BIG_DATA_ANALYTICS that require further consideration . the reviewed
+   areas of BIG_DATA suggest that GOOD_MANAGEMENT and manipulation of the
+   LARGE_DATA sets using the TECHNIQUES and TOOLS of BIG_DATA can deliver
+   ACTIONABLE_INSIGHTS that create BUSINESS_VALUES . 2019 by the authors .
+   LICENSEE_MDPI , basel , SWITZERLAND .
+DE BIG_DATA; BIG_DATA_TOOLS; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE;
+   HADOOP_ECOSYSTEM; REVIEW_AND_BUSINESS_VALUE
+** ACTIONABLE_INSIGHTS; AVAILABLE_LITERATURE; BIG_DATA; BIG_DATA_ANALYTICS;
+   BIG_DATA_PROJECTS; BIG_DATA_TECHNOLOGY; BUSINESS_ANALYTICS; BUSINESS_VALUES;
+   BUSINESS_WORLD; CURRENT_OPEN_RESEARCH_DIRECTIONS; DATA_CONSTITUTE;
+   DATA_PROLIFERATION; DATA_SOURCES; FLOOD_ORGANIZATIONS; GOOD_MANAGEMENT;
+   KEY_CHARACTERISTICS; LARGE_DATA; LICENSEE_MDPI; MODERN_WORLD; PAPER_REVIEWS;
+   PAST_RESEARCHES; RECENT_TRENDS; SOCIAL_MEDIA_POSTS;
+   SUCCESSFUL_BUSINESS_STRATEGIES; SUCCESSFUL_IMPLEMENTATION; SUCCESS_FACTORS;
+   TEXT_FILES; TRADITIONAL_RELATIONAL_DATABASE_MANAGEMENT_SYSTEM;
+   VARIOUS_APPLICATIONS; WORLD_DIGITAL_DATA
+
+--
+
+Record-No: 477
+AR Boldosova V., 2020, MANAGE RES REV, V43, P204
+TI Storytelling, business analytics and big data interpretation: Literature
+   review and theoretical propositions
+AU Boldosova V.; Luoto S.
+TC 29
+SO Management Research Review
+PY 2020
+AB PURPOSE : the PURPOSE of this paper is to explore the role of STORYTELLING
+   in DATA_INTERPRETATION , decision_making and individual_level ADOPTION of
+   BUSINESS_ANALYTICS ( BA ) . DESIGN / METHODOLOGY / approach : existing
+   theory is extended by introducing the concept of BA data_driven STORYTELLING
+   and by synthesizing INSIGHTS from BA , STORYTELLING , BEHAVIORAL_RESEARCH ,
+   LINGUISTICS , psychology and neuroscience . using theory_building
+   METHODOLOGY , a MODEL with propositions is introduced to demonstrate the
+   RELATIONSHIP between STORYTELLING , DATA_INTERPRETATION_QUALITY ,
+   decision_making quality , INTENTION_TO_USE BA and ACTUAL_BA_USE . FINDINGS :
+   BA data_driven STORYTELLING is a narrative SENSEMAKING heuristic positively
+   influencing HUMAN_BEHAVIOR towards BA_USE . ORGANIZATIONS deliberately
+   disseminating BA data_driven stories can improve the quality of
+   INDIVIDUAL_DATA_INTERPRETATION and decision_making , resulting in increased
+   INDIVIDUAL_UTILIZATION of BA on a DAILY_BASIS . RESEARCH_LIMITATIONS /
+   implications : to acquire a deeper understanding of BA data_driven
+   STORYTELLING in BEHAVIORAL_OPERATIONAL_RESEARCH ( bor ) , FUTURE_STUDIES
+   should test the THEORETICAL_MODEL of this study and focus on exploring the
+   complexity and diversity in INDIVIDUAL_ATTITUDES toward BA .
+   PRACTICAL_IMPLICATIONS : this study provides PRACTICAL_GUIDANCE for
+   BUSINESS_PRACTITIONERS who struggle with interpreting VAST_AMOUNTS of
+   COMPLEX_DATA , making data_driven decisions and incorporating BA into
+   DAILY_OPERATIONS . originality / VALUE : this cross_disciplinary study
+   develops existing bor , STORYTELLING and BA_LITERATURE by showing how a
+   novel BA data_driven STORYTELLING approach can FACILITATE_BA_ADOPTION in
+   ORGANIZATIONS . 2019 , emerald PUBLISHING limited .
+DE BEHAVIOURAL_OPERATIONAL_RESEARCH; BIG_DATA; BUSINESS_ANALYTICS;
+   DATA_INTERPRETATION; DECISION_MAKING; STORYTELLING
+** ACTUAL_BA_USE; BA_DATADRIVEN; BA_DATADRIVEN_STORIES; BA_LITERATURE; BA_USE;
+   BEHAVIORAL_OPERATIONAL_RESEARCH; BEHAVIORAL_RESEARCH;
+   BIG_DATA_INTERPRETATION; BUSINESS_ANALYTICS; BUSINESS_PRACTITIONERS;
+   COMPLEX_DATA; CROSSDISCIPLINARY_STUDY; DAILY_BASIS; DAILY_OPERATIONS;
+   DATADRIVEN_DECISIONS; DATA_INTERPRETATION; DATA_INTERPRETATION_QUALITY;
+   FACILITATE_BA_ADOPTION; FUTURE_STUDIES; HUMAN_BEHAVIOR;
+   INDIVIDUALLEVEL_ADOPTION; INDIVIDUAL_ATTITUDES;
+   INDIVIDUAL_DATA_INTERPRETATION; INDIVIDUAL_UTILIZATION; LITERATURE_REVIEW;
+   NOVEL_BA_DATADRIVEN; PRACTICAL_GUIDANCE; PRACTICAL_IMPLICATIONS;
+   THEORETICAL_MODEL; THEORETICAL_PROPOSITIONS; VAST_AMOUNTS
+
+--
+
+Record-No: 487
+AR Yin J., 2020, J IND ENG MANAGE, V13, P283
+TI A systematic review on business analytics
+AU Yin J.; Fernandez V.
+TC 17
+SO Journal of Industrial Engineering and Management
+PY 2020
+AB PURPOSE : BUSINESS_ANALYTICS , a buzzword of the RECENT_DECADE , has been
+   applied by thousands of enterprises to help generate more values and enhance
+   their BUSINESS_PERFORMANCE . however , many aspects of BUSINESS_ANALYTICS
+   remain unclear . this STUDY_EXPLORES DIFFERENT_PERSPECTIVES on the
+   DEFINITION of BUSINESS_ANALYTICS and its relation with
+   BUSINESS_INTELLIGENCE_MOREOVER , we illustrate the APPLICATIONS of
+   BUSINESS_ANALYTICS in both BUSINESS_AREAS and INDUSTRY_SECTORS and she would
+   light on the EDUCATION in BUSINESS_ANALYTICS . ultimately , to facilitate
+   FUTURE_RESEARCH , we summarize several RESEARCH_TECHNIQUES used in the
+   literature reviewed . DESIGN / METHODOLOGY / approach : we set
+   well_established SELECTION_CRITERIA to SELECT_RELEVANT_LITERATURE from two
+   widely recognized databases : WEB_OF_SCIENCE and scopus . based on the
+   BIBLIOMETRIC_INFORMATION of the papers selected , we did a
+   BIBLIOMETRIC_ANALYSIS . afterward , we reviewed the literature and coded
+   RELEVANT_SECTIONS in an INDUCTIVE_WAY using maxqda . then we compared and
+   synthesized the coded INFORMATION . FINDINGS : there are mainly four
+   FINDINGS . firstly , according to the BIBLIOMETRIC_ANALYSIS , literature
+   about BUSINESS_ANALYTICS is growing exponentially . secondly ,
+   BUSINESS_ANALYTICS is a SYSTEM enabled by MACHINE_LEARNING_TECHNIQUES aiming
+   at promoting the EFFICIENCY and PERFORMANCE of an ORGANIZATION by supporting
+   the decision_making process . thirdly , the application of
+   BUSINESS_ANALYTICS is comprehensive , not only in SPECIFIC_AREAS of a
+   company but also in DIFFERENT_INDUSTRY_SECTORS . finally ,
+   BUSINESS_ANALYTICS is INTERDISCIPLINARY , and the SUCCESSFUL_TRAINING should
+   involve technical , analytical , and BUSINESS_SKILLS . originality / VALUE :
+   this SYSTEMATIC_REVIEW , as a synthesis of the CURRENT_RESEARCH on
+   BUSINESS_ANALYTICS , can serve as a quick guide for NEW_RESEARCHERS and
+   practitioners in the field , while experienced scholars can also BENEFIT
+   from this work , taking it as a PRACTICAL_REFERENCE . 2020 ,
+   UNIVERSITAT_POLITECNICA de catalunya . all rights reserved .
+DE ANALYTICS; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; DECISION_SUPPORT;
+   SYSTEMATIC_REVIEW
+** BIBLIOMETRIC_ANALYSIS; BIBLIOMETRIC_INFORMATION; BUSINESS_ANALYTICS;
+   BUSINESS_AREAS; BUSINESS_INTELLIGENCE_MOREOVER; BUSINESS_PERFORMANCE;
+   BUSINESS_SKILLS; CURRENT_RESEARCH; DIFFERENT_INDUSTRY_SECTORS;
+   DIFFERENT_PERSPECTIVES; FUTURE_RESEARCH; INDUCTIVE_WAY; INDUSTRY_SECTORS;
+   MACHINE_LEARNING_TECHNIQUES; NEW_RESEARCHERS; PRACTICAL_REFERENCE;
+   RECENT_DECADE; RELEVANT_SECTIONS; RESEARCH_TECHNIQUES; SELECTION_CRITERIA;
+   SELECT_RELEVANT_LITERATURE; SPECIFIC_AREAS; STUDY_EXPLORES;
+   SUCCESSFUL_TRAINING; SYSTEMATIC_REVIEW; UNIVERSITAT_POLITECNICA
+
+--
+
+Record-No: 411
+AR Kő A., 2020, INT J INF TECHNOL DECIS MAK, V19, P97
+TI A research review and taxonomy development for decision support and business
+   analytics using semantic text mining
+AU Kő A.; Gillani S.
+TC 17
+SO International Journal of Information Technology and Decision Making
+PY 2020
+AB by 2018 , BUSINESS_ANALYTICS ( BA ) , believed by GLOBAL_CIOS to be of
+   STRATEGIC_IMPORTANCE , had for years been their TOP_PRIORITY . it is also a
+   focus of ACADEMIC_RESEARCH , as shown by a LARGE_NUMBER of papers , books ,
+   and RESEARCH_REPORTS . on the other hand , the BA_DOMAIN_SUFFERS from
+   several incorrect , imprecise , and INCOMPLETE_NOTIONS . NEW_AREAS and
+   CONCEPTS emerge quickly . making it difficult to ascertain their structure .
+   ba_related TAXONOMIES play a CRUCIAL_ROLE in analyzing , classifying , and
+   understanding related objects . however , according to the literature on
+   TAXONOMY_DEVELOPMENT in INFORMATION_SYSTEMS ( is ) , in most CASES the
+   process is ad hoc . BA_TAXONOMIES and frameworks are available in the
+   literature . however , some are excessively GENERAL_FRAMEWORKS with a
+   high_level conceptual focus , while others are application or
+   domain_specific . our PAPER_AIMS to present a novel semi_automatic method
+   for TAXONOMY_DEVELOPMENT and MAINTENANCE in the field of BA using
+   CONTENT_ANALYSIS and TEXT_MINING . the contribution of our RESEARCH is
+   threefold : ( 1 ) the TAXONOMY_DEVELOPMENT_METHOD , ( 2 ) the DRAFT_TAXONOMY
+   for BA , and ( 3 ) identifying the latest RESEARCH_AREAS and TRENDS in BA .
+   2020 world scientific PUBLISHING company .
+DE BUSINESS_ANALYTICS; ONTOLOGY; SEMANTIC_TECHNOLOGY; TAXONOMY;
+   TAXONOMY_DEVELOPMENT; TEXT_MINING
+ID ADVANCED_ANALYTICS; DATA_MINING; DECISION_SUPPORT_SYSTEMS;
+   NATURAL_LANGUAGE_PROCESSING_SYSTEMS; ONTOLOGY; SEMANTICS; ACADEMIC_RESEARCH;
+   BUSINESS_ANALYTICS; DECISION_SUPPORTS; DEVELOPMENT_METHOD;
+   SEMANTIC_TECHNOLOGIES; SEMANTIC_TEXT_MININGS; SEMIAUTOMATIC_METHODS;
+   TEXT_MINING; TAXONOMIES
+** ACADEMIC_RESEARCH; BA_DOMAIN_SUFFERS; BA_TAXONOMIES; BUSINESS_ANALYTICS;
+   CONTENT_ANALYSIS; CRUCIAL_ROLE; DECISION_SUPPORT; DRAFT_TAXONOMY;
+   GENERAL_FRAMEWORKS; GLOBAL_CIOS; HIGHLEVEL_CONCEPTUAL_FOCUS;
+   INCOMPLETE_NOTIONS; INFORMATION_SYSTEMS; LARGE_NUMBER; NEW_AREAS;
+   NOVEL_SEMIAUTOMATIC_METHOD; PAPER_AIMS; RESEARCH_AREAS; RESEARCH_REPORTS;
+   RESEARCH_REVIEW; SEMANTIC_TEXT; STRATEGIC_IMPORTANCE; TAXONOMY_DEVELOPMENT;
+   TAXONOMY_DEVELOPMENT_METHOD; TOP_PRIORITY
+
+--
+
+Record-No: 398
+AR Raghupathi W., 2021, DATA, V6
+TI Contemporary business analytics: An overview
+AU Raghupathi W.; Raghupathi V.
+TC 12
+SO Data
+PY 2021
+AB we examine the stateoftheart of the BUSINESS_ANALYTICS_FIELD by identifying
+   and de_scribing the four TYPES_OF_ANALYTICS and the THREE_PILLARS of
+   modeling . further , we offer a FRAMEWORK of the interplay between the
+   TYPES_OF_ANALYTICS and those pillars of modeling . the ARTICLE describes the
+   ARCHITECTURAL_FRAMEWORK and outlines an ANALYTICS_METHODOLOGY_LIFE_CYCLE .
+   additionally , key CONTEMPORARY_DESIGN_ISSUES and CHALLENGES are highlighted
+   . in this paper , we offer researchers and practitioners a
+   CONTEMPORARY_OVERVIEW of BUSINESS_ANALYTICS . as BUSINESS_ANALYTICS has
+   emerged as a DISTINCT_DISCIPLINE with the KEY_OBJECTIVE to GAIN_INSIGHT to
+   make informed decisions , this STATEOFTHE_ART_SURVEY_SHEDS_LIGHT on
+   RECENT_DEVELOPMENTS in the BUSINESS_ANALYTICS_DISCIPLINE . 2021 by the
+   authors . LICENSEE_MDPI , basel , SWITZERLAND .
+DE ANALYTICS_FRAMEWORK; ANALYTICS_METHODOLOGY; BUSINESS_ANALYTICS;
+   BUSINESS_INTELLIGENCE; DESCRIPTIVE; DISCOVERY; MACHINE_LEARNING; PREDICTIVE;
+   PRESCRIPTIVE; STATISTICAL_MODEL; THREE_PILLARS; TYPES_OF_ANALYTICS;
+   VISUALIZATION
+ID COMPETITIVE_INTELLIGENCE; DATA_ANALYTICS; LIFE_CYCLE; PREDICTIVE_ANALYTICS;
+   ANALYTIC_FRAMEWORK; ANALYTIC_METHODOLOGY; BUSINESS_ANALYTICS;
+   BUSINESS_INTELLIGENCE; DESCRIPTIVE; DISCOVERY; MACHINE_LEARNING; PREDICTIVE;
+   PRESCRIPTIVE; STATISTIC_MODELING; THREE_PILLAR; TYPE_OF_ANALYTIC;
+   MACHINE_LEARNING
+** ANALYTICS_METHODOLOGY_LIFE_CYCLE; ARCHITECTURAL_FRAMEWORK;
+   BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_DISCIPLINE; BUSINESS_ANALYTICS_FIELD;
+   CONTEMPORARY_BUSINESS_ANALYTICS; CONTEMPORARY_DESIGN_ISSUES;
+   CONTEMPORARY_OVERVIEW; DISTINCT_DISCIPLINE; KEY_OBJECTIVE; LICENSEE_MDPI;
+   RECENT_DEVELOPMENTS; STATEOFTHE_ART_SURVEY_SHEDS_LIGHT
+
+--
+
+Record-No: 20
+AR Horani O.M., 2023, BIG DATA COGN COMPUTING, V7
+TI Determining the Factors Influencing Business Analytics Adoption at
+   Organizational Level: A Systematic Literature Review
+AU Horani O.M.; Khatibi A.; Al-Soud A.R.; Tham J.; Al-Adwan A.S.
+TC 11
+SO Big Data and Cognitive Computing
+PY 2023
+AB the ADOPTION of BUSINESS_ANALYTICS ( BA ) has become increasingly important
+   for ORGANIZATIONS seeking to gain a COMPETITIVE_EDGE in today data_driven
+   BUSINESS_LANDSCAPE . hence , understanding the KEY_FACTORS influencing the
+   ADOPTION of BA at the ORGANIZATIONAL_LEVEL is decisive for the
+   SUCCESSFUL_IMPLEMENTATION of these TECHNOLOGIES . this paper presents a
+   SYSTEMATIC_LITERATURE_REVIEW that utilizes the PRISMA_TECHNIQUE to
+   investigate the organizational , TECHNOLOGICAL , and ENVIRONMENTAL_FACTORS
+   that affect the ADOPTION of BA . by conducting a THOROUGH_EXAMINATION of
+   PERTINENT_RESEARCH , this REVIEW_CONSOLIDATES the CURRENT_UNDERSTANDING and
+   pinpoints ESSENTIAL_ELEMENTS that shape the process of ADOPTION . out of a
+   total of 614 articles published between 2012 and 2022 , 29 FINAL_ARTICLES
+   were carefully chosen . the FINDINGS_HIGHLIGHT the significance of
+   ORGANIZATIONAL_FACTORS , TECHNOLOGICAL_FACTORS , and ENVIRONMENTAL_FACTORS
+   in shaping the ADOPTION of the BA_PROCESS . by consolidating and analyzing
+   the CURRENT_BODY of RESEARCH , this paper offers VALUABLE_INSIGHTS for
+   ORGANIZATIONS aiming to adopt BA successfully and maximize their benefits at
+   the ORGANIZATIONAL_LEVEL . the synthesized FINDINGS also contribute to the
+   existing literature and provide a foundation for FUTURE_RESEARCH in this
+   field . 2023 by the authors .
+DE BIG_DATA; BUSINESS_ANALYTICS; SYSTEMATIC_LITERATURE_REVIEW;
+   TECHNOLOGY_ADOPTION; TOE_FRAMEWORK
+ID CURRENT; BUSINESS_ANALYTICS; COMPETITIVE_EDGES; ENVIRONMENTAL_FACTORS;
+   ORGANIZATIONAL_FACTORS; ORGANIZATIONAL_LEVELS; SYSTEMATIC_LITERATURE_REVIEW;
+   TECHNOLOGICAL_FACTORS; TECHNOLOGY_ADOPTION; TOE_FRAMEWORK; BIG_DATA
+** BA_PROCESS; BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_ADOPTION;
+   COMPETITIVE_EDGE; CURRENT_BODY; CURRENT_UNDERSTANDING;
+   DATADRIVEN_BUSINESS_LANDSCAPE; ENVIRONMENTAL_FACTORS; ESSENTIAL_ELEMENTS;
+   FINAL_ARTICLES; FINDINGS_HIGHLIGHT; FUTURE_RESEARCH; KEY_FACTORS;
+   ORGANIZATIONAL_FACTORS; ORGANIZATIONAL_LEVEL; PERTINENT_RESEARCH;
+   PRISMA_TECHNIQUE; REVIEW_CONSOLIDATES; SUCCESSFUL_IMPLEMENTATION;
+   SYSTEMATIC_LITERATURE_REVIEW; TECHNOLOGICAL_FACTORS; THOROUGH_EXAMINATION;
+   VALUABLE_INSIGHTS
+
+--
+
+Record-No: 102
+AR Liu S./1, 2023, MATHEMATICS, V11
+TI A Review on Business Analytics: Definitions, Techniques, Applications and
+   Challenges
+AU Liu S./1; Liu O.; Chen J.
+TC 10
+SO Mathematics
+PY 2023
+AB over the past few decades , BUSINESS_ANALYTICS has been widely used in
+   VARIOUS_BUSINESS_SECTORS and has been effective in increasing
+   ENTERPRISE_VALUE . with the advancement of science and TECHNOLOGY in the
+   BIG_DATA_ERA , BUSINESS_ANALYTICS_TECHNIQUES have been changing and evolving
+   rapidly . therefore , this PAPER_REVIEWS the latest TECHNIQUES and
+   APPLICATIONS of BUSINESS_ANALYTICS based on the existing literature .
+   meanwhile , many problems and CHALLENGES are inevitable in the progress of
+   BUSINESS_ANALYTICS . therefore , this REVIEW also presents the CURRENT
+   CHALLENGES faced by BUSINESS_ANALYTICS and open RESEARCH_DIRECTIONS that
+   need further consideration . all the RESEARCH_PAPERS were obtained from the
+   WEB_OF_SCIENCE and GOOGLE_SCHOLAR_DATABASES and were filtered with several
+   SELECTION_RULES . this paper will help to provide IMPORTANT_INSIGHTS for
+   researchers in the field of BUSINESS_ANALYTICS , as it presents the latest
+   TECHNIQUES , VARIOUS_APPLICATIONS and several directions for FUTURE_RESEARCH
+   . 2023 by the authors .
+DE BUSINESS_ANALYTICS; DESCRIPTIVE_ANALYTICS;
+   MACHINE_LEARNING_AND_ARTIFICIAL_INTELLIGENCE; PERSPECTIVE_ANALYTICS;
+   PREDICTIVE_ANALYTICS
+** BIG_DATA_ERA; BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_TECHNIQUES;
+   ENTERPRISE_VALUE; FUTURE_RESEARCH; GOOGLE_SCHOLAR_DATABASES;
+   IMPORTANT_INSIGHTS; PAPER_REVIEWS; RESEARCH_DIRECTIONS; RESEARCH_PAPERS;
+   SELECTION_RULES; VARIOUS_APPLICATIONS; VARIOUS_BUSINESS_SECTORS
+
+--
+
+Record-No: 479
+AR Bouchet A., 2020, INT J REVENUE MANAGE, V11, P277
+TI Business analytics, revenue management and sport: Evidence from the field
+AU Bouchet A.; Troilo M.; Urban T.L.; Mondello M.; Sutton W.A.
+TC 9
+SO International Journal of Revenue Management
+PY 2020
+AB we surveyed 72 MANAGERS and executives from MAJOR_LEAGUE_BASEBALL ( mlb ) ,
+   the NATIONAL_FOOTBALL_LEAGUE ( nfl ) , the NATIONAL_BASKETBALL_ASSOCIATION (
+   nba ) , the NATIONAL_HOCKEY_LEAGUE ( nhl ) , and MAJOR_LEAGUE_SOCCER ( mls )
+   , as well as other north american PROFESSIONAL_SPORT_ORGANISATIONS including
+   auto racing , golf , and tennis regarding the use of BUSINESS_ANALYTICS in
+   SPORT MARKETING and REVENUE_GENERATION . we explore the use of
+   BUSINESS_ANALYTICS to drive improvement in TICKET_PRICING ,
+   CUSTOMER_RETENTION , lead scoring , sponsorship , PREMIUM_SALES , digital
+   MARKETING , FOOD and BEVERAGE , MERCHANDISING , and fan / game experience .
+   the MAIN_CONTRIBUTION of this paper is to show how MANAGERS of
+   PROFESSIONAL_SPORT_FRANCHISES in north AMERICA_UTILISE_BUSINESS_ANALYTICS to
+   drive REVENUE_GENERATION and to provide POSSIBLE_THEORETICAL_AVENUES of
+   FUTURE_RESEARCH . MANAGERIAL_IMPLICATIONS are that
+   CUSTOMER_RELATIONSHIP_MANAGEMENT ( CRM ) and FOOD , BEVERAGE , and
+   MERCHANDISING are increasing areas of interest . areas of prevalence are
+   highlighted as well as areas of POTENTIAL_IMPROVEMENT for the use of
+   ANALYTICS in PROFESSIONAL_SPORTS_ORGANISATIONS . copyright 2020
+   INDERSCIENCE_ENTERPRISES_LTD .
+DE BEVERAGE; BUSINESS_ANALYTICS; CRM; CUSTOMER_RELATIONSHIP_MANAGEMENT; FOOD;
+   MERCHANDISING; REVENUE_MANAGEMENT; SPORT; TICKET_PRICING
+** AMERICA_UTILISE_BUSINESS_ANALYTICS; BUSINESS_ANALYTICS;
+   CUSTOMER_RELATIONSHIP_MANAGEMENT; CUSTOMER_RETENTION; FUTURE_RESEARCH;
+   INDERSCIENCE_ENTERPRISES_LTD; MAIN_CONTRIBUTION; MAJOR_LEAGUE_BASEBALL;
+   MAJOR_LEAGUE_SOCCER; MANAGERIAL_IMPLICATIONS;
+   NATIONAL_BASKETBALL_ASSOCIATION; NATIONAL_FOOTBALL_LEAGUE;
+   NATIONAL_HOCKEY_LEAGUE; POSSIBLE_THEORETICAL_AVENUES; POTENTIAL_IMPROVEMENT;
+   PREMIUM_SALES; PROFESSIONAL_SPORTS_ORGANISATIONS;
+   PROFESSIONAL_SPORT_FRANCHISES; PROFESSIONAL_SPORT_ORGANISATIONS;
+   REVENUE_GENERATION; REVENUE_MANAGEMENT
+
+--
+
+Record-No: 378
+AR Li X., 2021, J IND INTEGR MANAG, V6, P31
+TI Business analytics in E-commerce: a literature review
+AU Li X.
+TC 7
+SO Journal of Industrial Integration and Management
+PY 2021
+AB this PAPER_ATTEMPTS to identify the VALUE and the use of BUSINESS_ANALYTICS
+   ( BA ) in e_commerce , and CHALLENGES and TRENDS associated with BA in
+   e_commerce . it systematically examines the literature about BA , with a
+   PARTICULAR_FOCUS on e_commerce . BA has CRITICAL_VALUE in e_commerce . BA
+   has been used in CUSTOMER_ANALYSIS and WEBSITE_USAGE_ANALYSIS . the most
+   IMPORTANT_FACTOR for the VALUE of e_commerce BA is customer . this paper
+   also suggests an e_commerce BA_RESEARCH MODEL which describes the
+   BA_ITERATIVE_PROCESS from DATA to analysis , to decision , to estimation ,
+   and SEPARATES_BA_ANALYSIS_RESULTS as functional_level and competitive_level
+   results . CHALLENGES identified in this PAPER_HOLD_THEORETICAL and
+   PRACTICAL_IMPLICATIONS . FUTURE_STUDIES could seek an enhanced understanding
+   of BA through QUANTITATIVE_ANALYSIS . world scientific PUBLISHING co .
+DE BUSINESS_ANALYTICS; E_COMMERCE
+ID ADVANCED_ANALYTICS; BUSINESS_ANALYTICS; CRITICAL_VALUE; CUSTOMER_ANALYSIS;
+   FUNCTIONAL_LEVELS; ITERATIVE_PROCESS; LITERATURE_REVIEWS; RESEARCH_MODELS;
+   USAGE_ANALYSIS; ELECTRONIC_COMMERCE
+** BA_ITERATIVE_PROCESS; BUSINESS_ANALYTICS; COMPETITIVELEVEL_RESULTS;
+   CRITICAL_VALUE; CUSTOMER_ANALYSIS; ECOMMERCE_BA;
+   ECOMMERCE_BA_RESEARCH_MODEL; FUTURE_STUDIES; IMPORTANT_FACTOR;
+   LITERATURE_REVIEW; PAPER_ATTEMPTS; PAPER_HOLD_THEORETICAL; PARTICULAR_FOCUS;
+   PRACTICAL_IMPLICATIONS; QUANTITATIVE_ANALYSIS;
+   SEPARATES_BA_ANALYSIS_RESULTS; WEBSITE_USAGE_ANALYSIS
+
+--
+
+Record-No: 303
+AR Nicolas F.N.P., 2021, BRAZ J OPER PROD MANAG, V18
+TI Usage of information technology and business analytics within sales and
+   operations planning: A systematic literature review*
+AU Nicolas F.N.P.; Thomé A.M.T.; Hellingrath B.
+TC 5
+SO Brazilian Journal of Operations and Production Management
+PY 2021
+AB goal : this PAPER_AIMS to analyze to which extend the usage of
+   INFORMATION_TECHNOLOGY ( it ) and BUSINESS_ANALYTICS ( BA ) have been
+   explored in the context of SALES_AND_OPERATIONS_PLANNING ( s&op ) . DESIGN /
+   METHODOLOGY / approach : this STUDY_CONDUCTS a SYSTEMATIC_LITERATURE_REVIEW
+   to synthesize the STATE_OF_THE_ART of it and BA in s&op . the REVIEW follows
+   the RIGOROUS_APPROACH by thome et al . ( 2016 ) . through the
+   LITERATURE_SEARCH , 442 results were retrieved , of which 57 were selected
+   for the analysis . the results containing ANALYTICS_TECHNIQUES are
+   classified by the PLANNING_TASKS of s&op that they address . results : the
+   analysis provides an overview of the DOMINANT_THEMES in the field of it , BA
+   and s&op and leads to a CLASSIFICATION of the existing RESEARCH in the field
+   of BA for s&op . this study finds that it can be an enabler of s&op and that
+   most ANALYTICS_TECHNIQUES_ADDRESS_S&op through fully_integrated
+   OPTIMIZATION_APPROACHES . yet , the impact on the s&OP_PROCESS has not been
+   explored . this study thus IDENTIFIES_GAPS for FUTURE_RESEARCH and proposes
+   a RESEARCH_AGENDA on BA on s&op . limitations of the investigation : the
+   SYSTEMATIC_LITERATURE_REVIEW is restricted to the ELVESIER_SCOPUS_DATABASE .
+   scopus has EXCELLENT_COVERAGE regarding RELEVANT_JOURNALS for this study .
+   despite scopus being a PROMINENT_SCIENTIFIC_DATABASE , other databases might
+   reveal ADDITIONAL_STUDIES and further INSIGHTS . PRACTICAL_IMPLICATIONS :
+   the FINDINGS of this study provide INSIGHTS on how it and BA can support and
+   influence the s&OP_PROCESS . originality / VALUE : in RECENT_YEARS , s&op ,
+   it and BA have seen a growing interest by scholars . to the best of the
+   AUTHORS_KNOWLEDGE , the number of published LITERATURE_REVIEWS on s&op and
+   BA is scarce . this study provides an overview of how it and BA are used
+   within s&op . 2021 , ASSOCIACAO_BRASILEIRA de engenharia de producao . all
+   rights reserved .
+DE BUSINESS_ANALYTICS; INFORMATION_TECHNOLOGY; SALES_AND_OPERATIONS_PLANNING;
+   SUPPLY_CHAIN_ANALYTICS; SYSTEMATIC_REVIEW
+** ADDITIONAL_STUDIES; ANALYTICS_TECHNIQUES; ANALYTICS_TECHNIQUES_ADDRESS_S;
+   ASSOCIACAO_BRASILEIRA; AUTHORS_KNOWLEDGE; BUSINESS_ANALYTICS;
+   DOMINANT_THEMES; ELVESIER_SCOPUS_DATABASE; EXCELLENT_COVERAGE;
+   FUTURE_RESEARCH; IDENTIFIES_GAPS; INFORMATION_TECHNOLOGY;
+   LITERATURE_REVIEWS; LITERATURE_SEARCH; OPTIMIZATION_APPROACHES; OP_PROCESS;
+   PAPER_AIMS; PLANNING_TASKS; PRACTICAL_IMPLICATIONS;
+   PROMINENT_SCIENTIFIC_DATABASE; RECENT_YEARS; RELEVANT_JOURNALS;
+   RESEARCH_AGENDA; RIGOROUS_APPROACH; STUDY_CONDUCTS;
+   SYSTEMATIC_LITERATURE_REVIEW
+
+--
+
+Record-No: 360
+AR Yiu L.M.D., 2021, INT J SHIPP TRANSP LOGIST, V13, P649
+TI Firms’ operational and logistics characteristics and realisation of business
+   analytics benefits: Evidence from stock markets
+AU Yiu L.M.D.; Yeung A.C.L.; Lam H.K.S.; Cheng T.C.E.
+TC 3
+SO International Journal of Shipping and Transport Logistics
+PY 2021
+AB the idea of BIG_DATA provides practitioners in the LOGISTICS_INDUSTRY with
+   VALUABLE_OPPORTUNITIES to improve their OPERATIONAL_EFFICIENCY and
+   ECONOMIC_PERFORMANCE . in FACT , BUSINESS_ANALYTICS_TECHNIQUES are
+   increasingly being used in INTERNATIONAL_LOGISTICS , shipping , and
+   SUPPLY_CHAIN_MANAGEMENT . we examine the impact of BUSINESS_INTELLIGENCE (
+   BI ) SYSTEM_ADOPTION on FIRMS_MARKET_VALUE and the influences of the
+   operating characteristics and contexts of FIRMS . specifically , we examine
+   whether the impacts of BI_ADOPTION are contingent on
+   INDUSTRY_COMPETITIVENESS , FIRMS OPERATING_CYCLE , and INDUSTRY_MUNIFICENCE
+   . using the EVENT_STUDY_METHODOLOGY , we analyse 272 MANUFACTURING FIRMS in
+   the usa that adopted BI_SYSTEMS from 2005 to 2014 . we find that BI_ADOPTION
+   does not have an IMMEDIATE_IMPACT on FIRMS_STOCK_RETURNS , but SUCH_IMPACT
+   is significantly enhanced for FIRMS in highly COMPETITIVE_INDUSTRIES , and
+   those with short operating cycles and HIGH_INDUSTRY_MUNIFICENCE , i.e.,
+   high_growth INDUSTRIES , suggesting that FIRMS in fast_changing
+   DYNAMIC_ENVIRONMENTS find BI_SYSTEMS much more useful . 2021
+   INDERSCIENCE_ENTERPRISES_LTD .
+DE BUSINESS_INTELLIGENCE_SYSTEMS; INDUSTRY_COMPETITIVENESS;
+   INDUSTRY_MUNIFICENCE; OPERATING_CYCLE; STOCK_RETURNS
+** BIG_DATA; BI_ADOPTION; BI_SYSTEMS; BUSINESS_ANALYTICS_BENEFITS;
+   BUSINESS_ANALYTICS_TECHNIQUES; BUSINESS_INTELLIGENCE; CHAIN_MANAGEMENT;
+   COMPETITIVE_INDUSTRIES; DYNAMIC_ENVIRONMENTS; ECONOMIC_PERFORMANCE;
+   EVENT_STUDY_METHODOLOGY; FIRMS_MARKET_VALUE; FIRMS_OPERATIONAL;
+   FIRMS_STOCK_RETURNS; HIGHGROWTH_INDUSTRIES; HIGH_INDUSTRY_MUNIFICENCE;
+   IMMEDIATE_IMPACT; INDERSCIENCE_ENTERPRISES_LTD; INDUSTRY_COMPETITIVENESS;
+   INDUSTRY_MUNIFICENCE; INTERNATIONAL_LOGISTICS; LOGISTICS_CHARACTERISTICS;
+   LOGISTICS_INDUSTRY; OPERATIONAL_EFFICIENCY; STOCK_MARKETS; SUCH_IMPACT;
+   SYSTEM_ADOPTION; VALUABLE_OPPORTUNITIES
+
+--
+
+Record-No: 377
+AR Singh M., 2021, INT J SERV OPER MANAGE, V38, P110
+TI Systematic literature review on application of business analytics and
+   information technology in supply chain performances
+AU Singh M.; Prabhakar R.
+TC 2
+SO International Journal of Services and Operations Management
+PY 2021
+AB SUPPLY_CHAIN_MANAGEMENT ( SCM ) functions are having APPLICATIONS of
+   BUSINESS_ANALYTICS ( BA ) . SUPPLY_CHAIN MANAGERS uses BA as
+   COMPETITIVE_TOOL . application of BA in KEY_SCM_FUNCTIONS , with
+   INFORMATION_TECHNOLOGY ( it ) innovations has been a topic of
+   TREMENDOUS_INTEREST to both practitioners and researchers . we identified
+   more than 200 articles ( over two decade ) and classified them by year of
+   publication , FUNCTIONAL_DISCIPLINE , PUBLICATION_SOURCE ,
+   RESEARCH_METHODOLOGY and application for the PURPOSE of
+   COMPREHENSIVE_LITERATURE_REVIEW . STUDY_IDENTIFIES_RELATIONSHIP between
+   ANALYTICAL_TOOLS and it in SUPPLY_CHAIN DECISION_MAKING and SUPPLY_CHAIN
+   performances . it EXPLORES_RESEARCH_TRENDS and PATTERNS across disciplines
+   and suggestions of POTENTIAL_AREAS for FUTURE_RESEARCH in BA , it and
+   SUPPLY_CHAIN DECISION_MAKING and performances . 2021
+   INDERSCIENCE_ENTERPRISES_LTD .
+DE BUSINESS_ANALYTICS; INFORMATION_TECHNOLOGY; OPERATIONAL_PERFORMANCES; SCM;
+   SUPPLY_CHAIN_MANAGEMENT
+** ANALYTICAL_TOOLS; BUSINESS_ANALYTICS; CHAIN_DECISION_MAKING;
+   CHAIN_MANAGEMENT; CHAIN_MANAGERS_USES_BA; CHAIN_PERFORMANCES;
+   COMPETITIVE_TOOL; COMPREHENSIVE_LITERATURE_REVIEW; EXPLORES_RESEARCH_TRENDS;
+   FUNCTIONAL_DISCIPLINE; FUTURE_RESEARCH; INDERSCIENCE_ENTERPRISES_LTD;
+   INFORMATION_TECHNOLOGY; KEY_SCM_FUNCTIONS; POTENTIAL_AREAS;
+   PUBLICATION_SOURCE; RESEARCH_METHODOLOGY; STUDY_IDENTIFIES_RELATIONSHIP;
+   SYSTEMATIC_LITERATURE_REVIEW; TREMENDOUS_INTEREST
+
+--
+
+Record-No: 244
+AR Gómez-Caicedo M.I., 2022, FRONTIER ARTIF INTELL, V5
+TI Business analytics approach to artificial intelligence
+AU Gómez-Caicedo M.I.; Gaitán-Angulo M.; Bacca-Acosta J.; Briñez Torres C.Y.;
+   Cubillos Díaz J.
+TC 1
+SO Frontiers in Artificial Intelligence
+PY 2022
+AB ARTIFICIAL_INTELLIGENCE has become an ESSENTIAL_ELEMENT for strengthening
+   the BUSINESS_FABRIC . the advances obtained in RECENT_YEARS as a result of
+   the incorporation of TECHNOLOGY for the improvement of PRODUCTIVE_ACTIVITIES
+   and the positioning of companies in the markets are remarkable . hence , the
+   PURPOSE of this paper is to analyze the origin , evolution and development
+   of BUSINESS_ANALYTICS ( BA ) and its RELATIONSHIP with
+   ARTIFICIAL_INTELLIGENCE ( ai ) . from the conceptualization , evolution and
+   identification of the MAIN_CHARACTERISTICS and RESEARCH_AREAS of ai and BA ,
+   as well as RESEARCH conducted and published in journals indexed in scopus
+   between 2002 and 2022 . the aim is to define the incidence of BA in
+   BUSINESS_ACTIVITIES and analyze SCIENTIFIC_ACTIVITY and advances of BA to
+   define NEW_RESEARCH_HORIZONS in this field . for this PURPOSE , a
+   BIBLIOMETRIC and DOCUMENTARY_ANALYSIS is applied , allowing to highlight the
+   FINDINGS that provide recognition and comparison of the results . this will
+   facilitate the understanding of the CURRENT_DYNAMICS , its importance for
+   ORGANIZATIONS , and its impact in the FACE of the new CHALLENGES generated
+   by the requirements of WORLD_TRADE . copyright 2022 gomez_caicedo ,
+   gaitan_angulo , bacca_acosta , BRINEZ_TORRES and CUBILLOS_DIAZ .
+DE ARTIFICIAL_INTELLIGENCE; BUSINESS_ANALYTICS; ECONOMICS;
+   ECONOMICS_AND_BUSINESS; GROW
+** ARTIFICIAL_INTELLIGENCE; BRINEZ_TORRES; BUSINESS_ACTIVITIES;
+   BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_APPROACH; BUSINESS_FABRIC;
+   CUBILLOS_DIAZ; CURRENT_DYNAMICS; DOCUMENTARY_ANALYSIS; ESSENTIAL_ELEMENT;
+   MAIN_CHARACTERISTICS; NEW_RESEARCH_HORIZONS; PRODUCTIVE_ACTIVITIES;
+   RECENT_YEARS; RESEARCH_AREAS; SCIENTIFIC_ACTIVITY; WORLD_TRADE
+
+--
+
+Record-No: 100
+AR Chatterjee A./1, 2024, MANAG LABOUR STUD, V49, P337
+TI A Journey of Business Analytics in Improving Supply Chain Performance: A
+   Systematic Review of Literature
+AU Chatterjee A./1; Chatterjee D.
+TC 0
+SO Management and Labour Studies
+PY 2024
+AB the influence of BUSINESS_ANALYTICS on SUPPLY_CHAIN PERFORMANCE has become
+   notable over the last decade . the PURPOSE of this study is to identify and
+   analyze the effect of ENDOGENOUS_VARIABLES of BUSINESS_ANALYTICS , if any ,
+   on SUPPLY_CHAIN PERFORMANCE . we have conducted a
+   SYSTEMATIC_LITERATURE_REVIEW ( slr ) in four SEQUENTIAL_STAGES , that is ,
+   collecting existing literature from RELEVANT_DATABASES , finding endogenous
+   variable ( s ) in this context , classifying papers based on how the
+   endogenous variable ( s ) under consideration affect the impact of
+   BUSINESS_ANALYTICS on SUPPLY_CHAIN PERFORMANCE and , finally , segmenting
+   the literature depending on DIFFERENT_TYPES of SUPPLY_CHAIN PERFORMANCE .
+   the STUDY_CONSIDERS_RESEARCH_PAPERS published during the period 20082023 .
+   based on the analysis of the literature , it is found that
+   MARKET_COMPETITION is an IMPORTANT_ENDOGENOUS variable in this context .
+   this variable can impact the RELATIONSHIP between BUSINESS_ANALYTICS and
+   SUPPLY_CHAIN PERFORMANCE in DIFFERENT_WAYS . it can serve as a moderating
+   variable , mediating variable or main variable . in this study , we have
+   shown how DIRECTIONAL_RELATIONSHIPS among BUSINESS_ANALYTICS ,
+   MARKET_COMPETITION and SUPPLY_CHAIN PERFORMANCE have changed over time . the
+   FUTURE_SCOPE of the proposed study could be to identify other
+   ENDOGENOUS_VARIABLES at the time of verifying the influence of
+   BUSINESS_ANALYTICS on SUPPLY_CHAIN PERFORMANCE . 2023 XLRI_JAMSHEDPUR ,
+   school of BUSINESS_MANAGEMENT & HUMAN_RESOURCES .
+DE BUSINESS_ANALYTICS; MARKET_COMPETITION; SUPPLY_CHAIN_PERFORMANCE;
+   SYSTEMATIC_LITERATURE_REVIEW
+** BUSINESS_ANALYTICS; BUSINESS_MANAGEMENT; CHAIN_PERFORMANCE; DIFFERENT_TYPES;
+   DIFFERENT_WAYS; DIRECTIONAL_RELATIONSHIPS; ENDOGENOUS_VARIABLES;
+   FUTURE_SCOPE; HUMAN_RESOURCES; IMPORTANT_ENDOGENOUS; MARKET_COMPETITION;
+   RELEVANT_DATABASES; SEQUENTIAL_STAGES; STUDY_CONSIDERS_RESEARCH_PAPERS;
+   SYSTEMATIC_LITERATURE_REVIEW; SYSTEMATIC_REVIEW; XLRI_JAMSHEDPUR
+
+--
+
+Record-No: 376
+AR [Anonymous], 2021, STRATEG DIR, V37, P33
+TI Increasing the viability of project selection and prioritization: The role
+   of business analytics and sensemaking
+TC 0
+SO Strategic Direction
+PY 2021
+AB PURPOSE : this briefing is prepared by an INDEPENDENT_WRITER who adds their
+   OWN_IMPARTIAL_COMMENTS and places the articles in context . DESIGN /
+   METHODOLOGY / approach : this PAPER_AIMS to REVIEW the latest
+   MANAGEMENT_DEVELOPMENTS across the globe and pinpoint PRACTICAL_IMPLICATIONS
+   from cutting_edge RESEARCH and CASE_STUDIES . FINDINGS : BUSINESS_ANALYTICS
+   ( BA ) can help FIRMS better select and PRIORITIZE_PROJECT_WORK they
+   undertake . DATA generated through ANALYTICS permits awareness of changes in
+   the operating environment and can be used to inform SENSEMAKING and
+   alongside intuition to enhance decision_making . originality / VALUE : the
+   briefing saves BUSY_EXECUTIVES and RESEARCHERS_HOURS of reading time by
+   selecting only the very best , most PERTINENT_INFORMATION and presenting it
+   in a condensed and easy_to_digest format . 2021 , emerald PUBLISHING limited
+   .
+DE BUSINESS_ANALYTICS; PROJECT_SELECTION; SENSEMAKING; START_UPS
+** BUSINESS_ANALYTICS; BUSY_EXECUTIVES; CASE_STUDIES; CUTTINGEDGE_RESEARCH;
+   EASYTODIGEST_FORMAT; INDEPENDENT_WRITER; MANAGEMENT_DEVELOPMENTS;
+   OWN_IMPARTIAL_COMMENTS; PAPER_AIMS; PERTINENT_INFORMATION;
+   PRACTICAL_IMPLICATIONS; PRIORITIZE_PROJECT_WORK; PROJECT_SELECTION;
+   RESEARCHERS_HOURS
+
+
+
+
+LENGTH: 
+200 words

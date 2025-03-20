@@ -1,0 +1,33 @@
+Record-No: 4
+AR Zhang Y./1, 2022, MOB INF SYS, V2022
+TI Introducing Business Visual Analytics into Business Education by Information
+   Technology and Computing Methods
+AU Zhang Y./1; Chan K.K.; Liu J.
+TC 0
+SO Mobile Information Systems
+PY 2022
+AB BUSINESS_STUDENTS feel an urgency to be competent involving
+   BUSINESS_INTELLIGENCE in their studies and career . this STUDY_EXAMINES the
+   CURRENT_LITERATURE on BUSINESS_VISUAL_ANALYTIC_TECHNOLOGIES ( vats ) , both
+   in the BUSINESS_COMMUNITY and in BUSINESS_LEARNING , and points out
+   consideration as a RESEARCH_GAP in the existing literature . we conduct a
+   SYSTEMATIC_REVIEW with DATABASE_SEARCHES from 2006 to 2020 . the objectives
+   of the review are to identify ( a ) . the existing terminologies related to
+   vats in the literature . ( b ) . the purpose of VAT_APPLICATION and the
+   benefits of vats in the BUSINESS_COMMUNITY . and to examine ( c ) . how the
+   vats are related to the EDUCATIONAL_CONTEXT , particularly , in
+   BUSINESS_LEARNING . the findings indicate that vats provide
+   POSITIVE_ENHANCEMENT in BUSINESS_ANALYTICS . however , the effect of
+   VAT_APPLICATION in BUSINESS_LEARNING is rather limited . we provide insights
+   for further studies involving vat_enhanced BUSINESS_LEARNING . 2022
+   YUYU_ZHANG et al .
+ID SEARCH_ENGINES; CURRENT; BUSINESS_COMMUNITY; BUSINESS_EDUCATIONS;
+   COMPUTING_METHODS; DATABASE_SEARCHES; EDUCATIONAL_CONTEXT; RESEARCH_GAPS;
+   SYSTEMATIC_REVIEW; TECHNOLOGY_APPLICATION; VISUAL_ANALYTICS; VISUALIZATION
+** BUSINESS_ANALYTICS; BUSINESS_COMMUNITY; BUSINESS_EDUCATION;
+   BUSINESS_INTELLIGENCE; BUSINESS_LEARNING; BUSINESS_STUDENTS;
+   BUSINESS_VISUAL_ANALYTICS; BUSINESS_VISUAL_ANALYTIC_TECHNOLOGIES;
+   CURRENT_LITERATURE; DATABASE_SEARCHES; EDUCATIONAL_CONTEXT;
+   INFORMATION_TECHNOLOGY; POSITIVE_ENHANCEMENT; RESEARCH_GAP; STUDY_EXAMINES;
+   SYSTEMATIC_REVIEW; VAT_APPLICATION; YUYU_ZHANG
+

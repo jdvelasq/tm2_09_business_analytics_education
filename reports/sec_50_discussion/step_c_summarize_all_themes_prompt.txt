@@ -1,0 +1,36 @@
+CONTEXT:
+The following is list of TOPICS on BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. 
+
+
+TASK:
+Your task is to reduce the list of provided TOPICS. The new TOPICS are the interest for the readers of the target journal.
+
+
+TARGET JOURNAL:
+The Journal of STRATEGIC INFORMATION SYSTEMS focuses on the strategic management, business and organizational 
+
+
+REQUIREMENTS:
+- The list must be reduced to a maximum of 15 TOPICS.
+- The name of the TOPICS must be general.
+- Do not include in the TOPICS the names of techniques, methodologies, technologies, or specific tools.
+- Be suer of not missing any relevant TOPIC.
+- The TOPICS have a maximum of 5 words.
+
+
+LIST OF TOPICS:
+Technology-Enhanced Learning
+Innovative Teaching Methods
+Experiential Learning Approaches
+Data Literacy and Ethics
+Interdisciplinary Educational Approaches
+Curriculum Design and Development
+Learning Analytics
+Faculty and Professional Development
+Student Engagement and Outcomes
+Program Evaluation and Assessment
+Analytical Skills Development
+Industry Collaboration
+Collaborative Learning
+Adaptive Learning Environments
+Challenges in Teaching Analytics

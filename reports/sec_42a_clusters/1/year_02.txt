@@ -1,0 +1,399 @@
+---
+
+Record-No: 67
+AR Kuz’Mina E.V., 2022, SMART INNOV SYST TECHNOL, V275, P571
+TI Using the Technology of Collecting and Analyzing Structured Information for
+   the Forming Mechanisms of Professional Adaptation Among Students of
+   Engineering Disciplines
+AU Kuz’Mina E.V.; Pyankova N.G.; Tretyakova N.V.; Kukharenko L.V.
+TC 0
+SO Smart Innovation, Systems and Technologies
+PY 2022
+AB currently , ENGINEERING_ACTIVITY , like any other , is accompanied by
+   INFORMATION_TECHNOLOGIES . ENGINEERING_DATA are related to
+   STRUCTURED_INFORMATION the availability of a LARGE_NUMBER of databases and
+   the move to DATA_WAREHOUSES requires a rethinking of the DATA_ENTRY ,
+   processing , and RETRIEVAL_METHODS being used . today ,
+   BUSINESS_INTELLIGENCE is the prerogative of DATA_ANALYSTS and DATA_MODELERS
+   . however , the analyst only acts as a link between the
+   DATA_ANALYSIS_PROCESS and specialists in VARIOUS_FIELDS , including
+   bachelors of the direction 35.03.03 agro_chemistry and agro_soil science.
+   it is , therefore , necessary to develop competencies in BUSINESS_ANALYTICS
+   for STUDENTS who chose this direction . this will allow graduates to adapt
+   to PROFESSIONAL_ACTIVITIES because MODERN_AGRICULTURAL_ENTERPRISES are
+   evolving toward automation of TECHNOLOGICAL_PROCESSES . PROCESS_PARAMETERS
+   are entered into a DATABASE and storage to organize DECISION_SUPPORT in
+   AGROCHEMICAL_ACTIVITIES . on this basis , the authors have prepared a
+   training methodology for bachelors of the direction 35.03.03 agro_chemistry
+   and agro_soil science on the use of structured INFORMATION_COLLECTION and
+   ANALYSIS_TECHNOLOGY . PARTICULAR_ATTENTION was paid to methods of preparing
+   data for analysis . the results of a PEDAGOGICAL_EXPERIMENT of applying the
+   methodology using rosenbaum q_criterion STATISTICAL_METHOD were presented .
+   2022 , the author ( s ) , under EXCLUSIVE_LICENSE to
+   SPRINGER_NATURE_SINGAPORE_PTE_LTD .
+DE AGRO_CHEMISTRY; BUSINESS_ANALYTICS; DATA_MINING; ENGINEERS;
+   INFORMATION_TECHNOLOGY; KNOWLEDGE; PROFESSIONAL_ADAPTATION;
+   PROFESSIONAL_COMPETENCE; SKILLS; STRUCTURED_INFORMATION
+ID CHEMICAL_ANALYSIS; DATA_HANDLING; DATA_MINING; DATA_WAREHOUSES;
+   DECISION_SUPPORT_SYSTEMS; DIGITAL_STORAGE; ENGINEERING_EDUCATION;
+   INFORMATION_USE; STUDENTS; AGRO_CHEMISTRY; BUSINESS_ANALYTICS;
+   ENGINEERING_DISCIPLINES; FORMING_MECHANISM; KNOWLEDGE;
+   PROFESSIONAL_ADAPTATION; PROFESSIONAL_COMPETENCE; SKILL; SOIL_SCIENCE;
+   STRUCTURED_INFORMATION; PROFESSIONAL_ASPECTS
+** AGROCHEMICAL_ACTIVITIES; AGROSOIL_SCIENCE; ANALYSIS_TECHNOLOGY;
+   BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE; DATA_ANALYSIS_PROCESS;
+   DATA_ANALYSTS; DATA_ENTRY; DATA_MODELERS; DATA_WAREHOUSES; DECISION_SUPPORT;
+   ENGINEERING_ACTIVITY; ENGINEERING_DATA; ENGINEERING_DISCIPLINES;
+   EXCLUSIVE_LICENSE; INFORMATION_COLLECTION; INFORMATION_TECHNOLOGIES;
+   LARGE_NUMBER; MODERN_AGRICULTURAL_ENTERPRISES; PARTICULAR_ATTENTION;
+   PEDAGOGICAL_EXPERIMENT; PROCESS_PARAMETERS; PROFESSIONAL_ACTIVITIES;
+   PROFESSIONAL_ADAPTATION; RETRIEVAL_METHODS; ROSENBAUM_QCRITERION;
+   SPRINGER_NATURE_SINGAPORE_PTE_LTD; STATISTICAL_METHOD;
+   TECHNOLOGICAL_PROCESSES; VARIOUS_FIELDS
+
+---
+
+Record-No: 99
+AR Hoang V.-N., 2022, DECIS SCI J INNOVATIVE EDUC, V20, P201
+TI Teaching binary logistic regression modeling in an introductory business
+   analytics course
+AU Hoang V.-N.; Watson J.
+TC 0
+SO Decision Sciences Journal of Innovative Education
+PY 2022
+AB there is an increasing demand to INTRODUCE_INTRODUCTORY_BUSINESS_ANALYTICS (
+   iba ) courses into UNDERGRADUATE_BUSINESS_EDUCATION . many real_world
+   business contexts require PREDICTIVE_ANALYTICS to understand the
+   determinants of a DICHOTOMOUS_OUTCOME . hence , IBA_COURSES should include
+   BINARY_LOGISTIC_REGRESSION_ANALYSIS . this ARTICLE provides our
+   REFLECTIVE_DISCUSSIONS on the DESIGN of LEARNING_ACTIVITIES and assessments
+   to assist BUSINESS_STUDENTS in LEARNING BINARY_LOGISTIC_REGRESSION in an
+   IBA_COURSE . data on STUDENT_ENGAGEMENT and LEARNING_OUTCOMES are used to
+   she would light on the impacts of TEACHING LOGISTIC_REGRESSION on
+   STUDENT_LEARNING and experience . notably , STUDENTS_OPT to focus their
+   ASSESSMENT_WORK more on LOGISTIC_REGRESSION than on
+   MULTIPLE_REGRESSION_ANALYSIS , showing the POTENTIAL_ATTRACTION of STUDENTS
+   toward BINARY_LOGISTIC_REGRESSION_ANALYSIS . we also observed several
+   challenges , mainly related to the use of excel , that require
+   SPECIAL_ATTENTION from instructors . 2022 the authors .
+   DECISION_SCIENCES_JOURNAL of INNOVATIVE_EDUCATION published by
+   WILEY_PERIODICALS_LLC on behalf of DECISION_SCIENCES_INSTITUTE .
+DE BINARY_LOGISTIC_REGRESSION; BUSINESS_ANALYTICS; CLASSIFICATION_MODELING;
+   LINEAR_REGRESSION
+** ASSESSMENT_WORK; BINARY_LOGISTIC_REGRESSION;
+   BINARY_LOGISTIC_REGRESSION_ANALYSIS; BUSINESS_STUDENTS;
+   DECISION_SCIENCES_INSTITUTE; DECISION_SCIENCES_JOURNAL; DICHOTOMOUS_OUTCOME;
+   IBA_COURSE; IBA_COURSES; INNOVATIVE_EDUCATION;
+   INTRODUCE_INTRODUCTORY_BUSINESS_ANALYTICS;
+   INTRODUCTORY_BUSINESS_ANALYTICS_COURSE; LEARNING_OUTCOMES;
+   LOGISTIC_REGRESSION; MULTIPLE_REGRESSION_ANALYSIS; POTENTIAL_ATTRACTION;
+   PREDICTIVE_ANALYTICS; REALWORLD_BUSINESS_CONTEXTS; REFLECTIVE_DISCUSSIONS;
+   SPECIAL_ATTENTION; STUDENTS_OPT; STUDENT_ENGAGEMENT; STUDENT_LEARNING;
+   UNDERGRADUATE_BUSINESS_EDUCATION; WILEY_PERIODICALS_LLC
+
+---
+
+Record-No: 93
+AR Williams B., 2021, COMMUN ASSOC INFO SYST, V48, P32
+TI Teaching business analytics during the covid-19 pandemic: A tale of two
+   courses
+AU Williams B.; Elmore R.
+TC 8
+SO Communications of the Association for Information Systems
+PY 2021
+AB we describe our experience in TEACHING two DIFFERENT_LEVELS of
+   UNDERGRADUATE_BUSINESS_ANALYTICS_COURSES during the CORONAVIRUS_DISEASE of
+   2019 ( covid_19 ) pandemic . in particular , we focus on two challenges that
+   arose during the shift to emergency REMOTE_TEACHING : 1 ) ENGAGING_STUDENTS
+   and 2 ) TEACHING STUDENTS how to use software . we discuss our efforts to
+   mitigate the effects of these problems and highlight the differences in
+   implementing our strategies in a general_education ( i.e., required for
+   BUSINESS_MAJORS ) COURSE_VERSUS an upper_level elective . finally , we
+   discuss lessons learned and recommendations for other EDUCATORS_REGARDLESS
+   of their TEACHING modality . 2021 by the association for INFORMATION_SYSTEMS
+   .
+DE ANALYTICS; LEARNING; PEDAGOGY
+ID ADVANCED_ANALYTICS; BUSINESS_ANALYTICS; BUSINESS_MAJORS; CORONAVIRUSES;
+   ENGAGING_STUDENTS; GENERAL_EDUCATION; REMOTE_TEACHING; TEACHING
+** BUSINESS_ANALYTICS; BUSINESS_MAJORS; CORONAVIRUS_DISEASE; COURSE_VERSUS;
+   COVID19_PANDEMIC; DIFFERENT_LEVELS; EDUCATORS_REGARDLESS;
+   INFORMATION_SYSTEMS; REMOTE_TEACHING;
+   UNDERGRADUATE_BUSINESS_ANALYTICS_COURSES; UPPERLEVEL_ELECTIVE
+
+---
+
+Record-No: 43
+AR Shim K.J., 2021, IEEE GLOBAL ENG EDU CONF EDUCON, V2021-April, P1337
+TI Integration of professional certifications with information systems business
+   analytics track curriculum
+AU Shim K.J.; Swapna G.; Lau Y.M.
+TC 6
+SO IEEE Global Engineering Education Conference, EDUCON
+PY 2021
+AB in this study , we showcase a DESIGN of an
+   UNDERGRADUATE_BUSINESS_ANALYTICS_TRACK that integrates
+   PROFESSIONAL_CERTIFICATIONS from AMAZON_WEB_SERVICES , google , SAS , and
+   salesforce with CORE_BUSINESS_ANALYTICS_COURSES in an
+   INFORMATION_SYSTEMS_UNDERGRADUATE_DEGREE_PROGRAM . certifications provide an
+   EXCELLENT_WAY for STUDENTS to attain practical , experiential , and
+   DEMONSTRABLE_SKILLS which increasingly more employers look for in
+   JOB_CANDIDATES_PORTFOLIOS . in close collaboration with INDUSTRY_PARTNERS ,
+   CURRICULUM_DESIGNERS and faculty in INSTITUTIONS_OF_HIGHER_LEARNING can
+   leverage high quality hands_on training materials provided by the
+   CERTIFICATION_VENDORS and align it with the core ACADEMIC_COURSE_CONTENT .
+   EXCELLENT_TEACHING by the faculty combined with industry_relevant
+   PRACTICAL_CERTIFICATION_TRAINING is the recipe for a
+   SUCCESSFUL_CAREER_BUILDING for INFORMATION_SYSTEMS_STUDENTS . 2021 ieee .
+DE BUSINESS_ANALYTICS; CLOUD_COMPUTING; CURRICULUM_DESIGN; INFORMATION_SYSTEMS;
+   PROFESSIONAL_CERTIFICATION
+ID ADVANCED_ANALYTICS; CURRICULA; ENGINEERING_EDUCATION; INFORMATION_SYSTEMS;
+   INFORMATION_USE; WEB_SERVICES; ACADEMIC_COURSE; AMAZON_WEB_SERVICES;
+   BUSINESS_ANALYTICS; CERTIFICATION_TRAINING; COLLABORATION_WITH_INDUSTRIES;
+   HANDS_ON_TRAININGS; PROFESSIONAL_CERTIFICATIONS; UNDERGRADUATE_DEGREES;
+   STUDENTS
+** ACADEMIC_COURSE_CONTENT; AMAZON_WEB_SERVICES; CERTIFICATION_VENDORS;
+   CORE_BUSINESS_ANALYTICS_COURSES; CURRICULUM_DESIGNERS; DEMONSTRABLE_SKILLS;
+   EXCELLENT_TEACHING; EXCELLENT_WAY; INDUSTRY_PARTNERS;
+   INFORMATION_SYSTEMS_BUSINESS_ANALYTICS_TRACK_CURRICULUM;
+   INFORMATION_SYSTEMS_STUDENTS;
+   INFORMATION_SYSTEMS_UNDERGRADUATE_DEGREE_PROGRAM; JOB_CANDIDATES_PORTFOLIOS;
+   LEVERAGE_HIGH_QUALITY_HANDSON_TRAINING_MATERIALS;
+   PRACTICAL_CERTIFICATION_TRAINING; PROFESSIONAL_CERTIFICATIONS;
+   SUCCESSFUL_CAREER_BUILDING; UNDERGRADUATE_BUSINESS_ANALYTICS_TRACK
+
+---
+
+Record-No: 75
+AR Larson B.E., 2021, J INF TECHNOL EDUC, V20, P1
+TI Innovative Pedagogical Strategies of Streaming, Just-in-time Teaching, and
+   Scaffolding: A Case Study of using Videos to add Business Analytics
+   Instruction Across a Curriculum
+AU Larson B.E.; Bohler J.A.; Krishnamoorthy A.
+TC 4
+SO Journal of Information Technology Education: Innovations in Practice
+PY 2021
+AB aim / purpose BUSINESS_ANALYTICS is a cross_functional field that is
+   important to implement for a college and has emerged as a critically
+   IMPORTANT_CORE_COMPONENT of the BUSINESS_CURRICULUM . it is a DIFFICULT_TASK
+   due to scheduling concerns and limits to faculty and STUDENT_RESOURCES .
+   this paper describes the process of creating a CENTRAL_VIDEO_REPOSITORY to
+   serve as a platform for just in TIME_TEACHING and the impact on stu_dent
+   LEARNING_OUTCOMES . BACKGROUND_INDUSTRY_DEMAND for employees with
+   ANALYTICAL_KNOWLEDGE , SKILLS , and abilities re_quires
+   ADDITIONAL_ANALYTICAL_CONTENT throughout the college of BUSINESS_CURRICULUM
+   . this DEMAND_NEEDS other content to be added to ensure that STUDENTS have
+   the PREREQUISITE_SKILLS to COMPLETE_ASSIGNMENTS . two PEDAGOGICAL_APPROACHES
+   to ad_dress this issue are just_in_time TEACHING ( jitt ) and SCAFFOLDING ,
+   grounded in the VYGOSKIAN_CONCEPT of zone of PROXIMAL_DEVELOPMENT .
+   methodology this paper presents a CASE_STUDY that applies SCAFFOLDING and
+   JITT_TEACHING to cre_ate a VIDEO_REPOSITORY to add
+   BUSINESS_ANALYTICS_INSTRUCTION to a CURRICULUM . the california critical
+   thinking SKILLS_TEST ( cctst ) and MAJOR_FIELD_TEST ( mft ) scores were
+   analyzed to ASSESS_LEARNING_OUTCOMES . STUDENT and FACULTY_COMMENTS were
+   considered to inform the results of the review . 2021 . all rights reserved
+   .
+DE BUSINESS_CURRICULUM; CURRICULUM_IMPLEMENTATION; DATA_ANALYTICS;
+   EXPANDING_ANALYTICAL_INSTRUCTION_NEEDS; INFORMATION_SYSTEMS;
+   JUST_IN_TIME_TEACHING; REUSABLE_LEARNING_OBJECTS; SCAFFOLDING; VIDEOS;
+   ZONE_OF_PROXIMAL_DEVELOPMENT
+** ABILITIES_REQUIRES; ADDITIONAL_ANALYTICAL_CONTENT; ANALYTICAL_KNOWLEDGE;
+   ASSESS_LEARNING_OUTCOMES; BACKGROUND_INDUSTRY_DEMAND;
+   BUSINESS_ANALYTICS_INSTRUCTION; BUSINESS_CURRICULUM; CASE_STUDY;
+   CENTRAL_VIDEO_REPOSITORY; COMPLETE_ASSIGNMENTS; CROSSFUNCTIONAL_FIELD;
+   DEMAND_NEEDS; DIFFICULT_TASK; FACULTY_COMMENTS; IMPORTANT_CORE_COMPONENT;
+   INNOVATIVE_PEDAGOGICAL_STRATEGIES; JITT_TEACHING; JUSTINTIME_TEACHING;
+   MAJOR_FIELD_TEST; PEDAGOGICAL_APPROACHES; PREREQUISITE_SKILLS;
+   PROXIMAL_DEVELOPMENT; SKILLS_TEST; STUDENT_LEARNING_OUTCOMES;
+   STUDENT_RESOURCES; TIME_TEACHING; VIDEO_REPOSITORY; VYGOSKIAN_CONCEPT
+
+---
+
+Record-No: 88
+AR Mitra S., 2021, TRANS EDUC, V21, P130
+TI Predictors of choosing business analytics concentration and consequent
+   academic performance
+AU Mitra S.; Goldstein Z.; Kapoor B.L.
+TC 1
+SO INFORMS Transactions on Education
+PY 2021
+AB choosing a MAJOR_FIELD of study is important , and so is the selection of a
+   specialized concentration that is aligned with an
+   INDIVIDUAL_CAREER_ASPIRATIONS . in this paper , we explore a relatively
+   newer concentration in the area of business , namely BUSINESS_ANALYTICS .
+   the field of ANALYTICS has seen a RAPID_GROWTH in RECENT_YEARS and
+   enrollment in COLLEGE_DEGREE_PROGRAMS in this area has also skyrocketed .
+   the goal of this study is to understand the PRIMARY_REASONS that influence a
+   STUDENT_DECISION to self_select a concentration of BUSINESS_ANALYTICS at a
+   LARGE_PUBLIC_UNIVERSITY . moreover , we determine which factors are likely
+   to have a SIGNIFICANT_EFFECT on the performance of STUDENTS enrolled in this
+   concentration . the PRIMARY_FACTORS considered are individuals bright and
+   DARK_PERSONALITY_TRAITS , self_perceived satisfaction in related courses ,
+   along with several BACKGROUND_CONTROL_FACTORS . the MAJOR_INSIGHTS obtained
+   from analyzing our data revealed a SIGNIFICANT_EFFECT of
+   CERTAIN_PERSONALITY_CHARACTERISTICS on both STUDENTS_CONCENTRATION_CHOICE (
+   extraversion , narcissism ) and on performance ( conscientiousness ,
+   EMOTIONAL_STABILITY , narcissism ) . on the other hand ,
+   STUDENTS_PERFORMANCE in FOUNDATIONAL_COURSES in the concentration and
+   self_perceived satisfaction in the chosen concentration had no statistically
+   SIGNIFICANT_EFFECT on their performance . 2020 the author ( s )
+DE COLLEGE_MAJOR; CONCENTRATION_CHOICE; DARK_TRIAD; PERSONALITY_TRAITS;
+   REGRESSION_MODELS; STUDENT_PERFORMANCE; STUDENT_SATISFACTION
+** ACADEMIC_PERFORMANCE; BACKGROUND_CONTROL_FACTORS; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_CONCENTRATION; CERTAIN_PERSONALITY_CHARACTERISTICS;
+   COLLEGE_DEGREE_PROGRAMS; DARK_PERSONALITY_TRAITS; EMOTIONAL_STABILITY;
+   FOUNDATIONAL_COURSES; INDIVIDUAL_CAREER_ASPIRATIONS;
+   LARGE_PUBLIC_UNIVERSITY; MAJOR_FIELD; MAJOR_INSIGHTS; PRIMARY_FACTORS;
+   PRIMARY_REASONS; RAPID_GROWTH; RECENT_YEARS; SIGNIFICANT_EFFECT;
+   STUDENTS_CONCENTRATION_CHOICE; STUDENTS_PERFORMANCE; STUDENT_DECISION
+
+---
+
+Record-No: 15
+AR Jaggia S., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P612
+TI Applying the CRISP-DM Framework for Teaching Business Analytics
+AU Jaggia S.; Kelly A.; Lertwachara K.; Chen L.
+TC 21
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB EXPERIENTIAL_LEARNING_OPPORTUNITIES have been proven effective in TEACHING
+   applied and COMPLEX_SUBJECTS such as BUSINESS_ANALYTICS .
+   CURRENT_BUSINESS_ANALYTICS_PEDAGOGY_TENDS to focus heavily on the modeling
+   phase with STUDENTS often lacking a COMPREHENSIVE_UNDERSTANDING of the
+   ENTIRE_ANALYTICS_PROCESS including dealing with real_life data that are not
+   necessarily " clean " and / or small . similarly , the emphasis on
+   ANALYTICAL_RIGOR often comes at the expense of STORYTELLING , which is among
+   the most IMPORTANT_ASPECTS of BUSINESS_ANALYTICS . in this ARTICLE , we
+   demonstrate how the philosophy of the CROSS_INDUSTRY STANDARD_PROCESS for
+   DATA_MINING ( crisp_dm ) FRAMEWORK can be infused into the TEACHING of
+   BUSINESS_ANALYTICS through a term_long project that simulates the real_world
+   ANALYTICS_PROCESS . the PROJECT_FOCUSES on PROBLEM_FORMULATION ,
+   DATA_WRANGLING , modeling , PERFORMANCE_EVALUATION , and STORYTELLING ,
+   using REAL_DATA and the programming LANGUAGE_R for illustration . we also
+   discuss the PEDAGOGICAL_THEORIES and techniques involved in the application
+   of the crisp_dm FRAMEWORK . finally , we document how the crisp_dm FRAMEWORK
+   has proved to be effective in helping STUDENTS_NAVIGATE through
+   COMPLEX_ANALYTICS_ISSUES by offering a structured approach to solving
+   real_world problems . 2020 DECISION_SCIENCES_INSTITUTE
+DE ANALYTICS_PROJECT; BUSINESS_ANALYTICS; CRISP_DM; DATA_WRANGLING;
+   EXPERIENTIAL_LEARNING; R; STORYTELLING
+** ANALYTICAL_RIGOR; BUSINESS_ANALYTICS; COMPLEX_ANALYTICS_ISSUES;
+   COMPLEX_SUBJECTS; COMPREHENSIVE_UNDERSTANDING; CRISPDM_FRAMEWORK;
+   CROSS_INDUSTRY; CURRENT_BUSINESS_ANALYTICS_PEDAGOGY_TENDS;
+   DECISION_SCIENCES_INSTITUTE; ENTIRE_ANALYTICS_PROCESS;
+   EXPERIENTIAL_LEARNING_OPPORTUNITIES; IMPORTANT_ASPECTS; LANGUAGE_R;
+   PEDAGOGICAL_THEORIES; PERFORMANCE_EVALUATION; PROBLEM_FORMULATION;
+   PROJECT_FOCUSES; REALLIFE_DATA; REALWORLD_ANALYTICS_PROCESS;
+   REALWORLD_PROBLEMS; STANDARD_PROCESS; STUDENTS_NAVIGATE; TERMLONG_PROJECT
+
+---
+
+Record-No: 63
+AR Yazici H.J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P589
+TI Project-Based Learning for Teaching Business Analytics in the Undergraduate
+   Curriculum*
+AU Yazici H.J.
+TC 17
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB the increasing use of MASSIVE_DATA requires EFFECTIVE_TEACHING_STRATEGIES
+   for BUSINESS_ANALYTICS . the discipline combines ANALYTICAL_SKILLS ,
+   INFORMATION_TECHNOLOGY , and business_domain KNOWLEDGE , and is challenging
+   to teach to BUSINESS_STUDENTS . this RESEARCH_DEMONSTRATES that
+   BUSINESS_UNDERGRADUATE_STUDENTS can benefit from an experiential
+   project_based LEARNING_APPROACH ( pjbl ) . by having STUDENT_GROUPS
+   collecting data around a RESEARCH_QUESTION of their choosing and using
+   descriptive and PREDICTIVE_ANALYTICS , we observed an increased
+   understanding of the data_driven decision_making process , and improved
+   ANALYTICAL_SKILLS to approach , solve , and COMMUNICATE_BUSINESS_PROBLEMS .
+   2020 DECISION_SCIENCES_INSTITUTE
+DE ANALYTICAL_SKILLS; BUSINESS_ANALYTICS; PROJECT_BASED_LEARNING;
+   UNDERGRADUATE_CURRICULUM
+** ANALYTICAL_SKILLS; BUSINESSDOMAIN_KNOWLEDGE; BUSINESS_ANALYTICS;
+   BUSINESS_STUDENTS; BUSINESS_UNDERGRADUATE_STUDENTS;
+   COMMUNICATE_BUSINESS_PROBLEMS; DECISION_SCIENCES_INSTITUTE;
+   EFFECTIVE_TEACHING_STRATEGIES; INFORMATION_TECHNOLOGY; LEARNING_APPROACH;
+   MASSIVE_DATA; PREDICTIVE_ANALYTICS; RESEARCH_DEMONSTRATES;
+   RESEARCH_QUESTION; STUDENT_GROUPS
+
+---
+
+Record-No: 58
+AR Zhang L., 2020, J INF SYST EDUC, V31, P244
+TI Teaching Tip A Foundation Course in Business Analytics: Design and
+   Implementation at Two Universities
+AU Zhang L.; Chen F.; Wei W.
+TC 10
+SO Journal of Information Systems Education
+PY 2020
+AB the CURRENT data_centric BUSINESS_ENVIRONMENT has seen an increasing demand
+   for BUSINESS_STUDENTS with KNOWLEDGE and SKILLS in the area of
+   BUSINESS_ANALYTICS . this ARTICLE presents the DESIGN and implementation of
+   a FOUNDATION_BUSINESS_ANALYTICS ( ba ) course for
+   UNDERGRADUATE_BUSINESS_STUDENTS who aspire to become data_literate
+   professionals or entry_level DATA_ANALYSTS . the COURSE_DESIGN is built
+   around two LEARNING_OBJECTIVES and their CORRESPONDING_LEARNING_OUTCOMES and
+   features five LEARNING_MODULES corresponding to a recently proposed
+   BA_PEDAGOGICAL_FRAMEWORK . the implementation of this course at two
+   LARGE_UNIVERSITIES is described in detail , including the timelines , topics
+   , SOFTWARE_TOOLS , assignments , projects , and STUDENT_FEEDBACK . upon
+   SUCCESSFUL_COMPLETION of the course , STUDENTS are expected to be able to
+   CONDUCT_BUSINESS_ANALYTICS at basic to INTERMEDIATE_LEVELS using leading
+   INDUSTRY_TOOLS such as POWER_PIVOT , POWER_BI , tableau , or R . 2021 . all
+   rights reserved .
+DE BUSINESS_ANALYTICS; CURRICULUM_DESIGN_AND_DEVELOPMENT; DATA_VISUALIZATION;
+   INSTRUCTIONAL_PEDAGOGY
+ID ADVANCED_ANALYTICS; STUDENTS; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
+   DESIGN_AND_IMPLEMENTATIONS; FOUNDATION_COURSE; INTERMEDIATE_LEVEL;
+   LEARNING_MODULES; LEARNING_OBJECTIVES; LEARNING_OUTCOME; CURRICULA
+** BA_PEDAGOGICAL_FRAMEWORK; BUSINESS_ANALYTICS; BUSINESS_STUDENTS;
+   CONDUCT_BUSINESS_ANALYTICS; CORRESPONDING_LEARNING_OUTCOMES; COURSE_DESIGN;
+   CURRENT_DATACENTRIC_BUSINESS_ENVIRONMENT; DATALITERATE_PROFESSIONALS;
+   ENTRYLEVEL_DATA_ANALYSTS; FOUNDATION_BUSINESS_ANALYTICS; FOUNDATION_COURSE;
+   INDUSTRY_TOOLS; INTERMEDIATE_LEVELS; LARGE_UNIVERSITIES; LEARNING_MODULES;
+   LEARNING_OBJECTIVES; POWER_BI; POWER_PIVOT; SOFTWARE_TOOLS;
+   STUDENT_FEEDBACK; SUCCESSFUL_COMPLETION; UNDERGRADUATE_BUSINESS_STUDENTS
+
+---
+
+Record-No: 7
+AR Speier-Pero C., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P59
+TI Creating Impactful Student Learning in a Business Analytics Program through
+   Leveraging Scholar-Practitioner Engagement
+AU Speier-Pero C.; Schoenherr T.
+TC 8
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB INDUSTRY_DEMAND for talented ANALYTICS_PROFESSIONALS has created a
+   SIGNIFICANT_INCREASE in DEGREE_PROGRAMS ( e.g., ms in ANALYTICS ) around the
+   globe . many of these PROGRAMS_INCORPORATE_EXPERIENTIAL_LEARNING in the
+   CURRICULUM to foster a deeper understanding . this ARTICLE_FOCUSES on the
+   VALUE and challenges in implementing EXPERIENTIAL_LEARNING in an
+   analytics_focused DEGREE_PROGRAM by incorporating and SCAFFOLDING
+   MULTIPLE_ORGANIZATIONAL_ANALYTICS_PROJECTS throughout the CURRICULUM . in
+   addition , this ARTICLE_FOCUSES on the manner in which these
+   ORGANIZATIONAL_ANALYTICS_PROJECTS can create VALUE for scholars , beyond
+   STUDENT_LEARNING . scholar_practitioner partnerships have the potential to
+   advance not only the field of ACADEMIC_RESEARCH but also the rigor of
+   ACTUAL_PRACTICE . we report our experiences and BEST_PRACTICES in creating
+   and leveraging scholar_practitioner partnerships in the context of
+   project_based EXPERIENTIAL_LEARNING in a MASTER_OF_SCIENCE in
+   BUSINESS_ANALYTICS ( msba ) program . we provide MOTIVATION for creating
+   SUCH_PARTNERSHIPS for TEACHING_ANALYTICS , DOCUMENT_STUDENT and
+   ORGANIZATIONAL_SUCCESS , offer illustrations of
+   EXEMPLARY_EXPERIENTIAL_LEARNING_PROJECTS , and discuss the challenges that
+   need to be managed . 2020 DECISION_SCIENCES_INSTITUTE
+DE TEACHING_ANALYTICS; EXPERIENTIAL_LEARNING;
+   MASTER_OF_SCIENCE_IN_BUSINESS_ANALYTICS; SCHOLAR_PRACTITIONER_ENGAGEMENTS
+** ACADEMIC_RESEARCH; ACTUAL_PRACTICE; ANALYTICS_PROFESSIONALS;
+   ARTICLE_FOCUSES; BUSINESS_ANALYTICS; DECISION_SCIENCES_INSTITUTE;
+   DEGREE_PROGRAM; DEGREE_PROGRAMS; DOCUMENT_STUDENT;
+   EXEMPLARY_EXPERIENTIAL_LEARNING_PROJECTS; EXPERIENTIAL_LEARNING;
+   IMPACTFUL_STUDENT_LEARNING; INDUSTRY_DEMAND;
+   MULTIPLE_ORGANIZATIONAL_ANALYTICS_PROJECTS;
+   ORGANIZATIONAL_ANALYTICS_PROJECTS; ORGANIZATIONAL_SUCCESS;
+   PROGRAMS_INCORPORATE_EXPERIENTIAL_LEARNING; SCHOLARPRACTITIONER_ENGAGEMENT;
+   SCHOLARPRACTITIONER_PARTNERSHIPS; SIGNIFICANT_INCREASE; STUDENT_LEARNING;
+   SUCH_PARTNERSHIPS
+
+
+---

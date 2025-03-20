@@ -1,0 +1,39 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in BUSINESS ANALYTICS EDUCATION AND SKILLS DEVELOPMENT. 
+
+
+GOAL:
+You must write a critical definition of the FIRST thematic cluster using the provided abstracts and give me suggestions for the name of the cluster. The critical definition must formulate a position or an opinion about what is the FIRST thematic cluster based on the provided abstracts. The opinion describes the relationships among the provided keywords and stablish a critical position about the cluster.
+
+
+KEYWORDS:
+Curriculum; Skills; Education; Information Use; Business Schools; Curriculum Design; Programs; Education Institutions; Competitive Advantages; Knowledge
+
+
+INSTRUCTIONS:
+First, provide 5 tentative names for the cluster. Second, write a critical definition of the cluster.
+
+
+
+LENGTH:
+160 words.
+
+
+CITATION:
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the record. For example, [1] means that the information is in the Record-No 1. Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the provided abstracts.
+- Do not list tools or techniques used in the cluster.
+- Do not enumerate the suggested cluster names.
+- Do not include "business analytics" as part of the cluster names.
+- The cluster names must be aligned with the keywords.
+- The suggested cluster names has at least six words.
+
+
+

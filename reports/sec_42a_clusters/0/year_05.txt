@@ -1,0 +1,428 @@
+---
+
+Record-No: 74
+AR Goeke R.J., 2018, INF RESOUR MANAGE J, V31, P17
+TI The Effect of Education on Information Systems Success: Lessons from Human
+   Resources
+AU Goeke R.J.; Crowne K.A.; Laker D.R.
+TC 5
+SO Information Resources Management Journal
+PY 2018
+AB RESEARCH into the relationship between EDUCATION and INFORMATION_SYSTEMS (
+   is ) SUCCESS ( use , satisfaction , and impact ) has produced mixed results
+   . SUCH_RESULTS seem counterintuitive , given the many benefits that
+   EDUCATION brings to the workplace . however , WORKPLACE_RESEARCH from
+   HUMAN_RESOURCES ( hr ) has similarly found that EDUCATION has little
+   DIRECT_EFFECT on JOB_PERFORMANCE . instead , EDUCATION has INDIRECT_EFFECTS
+   on JOB_PERFORMANCE through JOB_EXPERTISE , which is what drives behavior and
+   JOB_PERFORMANCE . the PRESENT_RESEARCH integrated the delone & mclean is
+   SUCCESS_MODEL with the JOB_PERFORMANCE_MODEL , and found SIMILAR_RESULTS :
+   in a SURVEY of 465 professionals working in BUSINESS_ANALYTICS ( ba ) ,
+   USER_EDUCATION_LEVEL had no DIRECT_EFFECT on is SUCCESS ( BA_TOOL_USE ,
+   satisfaction , and impact ) . instead , EDUCATION_LEVEL had a
+   POSITIVE_EFFECT on expertise with the BA_TOOL , which in turn positively
+   affected BA_TOOL_USE . these results build upon those from hr , and suggest
+   that EDUCATION has an INDIRECT_EFFECT on is SUCCESS , rather than a
+   DIRECT_EFFECT . copyright 2018 , igi global .
+DE BUSINESS_ANALYTICS; EDUCATION; INFORMATION_SYSTEMS; SUCCESS
+ID ADVANCED_ANALYTICS; EDUCATION; INFORMATION_SYSTEMS; PERSONNEL;
+   BUSINESS_ANALYTICS; INDIRECT_EFFECTS; INFORMATION_SYSTEMS_SUCCESS;
+   IS_SUCCESS; IS_SUCCESS_MODEL; JOB_PERFORMANCE; SUCCESS; USER_EDUCATION;
+   INFORMATION_USE
+** BA_TOOL; BA_TOOL_USE; BUSINESS_ANALYTICS; DIRECT_EFFECT; EDUCATION_LEVEL;
+   HUMAN_RESOURCES; INDIRECT_EFFECT; INDIRECT_EFFECTS; INFORMATION_SYSTEMS;
+   INFORMATION_SYSTEMS_SUCCESS; JOB_EXPERTISE; JOB_PERFORMANCE;
+   JOB_PERFORMANCE_MODEL; POSITIVE_EFFECT; PRESENT_RESEARCH; SIMILAR_RESULTS;
+   SUCCESS_MODEL; SUCH_RESULTS; USER_EDUCATION_LEVEL; WORKPLACE_RESEARCH
+
+---
+
+Record-No: 26
+AR Seaba T.R., 2018, INT CONF INTELL INNOV COMPUT APPL ICONIC
+TI Business analytics for institutional academic management: A case of South
+   African higher education
+AU Seaba T.R.; Anna Segooa M.; Kalema B.M.; Kekwaletswe R.
+TC 2
+SO 2018 International Conference on Intelligent and Innovative Computing
+   Applications, ICONIC 2018
+PY 2018
+AB DATA_INFRASTRUCTURE and quality are VITAL_ORGANS influencing the health of
+   any organizations and are essential for creating and delivering
+   BUSINESS_INSIGHTS . due to this fact , stakeholders expect a
+   FLAWLESS_EXPERIENCE , real_time solutions and support . however , these
+   expectations are normally too high for it departments that are always
+   immersed with VARIOUS_USERS_REQUESTS . the BIG_DATA_ERA and its ANALYTICS
+   have put organizations in positions to predict and forecast USERS_NEEDS to
+   produce a GREAT_USER_EXPERIENCE . this is achieved through INTUITIVE_DESIGN
+   , error_free coding and QUALITY_PERFORMANCE . there is increasing demand for
+   better BUSINESS_ANALYTICS so as to ENABLE_ORGANIZATIONS establish
+   SOLID_FOUNDATION by building out a DATA_MANAGEMENT_ECOSYSTEM that
+   DELIVERS_FLEXIBILITY and performance required by COGNITIVE_SOLUTIONS . the
+   objective of this paper was to highlight how universities can leverage
+   better ANALYTICS to process amount of continuously generated data from
+   VARIOUS_SOURCES and generate ACTIONABLE_INSIGHTS needed to achieve
+   ACADEMIC_BUSINESS_GOALS . this study followed an INTERPRETIVE_PARADIGM
+   taking a CASE_STUDY of a south AFRICAN_UNIVERSITY and employed
+   semi_structured interviews . this study found that DATA_VALUE and the
+   USE_THEREOF in the MANAGEMENT of ACADEMIC_DIVISIONS of the UNIVERSITY should
+   be consistent with FACULTY_BUSINESS_PLANS . in this way , BUSINESS_ANALYTICS
+   is not haphazardly used but is strategically aligned with FACULTY_PLANS and
+   OVERALL_INSTITUTIONAL STRATEGIC_OBJECTIVES and targets . 2018 ieee .
+DE BUSINESS_ANALYTICS; DECISION_MAKING; INSTITUTIONS_OF_HIGHER_LEARNING;
+   MANAGEMENT
+ID INFORMATION_MANAGEMENT; ACADEMIC_MANAGEMENTS; BUSINESS_ANALYTICS;
+   DATA_INFRASTRUCTURE; DATA_QUALITY; DECISIONS_MAKINGS; HIGH_EDUCATIONS;
+   HIGHER_LEARNING; INSTITUTION_OF_HIGH_LEARNING; REAL_TIME_SOLUTION;
+   USER_NEED; DECISION_MAKING
+** ACADEMIC_BUSINESS_GOALS; ACADEMIC_DIVISIONS; ACADEMIC_MANAGEMENT;
+   ACTIONABLE_INSIGHTS; AFRICAN_UNIVERSITY; BIG_DATA_ERA; BUSINESS_ANALYTICS;
+   BUSINESS_INSIGHTS; CASE_STUDY; COGNITIVE_SOLUTIONS; DATA_INFRASTRUCTURE;
+   DATA_MANAGEMENT_ECOSYSTEM; DATA_VALUE; DELIVERS_FLEXIBILITY;
+   ENABLE_ORGANIZATIONS; FACULTY_BUSINESS_PLANS; FACULTY_PLANS;
+   FLAWLESS_EXPERIENCE; GREAT_USER_EXPERIENCE; INTERPRETIVE_PARADIGM;
+   INTUITIVE_DESIGN; OVERALL_INSTITUTIONAL; QUALITY_PERFORMANCE;
+   REALTIME_SOLUTIONS; SOLID_FOUNDATION; STRATEGIC_OBJECTIVES; USERS_NEEDS;
+   USE_THEREOF; VARIOUS_SOURCES; VARIOUS_USERS_REQUESTS; VITAL_ORGANS
+
+---
+
+Record-No: 85
+AR Peta J. Jr., 2018, PROC INT CONF IND ENG OPER MANAGE, V2018, P1936
+TI Delivery of Quant and Business Statistics courses to the Business students
+   and developing MS in Business Analytics to meet the demands of the
+   businesses
+AU Peta J. Jr.
+TC 0
+SO Proceedings of the International Conference on Industrial Engineering and
+   Operations Management
+PY 2018
+AB in the first part of the presentation , i will discuss how to best introduce
+   and deliver QUANTITATIVE_COURSES at both the undergraduate and
+   GRADUATE_LEVELS for STUDENTS who will be seeking jobs in a market where
+   there is an increased demand for employees with QUANTITATIVE_SKILLS . this
+   program involved developing an MBA_CONCENTRATION and an undergraduate minor
+   in BUSINESS_ANALYTICS for the BARNEY_SCHOOL of business . part one is the
+   precursor for developing an ms in BUSINESS_ANALYTICS . in the second part ,
+   i will outline my SURVEY of CORPORATE_EXECUTIVES from around the country ,
+   with SPECIAL_FOCUS on my findings among executives in NEW_YORK_CITY and
+   boston . because of this SURVEY_I felt confident that i had designed a
+   program geared to the CURRENT_MARKET_DEMAND . IEOM_SOCIETY international .
+** BARNEY_SCHOOL; BUSINESS_ANALYTICS; BUSINESS_STATISTICS_COURSES;
+   BUSINESS_STUDENTS; CORPORATE_EXECUTIVES; CURRENT_MARKET_DEMAND;
+   GRADUATE_LEVELS; IEOM_SOCIETY; MBA_CONCENTRATION; NEW_YORK_CITY;
+   QUANTITATIVE_COURSES; QUANTITATIVE_SKILLS; SPECIAL_FOCUS; SURVEY_I
+
+---
+
+Record-No: 21
+AR Carillo K.D.A., 2017, BUS PROCESS MANAGE J, V23, P598
+TI Let’s stop trying to be “sexy” – preparing managers for the (big) data-
+   driven business era
+AU Carillo K.D.A.
+TC 60
+SO Business Process Management Journal
+PY 2017
+AB purpose : the purpose of this paper is to analyze the inadequacies of
+   CURRENT_BUSINESS_EDUCATION in the tackling of the educational challenges
+   inherent to the advent of a data_driven business world . it presents an
+   analysis of the implications of digitization and more specifically
+   BIG_DATA_ANALYTICS ( bda ) and DATA_SCIENCE ( ds ) on organizations with a
+   SPECIAL_EMPHASIS on decision_making processes and the function of managers .
+   it argues that BUSINESS_SCHOOLS and other EDUCATIONAL_INSTITUTIONS have well
+   responded to the need to train FUTURE_DATA_SCIENTISTS but have rather
+   disregarded the question of effectively preparing FUTURE_MANAGERS for the
+   new data_driven business era . DESIGN / methodology / approach : the
+   APPROACH_INVOLVES_ANALYSIS and review of the literature . findings : the
+   development of ANALYTICS_SKILLS shall not pertain to DATA_SCIENTISTS only ,
+   it must rather become an organizational CULTURAL_COMPONENT shared among all
+   employees and more specifically among DECISION_MAKERS : managers . in the
+   data_driven business era , managers turn into manager_scientists who shall
+   possess SKILLS at the crossroad of DATA_MANAGEMENT , analytical / modeling
+   techniques and TOOLS , and business . however , the MULTIDISCIPLINARY_NATURE
+   of BIG_DATA_ANALYTICS and DATA_SCIENCE ( bdads ) seems to collide with the
+   dominant FUNCTIONAL_SILO_DESIGN that CHARACTERIZES_BUSINESS_SCHOOLS . the
+   scope and breadth of the radical digitally enabled change , the author are
+   facing , may necessitate a global questioning about the nature and structure
+   of BUSINESS_EDUCATION . RESEARCH limitations / implications : for the sake
+   of transparency and clarity , academia and the industry must join forces to
+   standardize the meaning of the terms surrounding BIG_DATA . bda / ds
+   training programs , courses , and CURRICULA shall be organized in such a way
+   that STUDENTS shall interact with an array of specialists providing them a
+   broad enough picture of the BIG_DATA_LANDSCAPE . the
+   MULTIDISCIPLINARY_NATURE of ANALYTICS and DS_NECESSITATES to
+   REVISIT_PEDAGOGICAL_MODELS by developing EXPERIENTIAL_LEARNING and
+   implementing a spiral_shaped PEDAGOGICAL_APPROACH . the attention of
+   scholars is needed as there exists an array of unexplored
+   RESEARCH_TERRITORIES . this investigation will help bridge the gap between
+   EDUCATION and the industry . PRACTICAL_IMPLICATIONS : the findings will help
+   practitioners understand the educational challenges triggered by the advent
+   of the data_driven business era . the implications will also help develop
+   EFFECTIVE_TRAININGS and PEDAGOGICAL_STRATEGIES that are better suited to
+   prepare FUTURE_PROFESSIONALS for the new data_driven business world .
+   originality / VALUE : by demonstrating how the advent of a data_driven
+   business era is impacting the function and role of managers , the
+   PAPER_INITIATES a debate revolving around the question about how
+   BUSINESS_SCHOOLS and HIGHER_EDUCATION shall evolve to better tackle the
+   educational challenges associated with BDADS_TRAINING . elements of response
+   and recommendations are then provided . 2017 , emerald publishing limited .
+DE ANALYTICS; BIG_DATA; BUSINESS_SCHOOLS; CURRICULA; DATA_SCIENCE;
+   DATA_DRIVEN_BUSINESS
+** ANALYTICS_SKILLS; APPROACH_INVOLVES_ANALYSIS; BDADS_TRAINING; BIG_DATA;
+   BIG_DATA_ANALYTICS; BIG_DATA_LANDSCAPE; BUSINESS_EDUCATION;
+   BUSINESS_SCHOOLS; CHARACTERIZES_BUSINESS_SCHOOLS; CULTURAL_COMPONENT;
+   CURRENT_BUSINESS_EDUCATION; DATADRIVEN_BUSINESS_ERA;
+   DATADRIVEN_BUSINESS_WORLD; DATA_MANAGEMENT; DATA_SCIENCE; DATA_SCIENTISTS;
+   DECISION_MAKERS; DS_NECESSITATES; EDUCATIONAL_INSTITUTIONS;
+   EFFECTIVE_TRAININGS; EXPERIENTIAL_LEARNING; FUNCTIONAL_SILO_DESIGN;
+   FUTURE_DATA_SCIENTISTS; FUTURE_MANAGERS; FUTURE_PROFESSIONALS;
+   MULTIDISCIPLINARY_NATURE; NEW_DATADRIVEN_BUSINESS_ERA;
+   NEW_DATADRIVEN_BUSINESS_WORLD; PAPER_INITIATES; PEDAGOGICAL_APPROACH;
+   PEDAGOGICAL_STRATEGIES; PRACTICAL_IMPLICATIONS; RESEARCH_TERRITORIES;
+   REVISIT_PEDAGOGICAL_MODELS; SPECIAL_EMPHASIS
+
+---
+
+Record-No: 39
+AR Morgan J., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
+   V2017-August
+TI Using business analytics to target baseball free agents: A case study
+AU Morgan J.; Ravindran S.
+TC 1
+SO AMCIS 2017 _ America's Conference on Information Systems: A Tradition of
+   Innovation
+PY 2017
+AB this paper presents a scenario for a BUSINESS_ANALYTICS ( ba ) TEACHING_CASE
+   that is targeted at the baseball FREE_AGENT_MARKET . it is presented in a
+   FLEXIBLE_MANNER designed to allow for its use as a multi_part case covering
+   all phases of a DATA_ANALYTICS_PROJECT or a more RESTRICTIVE_CASE where the
+   DATA_COLLECTION has been completed for the STUDENTS and / or only a portion
+   of the analyses described in the case are covered . the case is primarily
+   designed for use by undergraduate or GRADUATE_STUDENTS in BA_COURSES .
+   however , selected portions of the case are suitable for use in a
+   STATISTICS_COURSE or UPPER_DIVISION_GENERAL_MIS_COURSE . it is intended to
+   support the stages of PROBLEM_IDENTIFICATION and PLANNING and the
+   application of ANALYTICS_OUTPUTS to the BUSINESS_DECISION , as well as ,
+   supporting the TECHNICAL_ASPECTS of : DATA_COLLECTION , cleaning , and
+   storage ( ETL ) . application of APPROPRIATE_DATA mining TOOLS to produce
+   ACTIONABLE_RESULTS , and development of user FRIENDLY_VISUALIZATIONS that
+   highlight those results . 2017 ais / icis ADMINISTRATIVE_OFFICE . all rights
+   reserved .
+DE BUSINESS_ANALYTICS; BUSINESS_DECISIONS; DATA_MINING; DATA_VISUALIZATION;
+   ETL; TEACHING_CASE; VISUAL_ANALYTICS
+ID CURRICULA; DATA_ACQUISITION; DATA_MINING; DATA_VISUALIZATION;
+   DIGITAL_STORAGE; INFORMATION_SYSTEMS; INFORMATION_USE; SPORTS; STUDENTS;
+   VISUALIZATION; BUSINESS_ANALYTICS; BUSINESS_DECISIONS; DATA_COLLECTION;
+   DATA_MINING_TOOLS; GRADUATE_STUDENTS; PROBLEM_IDENTIFICATION;
+   TECHNICAL_ASPECTS; VISUAL_ANALYTICS; TEACHING
+** ACTIONABLE_RESULTS; ADMINISTRATIVE_OFFICE; ANALYTICS_OUTPUTS;
+   APPROPRIATE_DATA; BA_COURSES; BUSINESS_ANALYTICS; BUSINESS_DECISION;
+   CASE_STUDY; DATA_ANALYTICS_PROJECT; DATA_COLLECTION; FLEXIBLE_MANNER;
+   FREE_AGENTS; FREE_AGENT_MARKET; FRIENDLY_VISUALIZATIONS; GRADUATE_STUDENTS;
+   MULTIPART_CASE; PROBLEM_IDENTIFICATION; RESTRICTIVE_CASE; STATISTICS_COURSE;
+   TARGET_BASEBALL; TECHNICAL_ASPECTS; UPPER_DIVISION_GENERAL_MIS_COURSE
+
+---
+
+Record-No: 28
+AR Tarasewich P., 2017, AMCIS AMERICA'S CONF INF SYST A TRADITION INNOV,
+   V2017-August
+TI Building an online business analytics graduate program
+AU Tarasewich P.; Lee Y.
+TC 0
+SO AMCIS 2017 _ America's Conference on Information Systems: A Tradition of
+   Innovation
+PY 2017
+AB this paper describes the process of designing an ONLINE_MASTER of science in
+   BUSINESS_ANALYTICS ( msba ) . the program was created to provide STUDENTS
+   with the ANALYTICAL_SKILLS , TOOLS , and techniques required to understand
+   data sets , both large and small , from sources internal and external to an
+   organization . this understanding of data can then be used to
+   SUPPORT_BUSINESS_DECISION_MAKING and create a MEASURABLE_IMPROVEMENT in
+   BUSINESS_PERFORMANCE . the PROGRAM_DIFFERENTIATES itself from offerings at
+   other schools by integrating EXPERIENTIAL_LEARNING into each of its courses
+   , and its CURRICULUM is firmly grounded in business . it places an emphasis
+   on the use and INTERPRETATION of data , not on programming or mathematics ,
+   and underscores the benefits of VISUALIZATION during the
+   DATA_ANALYSIS_PROCESS and as a COMMUNICATIONS_TOOL for supporting decisions
+   . an overview of the PROGRAM_CURRICULUM and courses is provided , as well as
+   the reasons behind the choices that were made . 2017 ais / icis
+   ADMINISTRATIVE_OFFICE . all rights reserved .
+DE BUSINESS_ANALYTICS; CURRICULUM_DEVELOPMENT; DESIGN; ONLINE_DEGREE_PROGRAM
+ID DATA_VISUALIZATION; DECISION_MAKING; DESIGN; INFORMATION_SYSTEMS;
+   INFORMATION_USE; STUDENTS; TEACHING; BUSINESS_ANALYTICS; BUSINESS_DECISIONS;
+   BUSINESS_PERFORMANCE; CURRICULUM_DEVELOPMENT; EXPERIENTIAL_LEARNING;
+   INTERPRETATION_OF_DATA; MASTER_OF_SCIENCE; ONLINE_DEGREE; CURRICULA
+** ADMINISTRATIVE_OFFICE; ANALYTICAL_SKILLS; BUSINESS_ANALYTICS;
+   BUSINESS_PERFORMANCE; COMMUNICATIONS_TOOL; DATA_ANALYSIS_PROCESS;
+   EXPERIENTIAL_LEARNING; MEASURABLE_IMPROVEMENT;
+   ONLINE_BUSINESS_ANALYTICS_GRADUATE_PROGRAM; ONLINE_MASTER;
+   PROGRAM_CURRICULUM; PROGRAM_DIFFERENTIATES; SUPPORT_BUSINESS_DECISION_MAKING
+
+---
+
+Record-No: 36
+AR Turel O., 2016, COMMUN ASSOC INFO SYST, V39, P96
+TI A business analytics maturity perspective on the gap between business
+   schools and presumed industry needs
+AU Turel O.; Kapoor B.L.
+TC 28
+SO Communications of the Association for Information Systems
+PY 2016
+AB BUSINESS_ANALYTICS is a fast_growing JOB_MARKET for
+   BUSINESS_SCHOOL_GRADUATES . hence , researchers have made many calls to
+   ENHANCE_BUSINESS_ANALYTICS_TRAINING in BUSINESS_SCHOOLS to meet the growing
+   MARKET_DEMAND for ANALYTICSSAVVY_EMPLOYEES . a growing set of
+   BUSINESS_ANALYTICS_COURSES have begun to address these calls . in this paper
+   , we examine the maturity of BUSINESS_ANALYTICS_OFFERINGS in
+   BUSINESS_SCHOOLS in the UNITED_STATES by analyzing CURRENT_BUSINESS
+   analytics_related COURSE_OFFERINGS of the top 104 BUSINESS_SCHOOLS ( 363
+   courses ) and 20 unranked BUSINESS_SCHOOLS ( 51 courses ) in the
+   UNITED_STATES . we analyze these data by examining the types of courses
+   offered and rank the schools based on their MATURITY_LEVELS in terms of
+   BUSINESS_ANALYTICS_OFFERINGS . our findings indicate that , to the extent
+   that these SCHOOLS_REFLECT what is happening across the nation ,
+   BUSINESS_SCHOOLS still have a LONG_WAY to go before they reach higher levels
+   of BUSINESS_ANALYTICS_MATURITY and that they are not yet in an
+   IDEAL_POSITION to serve the presumed INDUSTRY_NEEDS . we offer
+   ACTIONABLE_RECOMMENDATIONS . 2016 by the association for INFORMATION_SYSTEMS
+   .
+DE BUSINESS_ANALYTICS; EDUCATION; MATURITY_LEVELS
+ID COMMERCE; EDUCATION; EMPLOYMENT; PERSONNEL_TRAINING; BUSINESS_ANALYTICS;
+   BUSINESS_SCHOOLS; GROWING_MARKETS; INDUSTRY_NEEDS; JOB_MARKET;
+   MATURITY_LEVELS; ADVANCED_ANALYTICS
+** ACTIONABLE_RECOMMENDATIONS; ANALYTICSSAVVY_EMPLOYEES; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_COURSES; BUSINESS_ANALYTICS_MATURITY;
+   BUSINESS_ANALYTICS_MATURITY_PERSPECTIVE; BUSINESS_ANALYTICS_OFFERINGS;
+   BUSINESS_SCHOOLS; BUSINESS_SCHOOL_GRADUATES; COURSE_OFFERINGS;
+   CURRENT_BUSINESS; ENHANCE_BUSINESS_ANALYTICS_TRAINING; IDEAL_POSITION;
+   INDUSTRY_NEEDS; INFORMATION_SYSTEMS; JOB_MARKET; LONG_WAY; MARKET_DEMAND;
+   MATURITY_LEVELS; SCHOOLS_REFLECT
+
+---
+
+Record-No: 68
+AR Tremblay M.C., 2016, J AM MED INFORMATICS ASSOC, V23, P824
+TI Health informatics and analytics - building a program to integrate business
+   analytics across clinical and administrative disciplines
+AU Tremblay M.C.; Deckard G.J.; Klein R.
+TC 11
+SO Journal of the American Medical Informatics Association
+PY 2016
+AB HEALTH_CARE_ORGANIZATIONS must develop integrated HEALTH_INFORMATION_SYSTEMS
+   to respond to the NUMEROUS_GOVERNMENT_MANDATES driving the movement toward
+   REIMBURSEMENT_MODELS emphasizing value_based and ACCOUNTABLE_CARE . SUCCESS
+   in this transition requires integrated DATA_ANALYTICS , supported by the
+   combination of HEALTH_INFORMATICS , interoperability ,
+   BUSINESS_PROCESS_DESIGN , and advanced DECISION_SUPPORT_TOOLS . this
+   CASE_STUDY presents the development of a master level cross_ and
+   MULTIDISCIPLINARY_INFORMATICS program offered through a BUSINESS_SCHOOL .
+   the program provides STUDENTS from DIVERSE_BACKGROUNDS with the KNOWLEDGE ,
+   LEADERSHIP , and PRACTICAL_APPLICATION_SKILLS of HEALTH_INFORMATICS ,
+   INFORMATION_SYSTEMS , and DATA_ANALYTICS that bridge the interests of
+   clinical and NONCLINICAL_PROFESSIONALS . this case presents the actions
+   taken and challenges encountered in navigating intra_university politics ,
+   specifying CURRICULUM , recruiting the REQUISITE_INTERDISCIPLINARY_FACULTY ,
+   innovating the EDUCATIONAL_FORMAT , managing STUDENTS with diverse
+   educational and PROFESSIONAL_BACKGROUNDS , and balancing
+   MULTIPLE_ACCREDITATION_AGENCIES . the author 2016 .
+DE ANALYTICS; EDUCATION; MEDICAL_INFORMATICS
+ID COMMERCE; CURRICULUM; EDUCATION_GRADUATE; EMPLOYMENT;
+   INTERDISCIPLINARY_STUDIES; MEDICAL_INFORMATICS; STATISTICS_AS_TOPIC;
+   UNITED_STATES; ACCREDITATION; CURRICULUM; DECISION_SUPPORT_SYSTEM;
+   GOVERNMENT; HEALTH_CARE_ORGANIZATION; HUMAN; HUMAN_EXPERIMENT; LEADERSHIP;
+   MEDICAL_INFORMATICS; MEDICAL_INFORMATION_SYSTEM; MODEL; PROCESS_DESIGN;
+   REIMBURSEMENT; SKILL; STUDENT; UNIVERSITY; ACADEMIC_ACHIEVEMENT;
+   COMMERCIAL_PHENOMENA; EDUCATION; EMPLOYMENT; INTERDISCIPLINARY_EDUCATION;
+   MEDICAL_INFORMATICS; STATISTICS; UNITED_STATES
+** ACCOUNTABLE_CARE; ADMINISTRATIVE_DISCIPLINES; ANALYTICS_BUILDING;
+   BUSINESS_ANALYTICS; BUSINESS_PROCESS_DESIGN; BUSINESS_SCHOOL; CASE_STUDY;
+   DATA_ANALYTICS; DECISION_SUPPORT_TOOLS; DIVERSE_BACKGROUNDS;
+   EDUCATIONAL_FORMAT; HEALTH_CARE_ORGANIZATIONS; HEALTH_INFORMATICS;
+   HEALTH_INFORMATION_SYSTEMS; INFORMATION_SYSTEMS; INTRAUNIVERSITY_POLITICS;
+   MASTER_LEVEL_CROSS; MULTIDISCIPLINARY_INFORMATICS;
+   MULTIPLE_ACCREDITATION_AGENCIES; NONCLINICAL_PROFESSIONALS;
+   NUMEROUS_GOVERNMENT_MANDATES; PRACTICAL_APPLICATION_SKILLS;
+   PROFESSIONAL_BACKGROUNDS; REIMBURSEMENT_MODELS;
+   REQUISITE_INTERDISCIPLINARY_FACULTY
+
+---
+
+Record-No: 46
+AR Deng X., 2016, INT CONF INF SYST ICIS
+TI Business analytics education: A latent semantic analysis of skills,
+   knowledge and abilities required for business versus NonBusiness Graduates
+AU Deng X.; Li Y.; Galliers R.D.
+TC 9
+SO 2016 International Conference on Information Systems, ICIS 2016
+PY 2016
+AB MARKET_DEMAND for BUSINESS_ANALYTICS ( ba ) professionals has been
+   skyrocketing in RECENT_YEARS , but challenges arise in developing
+   BA_PROGRAMS . in this study , we seek to uncover the KEY_COMPONENTS of
+   SKILLS , KNOWLEDGE , and abilities ( skas ) that employers require for this
+   emerging profession by BUSINESS_DEGREE and non_business degree ( e.g.,
+   COMPUTER_SCIENCE , engineering , STATISTICS , mathematics ) . we used
+   LATENT_SEMANTIC_ANALYSIS ( lsa ) , a text mining technique , to
+   ANALYZE_TEXT_DATA of BA_POSITION_DVERTISEMENT on LINKEDIN , and adopted the
+   EDUCATIONAL_FRAMEWORK of BLOOM_TAXONOMY as a sensitizing lens to interpret
+   our results . our ANALYSIS_REVEALS_DIFFERENCES in the skas for
+   DIFFERENT_EDUCATION : BUSINESS_GRADUATES are expected to have skas in
+   mathematics and BI_TECHNOLOGIES , while CESM_GRADUATES are desired to have
+   BUSINESS_STRATEGY and MARKET_KNOWLEDGE . ksas are also identified for
+   BA_POSITIONS that are open to any other ACADEMIC_DEGREES . implications on
+   BA_PROGRAM and CURRICULUM_DESIGN are discussed .
+DE BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE (BI); IS_CURRICULUM; KNOWLEDGE;
+   LATENT_SEMANTIC_ANALYSIS; LINKEDIN; SKILLS
+ID COMMERCE; CURRICULA; DATA_MINING; EDUCATION; INFORMATION_SYSTEMS;
+   PROFESSIONAL_ASPECTS; SEMANTICS; SOCIAL_NETWORKING (ONLINE);
+   BUSINESS_ANALYTICS; IS_CURRICULUM; KNOWLEDGE; LATENT_SEMANTIC_ANALYSIS;
+   LINKEDIN; SKILLS; ENGINEERING_EDUCATION
+** ACADEMIC_DEGREES; ANALYSIS_REVEALS_DIFFERENCES; ANALYZE_TEXT_DATA;
+   BA_POSITIONS; BA_POSITION_DVERTISEMENT; BA_PROGRAM; BA_PROGRAMS;
+   BI_TECHNOLOGIES; BLOOM_TAXONOMY; BUSINESS_ANALYTICS;
+   BUSINESS_ANALYTICS_EDUCATION; BUSINESS_DEGREE; BUSINESS_GRADUATES;
+   BUSINESS_STRATEGY; BUSINESS_VERSUS_NONBUSINESS_GRADUATES; CESM_GRADUATES;
+   COMPUTER_SCIENCE; CURRICULUM_DESIGN; DIFFERENT_EDUCATION;
+   EDUCATIONAL_FRAMEWORK; KEY_COMPONENTS; LATENT_SEMANTIC_ANALYSIS;
+   MARKET_DEMAND; MARKET_KNOWLEDGE; NONBUSINESS_DEGREE; RECENT_YEARS
+
+---
+
+Record-No: 57
+AR Saundage D., 2016, J INF SYST EDUC, V27, P233
+TI Teaching data analysis with interactive visual narratives
+AU Saundage D.; Cybulski J.L.; Keller S.; Dharmasena L.
+TC 9
+SO Journal of Information Systems Education
+PY 2016
+AB DATA_ANALYSIS is a MAJOR_PART of BUSINESS_ANALYTICS ( ba ) , which refers to
+   the SKILLS , methods , and technologies that ENABLE_MANAGERS to make swift ,
+   QUALITY_DECISIONS based on LARGE_AMOUNTS of data . ba has become a
+   MAJOR_COMPONENT of INFORMATION_SYSTEMS ( is ) courses all over the world .
+   the challenge for is educators is to teach DATA_ANALYSIS _ the
+   FOUNDATIONAL_BA_CONCEPTS _ to EARLY_YEARS_UNDERGRADUATE_STUDENTS who
+   commonly have an aversion to STATISTICS as well as poor problem_solving
+   SKILLS . this ARTICLE describes the development and evaluation of a
+   LEARNING_INTERVENTION , INTERACTIVE_VISUAL_NARRATIVES ( ivn ) , which is
+   informed by PREVIOUS_RESEARCH into the efficacy of interaction ,
+   VISUALIZATION , and NARRATIVES across a variety of LEARNING contexts . the
+   results suggest that a combination of INTERACTIVE_VISUALIZATIONS and
+   NARRATIVES can improve the acquisition of DATA_ANALYSIS_KNOWLEDGE ,
+   facilitate ESSENTIAL_SKILLS in PROBLEM_ANALYSIS and the application of
+   BA_SOLUTIONS , and ENHANCE_STUDENT_ENGAGEMENT . these findings provide
+   USEFUL_INSIGHTS for improving STUDENTS_LEARNING_OUTCOMES and engagement .
+DE BUSINESS_ANALYTICS; INTERACTIVE_DATA_VISUALIZATION; NARRATIVES
+ID DATA_HANDLING; DATA_VISUALIZATION; EDUCATION; INFORMATION_ANALYSIS;
+   PROBLEM_SOLVING; STUDENTS; TEACHING; VISUALIZATION; BUSINESS_ANALYTICS;
+   INTERACTIVE_VISUALIZATIONS; LARGE_AMOUNTS_OF_DATA; NARRATIVES;
+   PROBLEM_ANALYSIS; PROBLEM_SOLVING_SKILLS; STUDENT_ENGAGEMENT;
+   UNDERGRADUATE_STUDENTS; QUALITY_CONTROL
+** BA_SOLUTIONS; BUSINESS_ANALYTICS; DATA_ANALYSIS; DATA_ANALYSIS_KNOWLEDGE;
+   EARLY_YEARS_UNDERGRADUATE_STUDENTS; ENABLE_MANAGERS;
+   ENHANCE_STUDENT_ENGAGEMENT; ESSENTIAL_SKILLS; FOUNDATIONAL_BA_CONCEPTS;
+   INFORMATION_SYSTEMS; INTERACTIVE_VISUALIZATIONS;
+   INTERACTIVE_VISUAL_NARRATIVES; LARGE_AMOUNTS; LEARNING_INTERVENTION;
+   MAJOR_COMPONENT; MAJOR_PART; PREVIOUS_RESEARCH; PROBLEM_ANALYSIS;
+   QUALITY_DECISIONS; STUDENTS_LEARNING_OUTCOMES; USEFUL_INSIGHTS
+
+
+---

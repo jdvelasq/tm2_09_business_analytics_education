@@ -1,0 +1,371 @@
+---
+
+Record-No: 71
+AR Qasim A., 2020, J EMERG TECHNOL ACCOUNT, V17, P107
+TI Blockchain technology, business data analytics, and artificial intelligence:
+   Use in the accounting profession and ideas for inclusion into the accounting
+   curriculum
+AU Qasim A.; Kharbat F.F.
+TC 102
+SO Journal of Emerging Technologies in Accounting
+PY 2020
+AB recently , accounting academics have reported increased attention in the
+   accounting profession toward the EMPLOYMENT of VARIOUS_TECHNOLOGIES . these
+   studies ONLY_HIGHLIGHT the exploitation of these technologies in the
+   profession and areas for FUTURE_RESEARCH , while missing the need for
+   modernizing the accounting CURRICULUM to meet the
+   INDUSTRY_TECHNOLOGICAL_NEEDS . this paper follows an integrated MODEL for
+   CURRICULUM_REDESIGN to REFLECT_BLOCKCHAIN_TECHNOLOGY ,
+   BUSINESS_DATA_ANALYTICS , and ARTIFICIAL_INTELLIGENCE_EMPLOYMENT in the
+   accounting profession . by building on the main four
+   EDUCATIONAL_CURRICULA_DESIGNS_COMPONENTS , we propose ways to incorporate
+   these technologies into the accounting CURRICULUM .
+   CURRENT_INDUSTRY_IMPLEMENTATION of NEW_TECHNOLOGIES should be considered by
+   academia when designing accounting CURRICULUM to prepare graduates for the
+   market and to ensure their employability . this PAPER_CALLS for
+   RADICAL_CHANGES in the accounting CURRICULUM to reach a balance between
+   existing accounting KNOWLEDGE and INFORMATION_TECHNOLOGY_SKILLS_RELEVANT to
+   the profession . 2020 , american accounting association . all rights
+   reserved .
+DE ACCOUNTING_EDUCATION; ARTIFICIAL_INTELLIGENCE; BLOCKCHAIN;
+   BUSINESS_ANALYTICS
+** ARTIFICIAL_INTELLIGENCE; ARTIFICIAL_INTELLIGENCE_EMPLOYMENT;
+   BLOCKCHAIN_TECHNOLOGY; BUSINESS_DATA_ANALYTICS;
+   CURRENT_INDUSTRY_IMPLEMENTATION; CURRICULUM_REDESIGN;
+   EDUCATIONAL_CURRICULA_DESIGNS_COMPONENTS; FUTURE_RESEARCH;
+   INDUSTRY_TECHNOLOGICAL_NEEDS; INFORMATION_TECHNOLOGY_SKILLS_RELEVANT;
+   NEW_TECHNOLOGIES; ONLY_HIGHLIGHT; PAPER_CALLS; RADICAL_CHANGES;
+   REFLECT_BLOCKCHAIN_TECHNOLOGY; VARIOUS_TECHNOLOGIES
+
+---
+
+Record-No: 53
+AR Johnson M.E., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P90
+TI Exploratory Analysis to Identify Concepts, Skills, Knowledge, and Tools to
+   Educate Business Analytics Practitioners
+AU Johnson M.E.; Albizri A.; Jain R.
+TC 17
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB RECENT_TECHNOLOGICAL_ADVANCEMENTS in DATA_STORAGE and processing have
+   changed how COMPANIES_CONDUCT their business . an increasing number of firms
+   have started putting their efforts in extracting information from their
+   databases to improve PROFITABILITY and reduce costs using
+   QUANTITATIVE_APPROACHES . thus , the JOB_MARKET has been experiencing a
+   rapidly GROWING_DEMAND for BUSINESS_ANALYTICS ( ba ) practitioners , and
+   universities across the globe are increasingly responding to this newly
+   emerged field by offering both undergraduate and GRADUATE_LEVEL_DEGREES as
+   well as CERTIFICATE_PROGRAMS . thus , this RESEARCH_AIMS to provide a
+   FRAMEWORK for ACADEMIC_INSTITUTIONS to develop a state_of_the_art master in
+   BUSINESS_ANALYTICS ( msba ) CURRICULUM by identifying concepts , SKILLS ,
+   KNOWLEDGE , and TOOLS ( cskt ) that industry seeks in BA_PRACTITIONERS . our
+   data_driven methodology utilizes peer institution analysis , indeed.com web
+   scraping , and FOCUS_GROUP_ANALYSIS with mid_ and senior_level ANALYTICS
+   leaders from MAJOR_COMPANIES . our contribution to the literature and
+   recommendations to institutions developing MSBA_PROGRAMS are offered at the
+   end . 2020 DECISION_SCIENCES_INSTITUTE
+DE ANALYTICS_EDUCATION; CURRICULUM_DESIGN; BUSINESS_ANALYTICS
+** ACADEMIC_INSTITUTIONS; BA_PRACTITIONERS; BUSINESS_ANALYTICS;
+   CERTIFICATE_PROGRAMS; COMPANIES_CONDUCT;
+   DATADRIVEN_METHODOLOGY_UTILIZES_PEER_INSTITUTION_ANALYSIS; DATA_STORAGE;
+   DECISION_SCIENCES_INSTITUTE; EDUCATE_BUSINESS_ANALYTICS_PRACTITIONERS;
+   EXPLORATORY_ANALYSIS; FOCUS_GROUP_ANALYSIS; GRADUATE_LEVEL_DEGREES;
+   IDENTIFY_CONCEPTS; JOB_MARKET; MAJOR_COMPANIES; MSBA_PROGRAMS;
+   QUANTITATIVE_APPROACHES; RECENT_TECHNOLOGICAL_ADVANCEMENTS; RESEARCH_AIMS;
+   SENIORLEVEL_ANALYTICS_LEADERS; STATEOFTHEART_MASTER
+
+---
+
+Record-No: 63
+AR Yazici H.J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P589
+TI Project-Based Learning for Teaching Business Analytics in the Undergraduate
+   Curriculum*
+AU Yazici H.J.
+TC 17
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB the increasing use of MASSIVE_DATA requires EFFECTIVE_TEACHING_STRATEGIES
+   for BUSINESS_ANALYTICS . the discipline combines ANALYTICAL_SKILLS ,
+   INFORMATION_TECHNOLOGY , and business_domain KNOWLEDGE , and is challenging
+   to teach to BUSINESS_STUDENTS . this RESEARCH_DEMONSTRATES that
+   BUSINESS_UNDERGRADUATE_STUDENTS can benefit from an experiential
+   project_based LEARNING_APPROACH ( pjbl ) . by having STUDENT_GROUPS
+   collecting data around a RESEARCH_QUESTION of their choosing and using
+   descriptive and PREDICTIVE_ANALYTICS , we observed an increased
+   understanding of the data_driven decision_making process , and improved
+   ANALYTICAL_SKILLS to approach , solve , and COMMUNICATE_BUSINESS_PROBLEMS .
+   2020 DECISION_SCIENCES_INSTITUTE
+DE ANALYTICAL_SKILLS; BUSINESS_ANALYTICS; PROJECT_BASED_LEARNING;
+   UNDERGRADUATE_CURRICULUM
+** ANALYTICAL_SKILLS; BUSINESSDOMAIN_KNOWLEDGE; BUSINESS_ANALYTICS;
+   BUSINESS_STUDENTS; BUSINESS_UNDERGRADUATE_STUDENTS;
+   COMMUNICATE_BUSINESS_PROBLEMS; DECISION_SCIENCES_INSTITUTE;
+   EFFECTIVE_TEACHING_STRATEGIES; INFORMATION_TECHNOLOGY; LEARNING_APPROACH;
+   MASSIVE_DATA; PREDICTIVE_ANALYTICS; RESEARCH_DEMONSTRATES;
+   RESEARCH_QUESTION; STUDENT_GROUPS
+
+---
+
+Record-No: 5
+AR Miah S.J., 2020, EDUC INF TECHNOL, V25, P553
+TI A design-based research approach for developing data-focussed business
+   curricula
+AU Miah S.J.; Solomonides I.; Gammack J.G.
+TC 16
+SO Education and Information Technologies
+PY 2020
+AB although existing DATA_SCIENCE EDUCATIONAL_PROGRAMMES develop talent and
+   produce graduates , business_focused DATA_SCIENCE_CURRICULA comprising
+   ESSENTIAL_SKILLS oriented to business and MANAGERIAL_DATA with associated
+   analysis , remain underserved . CURRENT_PEDAGOGY has focused either on
+   DATA_SCIENCE or on purely analytic TECHNICAL_ASPECTS . there is therefore ,
+   an opportunity to rethink how institutions can develop innovative
+   data_focussed EDUCATION_PROGRAMMES , addressing both MODERN_INDUSTRY and
+   COMMUNITY_DEMANDS . as both academia and industry strive to integrate
+   applied LEARNING , transferable and ENTERPRISE_SKILLS into business and
+   sciences , this paper proposes a DESIGN based RESEARCH_APPROACH ( dbr ) for
+   designing such a NEW_INTERDISCIPLINARY_DATA_SCIENCE_TEACHING_CURRICULUM as a
+   foundation to deliver BUSINESS_UNDERGRADUATE_DEGREES in
+   BUSINESS_DATA_SCIENCE . adopting a DESIGN_SCIENCE_METHOD our proposed
+   DBR_ILLUSTRATES EFFECTIVE_UTILITIES for conceptualising and evaluating a
+   fully functional new degree programme _ bachelor of BUSINESS_DATA_SCIENCE .
+   ten SENIOR_BUSINESS_INFORMATION_SYSTEMS_ACADEMICS and five
+   ANALYTICS_INDUSTRY_PRACTITIONERS in victoria , australia were interviewed in
+   three iterative prototyping phases followed by a FINAL_FOCUS_GROUP_SESSION
+   with BUSINESS_INFORMATION_SYSTEMS_STUDENTS that evaluated the proposed
+   structure . the findings suggest that proposed DBR_ENSURES the DESIGN of an
+   INNOVATIVE_DATA_SCIENCE_DEGREE that may meet growing industry and
+   INTERDISCIPLINARY_DEMANDS . the PAPER_CONCLUDES by discussing
+   OVERALL_FEASIBILITY of the proposal in the australian higher
+   EDUCATION_SECTOR , particularly for the CASE_CONTEXT of an
+   AUSTRALIAN_UNIVERSITY . 2019 , springer science+business media , llc , part
+   of SPRINGER_NATURE .
+DE BUSINESS_CURRICULUM; DATA_SCIENCE_EDUCATION; HIGHER_EDUCATION;
+   INFORMATION_SYSTEMS_EDUCATION
+** ANALYTICS_INDUSTRY_PRACTITIONERS; AUSTRALIAN_UNIVERSITY; BUSINESS_CURRICULA;
+   BUSINESS_DATA_SCIENCE; BUSINESS_INFORMATION_SYSTEMS_STUDENTS;
+   BUSINESS_UNDERGRADUATE_DEGREES; CASE_CONTEXT; COMMUNITY_DEMANDS;
+   CURRENT_PEDAGOGY; DATA_SCIENCE; DATA_SCIENCE_CURRICULA; DBR_ENSURES;
+   DBR_ILLUSTRATES; DESIGN_SCIENCE_METHOD; EDUCATIONAL_PROGRAMMES;
+   EDUCATION_PROGRAMMES; EDUCATION_SECTOR; EFFECTIVE_UTILITIES;
+   ENTERPRISE_SKILLS; ESSENTIAL_SKILLS; FINAL_FOCUS_GROUP_SESSION;
+   FUNCTIONAL_NEW_DEGREE_PROGRAMME_BACHELOR; INNOVATIVE_DATA_SCIENCE_DEGREE;
+   INTERDISCIPLINARY_DEMANDS; MANAGERIAL_DATA; MODERN_INDUSTRY;
+   NEW_INTERDISCIPLINARY_DATA_SCIENCE_TEACHING_CURRICULUM; OVERALL_FEASIBILITY;
+   PAPER_CONCLUDES; RESEARCH_APPROACH;
+   SENIOR_BUSINESS_INFORMATION_SYSTEMS_ACADEMICS; SPRINGER_NATURE;
+   TECHNICAL_ASPECTS
+
+---
+
+Record-No: 58
+AR Zhang L., 2020, J INF SYST EDUC, V31, P244
+TI Teaching Tip A Foundation Course in Business Analytics: Design and
+   Implementation at Two Universities
+AU Zhang L.; Chen F.; Wei W.
+TC 10
+SO Journal of Information Systems Education
+PY 2020
+AB the CURRENT data_centric BUSINESS_ENVIRONMENT has seen an increasing demand
+   for BUSINESS_STUDENTS with KNOWLEDGE and SKILLS in the area of
+   BUSINESS_ANALYTICS . this ARTICLE presents the DESIGN and implementation of
+   a FOUNDATION_BUSINESS_ANALYTICS ( ba ) course for
+   UNDERGRADUATE_BUSINESS_STUDENTS who aspire to become data_literate
+   professionals or entry_level DATA_ANALYSTS . the COURSE_DESIGN is built
+   around two LEARNING_OBJECTIVES and their CORRESPONDING_LEARNING_OUTCOMES and
+   features five LEARNING_MODULES corresponding to a recently proposed
+   BA_PEDAGOGICAL_FRAMEWORK . the implementation of this course at two
+   LARGE_UNIVERSITIES is described in detail , including the timelines , topics
+   , SOFTWARE_TOOLS , assignments , projects , and STUDENT_FEEDBACK . upon
+   SUCCESSFUL_COMPLETION of the course , STUDENTS are expected to be able to
+   CONDUCT_BUSINESS_ANALYTICS at basic to INTERMEDIATE_LEVELS using leading
+   INDUSTRY_TOOLS such as POWER_PIVOT , POWER_BI , tableau , or R . 2021 . all
+   rights reserved .
+DE BUSINESS_ANALYTICS; CURRICULUM_DESIGN_AND_DEVELOPMENT; DATA_VISUALIZATION;
+   INSTRUCTIONAL_PEDAGOGY
+ID ADVANCED_ANALYTICS; STUDENTS; BUSINESS_ANALYTICS; BUSINESS_ENVIRONMENTS;
+   DESIGN_AND_IMPLEMENTATIONS; FOUNDATION_COURSE; INTERMEDIATE_LEVEL;
+   LEARNING_MODULES; LEARNING_OBJECTIVES; LEARNING_OUTCOME; CURRICULA
+** BA_PEDAGOGICAL_FRAMEWORK; BUSINESS_ANALYTICS; BUSINESS_STUDENTS;
+   CONDUCT_BUSINESS_ANALYTICS; CORRESPONDING_LEARNING_OUTCOMES; COURSE_DESIGN;
+   CURRENT_DATACENTRIC_BUSINESS_ENVIRONMENT; DATALITERATE_PROFESSIONALS;
+   ENTRYLEVEL_DATA_ANALYSTS; FOUNDATION_BUSINESS_ANALYTICS; FOUNDATION_COURSE;
+   INDUSTRY_TOOLS; INTERMEDIATE_LEVELS; LARGE_UNIVERSITIES; LEARNING_MODULES;
+   LEARNING_OBJECTIVES; POWER_BI; POWER_PIVOT; SOFTWARE_TOOLS;
+   STUDENT_FEEDBACK; SUCCESSFUL_COMPLETION; UNDERGRADUATE_BUSINESS_STUDENTS
+
+---
+
+Record-No: 27
+AR Seal K.C., 2020, INFORMS J APPL ANALYTICS, V50, P239
+TI Delivering business analytics competencies and skills: A supply side
+   assessment
+AU Seal K.C.; Leon L.A.; Przasnyski Z.H.; Lontok G.
+TC 8
+SO INFORMS Journal on Applied Analytics
+PY 2020
+AB this PAPER_INVESTIGATES the alignment of the DEMAND_SIDE of
+   BUSINESS_ANALYTICS ( based on advertised JOB_POSITIONS ) with the
+   SUPPLY_SIDE ( based on the UNIVERSITY_CURRICULA of you.s .
+   BUSINESS_ANALYTICS_PROGRAMS ) . we text_mined JOB_ADVERTISEMENTS and core
+   and ELECTIVE_COURSE_DESCRIPTIONS to identify the competencies demanded by
+   business analytics_related jobs and those being taught in
+   GRADUATE_ANALYTICS_PROGRAMS that include a BUSINESS_COMPONENT . a
+   COMPARATIVE_ANALYSIS of the COMPETENCIES_REVEALS that , although some of the
+   competencies required by the jobs are taught adequately at the universities
+   , a few KEY_CONCEPTS and topics are not covered at SUFFICIENT_DEPTH as
+   needed by the jobs . the RESEARCH also shows that many
+   TRADITIONAL_ANALYTICS_TOPICS are being over_taught at the universities when
+   compared with the demand , whereas some key SOFT_SKILLS are not addressed at
+   a SUFFICIENT_LEVEL in many programs . the study provides a basis for
+   FUTURE_COMPARISON of data_science positions and programs with the jobs and
+   programs in BUSINESS_ANALYTICS . copyright : 2020 informs
+DE BUSINESS_ANALYTICS_CURRICULUM; BUSINESS_ANALYTICS_SKILLS_EDUCATION;
+   PLANNING; SUPPLY_DEMAND_GAP_ANALYSIS
+** BUSINESS_ANALYTICS; BUSINESS_ANALYTICS_COMPETENCIES;
+   BUSINESS_ANALYTICS_PROGRAMS; BUSINESS_COMPONENT; COMPARATIVE_ANALYSIS;
+   COMPETENCIES_REVEALS; DATASCIENCE_POSITIONS; DEMAND_SIDE;
+   ELECTIVE_COURSE_DESCRIPTIONS; FUTURE_COMPARISON;
+   GRADUATE_ANALYTICS_PROGRAMS; JOB_ADVERTISEMENTS; JOB_POSITIONS;
+   KEY_CONCEPTS; PAPER_INVESTIGATES; SOFT_SKILLS; SUFFICIENT_DEPTH;
+   SUFFICIENT_LEVEL; SUPPLY_SIDE; SUPPLY_SIDE_ASSESSMENT;
+   TRADITIONAL_ANALYTICS_TOPICS; UNIVERSITY_CURRICULA
+
+---
+
+Record-No: 31
+AR Chongwatpol J., 2020, DECIS SCI J INNOVATIVE EDUC, V18, P409
+TI Operationalizing Design Thinking in Business Intelligence and Analytics
+   Projects
+AU Chongwatpol J.
+TC 8
+SO Decision Sciences Journal of Innovative Education
+PY 2020
+AB DESIGN_THINKING has been applied successfully in many fields . however , in
+   INFORMATION_SYSTEMS_RESEARCH most EARLY_STUDIES_FOCUS on applying the
+   SPECIFIC_TOOLSETS to developing product and SYSTEM_DESIGNS to solve
+   strategic , managerial , and OPERATIONAL_PROBLEMS . there is little RESEARCH
+   on how DESIGN_THINKING can be embedded in the LEARNING_PROCESSES in
+   design_oriented is RESEARCH and enabled in the context of
+   BUSINESS_INTELLIGENCE ( bi ) and BUSINESS_ANALYTICS ( ba ) . how can
+   DESIGN_THINKING be embedded in the LEARNING_PROCESSES and enabled in the
+   context of bi / ba projects in the CLASSROOM_ENVIRONMENT , especially in the
+   proof of CONCEPT_STAGE ? a PRACTICAL_VIEW on integrating the mindset and
+   toolset of the DESIGN_THINKING approach and in the LEARNING_PROCESS as a
+   case based in_class experience is presented along with a guideline for
+   coaching the DESIGN_THINKING team and the lessons learned from each stage of
+   DESIGN_THINKING . the results of this STUDY_SHOW that DESIGN_THINKING
+   practices can be enlisted to help STUDENTS_FRAME their creations and that
+   these practices have a VALUABLE_CONTRIBUTION as alternatives when designing
+   CURRICULA for TEACHING_AND_LEARNING . 2020 DECISION_SCIENCES_INSTITUTE
+DE DESIGN_THINKING; BUSINESS_ANALYTICS; BUSINESS_EDUCATION;
+   BUSINESS_INTELLIGENCE; DASHBOARD
+** ANALYTICS_PROJECTS; BUSINESS_ANALYTICS; BUSINESS_INTELLIGENCE;
+   CLASSROOM_ENVIRONMENT; CONCEPT_STAGE; DECISION_SCIENCES_INSTITUTE;
+   EARLY_STUDIES_FOCUS; INCLASS_EXPERIENCE; INFORMATION_SYSTEMS_RESEARCH;
+   LEARNING_PROCESS; LEARNING_PROCESSES; OPERATIONAL_PROBLEMS; PRACTICAL_VIEW;
+   SPECIFIC_TOOLSETS; STUDENTS_FRAME; STUDY_SHOW; SYSTEM_DESIGNS;
+   VALUABLE_CONTRIBUTION
+
+---
+
+Record-No: 8
+AR Dean M.D., 2020, TRANS EDUC, V20, P125
+TI Using the learning assistant model in an undergraduate business analytics
+   course
+AU Dean M.D.
+TC 4
+SO INFORMS Transactions on Education
+PY 2020
+AB UNDERGRADUATE_BUSINESS_STUDENTS , like many other UNDERGRADUATE_MAJORS , are
+   often apprehensive about the QUANTITATIVE_COURSES required to earn their
+   degree . ACTIVE_LEARNING_METHODS , including flipped classrooms , have been
+   studied as approaches to mitigate these fears among STUDENTS . with our
+   overarching goal of helping STUDENTS improve their understanding of
+   QUANTITATIVE_BUSINESS_CONCEPTS , we implemented a
+   NOVEL_ACTIVE_LEARNING_METHOD called the LEARNING_ASSISTANT_MODEL . using an
+   EXPERIMENTAL_DESIGN holding the instructor and the STUDENT_ASSESSMENTS
+   constant , we report the results of the first_known implementation of this
+   technique in a BUSINESS_COURSE . as indicated by the change in the STUDENTS
+   FINAL_NUMERICAL_GRADES , this PEDAGOGICAL_TECHNIQUE_SHOWS promise in helping
+   STUDENTS_MASTER the material better than those who took the course in a
+   traditional lecture_based LEARNING_ENVIRONMENT . copyright : 2020 the author
+   ( s )
+DE ACTIVE_LEARNING; ANALYTICS_EDUCATION; FLIPPED_CLASSROOM;
+   LEARNING_ASSISTANT_MODEL
+** ACTIVE_LEARNING_METHODS; BUSINESS_COURSE; EXPERIMENTAL_DESIGN;
+   FINAL_NUMERICAL_GRADES; FIRSTKNOWN_IMPLEMENTATION; LEARNING_ASSISTANT_MODEL;
+   LEARNING_ENVIRONMENT; NOVEL_ACTIVE_LEARNING_METHOD;
+   PEDAGOGICAL_TECHNIQUE_SHOWS; QUANTITATIVE_BUSINESS_CONCEPTS;
+   QUANTITATIVE_COURSES; STUDENTS_MASTER; STUDENT_ASSESSMENTS;
+   UNDERGRADUATE_BUSINESS_ANALYTICS_COURSE; UNDERGRADUATE_BUSINESS_STUDENTS;
+   UNDERGRADUATE_MAJORS
+
+---
+
+Record-No: 56
+AR Dong T., 2020, AM CONF INF SYST AMCIS
+TI Aligning BI&A curriculum with industry demand
+AU Dong T.; Triche J.
+TC 1
+SO 26th Americas Conference on Information Systems, AMCIS 2020
+PY 2020
+AB the GROWING_DEMAND for BUSINESS_INTELLIGENCE & ANALYTICS ( bi&a )
+   practitioners has been recognized in HIGHER_EDUCATION . in the PAST_DECADE ,
+   over 130 BUSINESS_ANALYTICAL ACADEMIC_PROGRAMS have been launched . to the
+   best of our KNOWLEDGE , no RESEARCH has examined whether the
+   CURRENT_BUSINESS_ANALYTICS_CURRICULUM_DESIGN fully fits the INDUSTRY_DEMAND
+   . to answer this question , we take the INITIAL_STEPS of identifying a
+   COMMON_SET of SKILLS that is frequently required across
+   DIFFERENT_BUSINESS_ANALYTICS_JOB_POSITIONS . further , we reviewed
+   UNDERGRADUATE_BUSINESS_ANALYTICS / DATA_SCIENCE_CURRICULA at 29 universities
+   across the you.s . our results show that companies expect a balanced set of
+   soft and TECHNICAL_SKILLS for ENTRY_LEVEL_BI&a JOB_POSITIONS . in terms of
+   the gap between the ACADEMIC_CURRICULUM and SKILLS in demand , PYTHON ,
+   MICROSOFT_EXCEL , communication , and COLLABORATION_SKILLS are
+   underdeveloped in most ACADEMIC_CURRICULA . this study can help universities
+   better align their CURRICULA with the INDUSTRY_DEMAND . 2020
+   26TH_AMERICAS_CONFERENCE on INFORMATION_SYSTEMS , amcis 2020 . all rights
+   reserved .
+DE BUSINESS_INTELLIGENCE_AND_ANALYTICS; GAP_ANALYSIS; JOB_SKILLS;
+   UNDERGRADUATE_CURRICULA
+ID ADVANCED_ANALYTICS; INFORMATION_SYSTEMS; INFORMATION_USE; ACADEMIC_PROGRAM;
+   BUSINESS_ANALYTICS; COLLABORATION_SKILLS; CURRICULUM_DESIGNS;
+   GROWING_DEMAND; HIGHER_EDUCATION; SCIENCE_CURRICULUM; TECHNICAL_SKILLS;
+   CURRICULA
+** 26TH_AMERICAS_CONFERENCE; ACADEMIC_CURRICULA; ACADEMIC_CURRICULUM;
+   ACADEMIC_PROGRAMS; BUSINESS_ANALYTICAL; BUSINESS_INTELLIGENCE;
+   COLLABORATION_SKILLS; COMMON_SET;
+   CURRENT_BUSINESS_ANALYTICS_CURRICULUM_DESIGN;
+   DIFFERENT_BUSINESS_ANALYTICS_JOB_POSITIONS; ENTRY_LEVEL_BI; INDUSTRY_DEMAND;
+   INFORMATION_SYSTEMS; INITIAL_STEPS; JOB_POSITIONS; MICROSOFT_EXCEL;
+   PAST_DECADE; TECHNICAL_SKILLS
+
+---
+
+Record-No: 55
+AR Sunny Park S.-H., 2020, SPRINGER PROC BUS ECON, P317
+TI Teaching a Man to Fish: Teaching Cases of Business Analytics
+AU Sunny Park S.-H.; Park S.; Oldham L.B.
+TC 0
+SO Springer Proceedings in Business and Economics
+PY 2020
+AB this paper gives an overview of a somewhat
+   UNUSUAL_BUSINESS_ANALYTICS_INITIATIVE at a southeastern PUBLIC_UNIVERSITY in
+   the usa . the massive influx of data and the accessibility of
+   ANALYTICS_TOOLS have presented a PROVOCATIVE_OPPORTUNITY for businesses to
+   improve decision_making and have also created a demand for talent with
+   DATA_ANALYTICS_SKILLS . though many universities have stepped up to meet
+   this growing need for DATA_ANALYTICS_TALENT , the VAST_MAJORITY have done so
+   by offering specialized programs at the m.s . level . the school offers
+   embedded UNDERGRADUATE_ANALYTICS program with EXPERIENTIAL_LEARNING . this
+   paper includes our motivations and reasons behind the ANALYTICS program as
+   well as how we have implemented it . 2020 , SPRINGER_NATURE_SWITZERLAND_AG .
+DE BUSINESS_ANALYTICS; DATA_LAB; EXPERIENTIAL_LEARNING
+** ANALYTICS_TOOLS; BUSINESS_ANALYTICS; DATA_ANALYTICS_SKILLS;
+   DATA_ANALYTICS_TALENT; EXPERIENTIAL_LEARNING; PROVOCATIVE_OPPORTUNITY;
+   PUBLIC_UNIVERSITY; SPRINGER_NATURE_SWITZERLAND_AG; UNDERGRADUATE_ANALYTICS;
+   UNUSUAL_BUSINESS_ANALYTICS_INITIATIVE; VAST_MAJORITY
+
+
+---
