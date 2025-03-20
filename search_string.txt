@@ -1,0 +1,40 @@
+(
+    (
+        TITLE ( "business analytics" )
+        OR TITLE ( "business data analytics" )
+        OR TITLE ( "data science" AND business)
+        OR TITLE ( business PRE/1 analytics ) 
+        OR (
+                (
+                    AUTHKEY ( business PRE/1 analytics ) AND 
+                    ABS ( business PRE/1 analytics )
+                )
+                OR (
+                    AUTHKEY ( "business analytics" ) AND 
+                    ABS ( "business analytics" )
+                )
+                OR (
+                    AUTHKEY ( "business data analytics" ) AND 
+                    ABS ( "business data analytics" )
+                )
+                OR (
+                    AUTHKEY ( "data science" AND business ) AND 
+                    ABS ( "data science" AND business )
+                )
+
+        )
+    )
+)
+AND (
+    TITLE ( curricula OR curriculum OR teaching OR education OR student OR "business schools" OR pedagogy OR "higher education" OR "engineering education" OR academia)
+    OR AUTHKEY ( curricula OR curriculum OR teaching OR education OR student OR "business schools" OR pedagogy OR "higher education" OR "engineering education" OR academia)
+)
+AND NOT (
+    TITLE( "Supporting student management with business analytics in the UK higher education sector: An exploratory case study")
+    OR TITLE( "A Hybrid Infrastructure of Enterprise Architecture and Business Intelligence Analytics for Knowledge Management in Education")
+    OR TITLE( "Improving the quality of education system using data science technologies: Survey")
+    OR TITLE( "Adopting Learning Analytics to Inform Postgraduate Curriculum Design: Recommendations and Research Agenda")
+    OR TITLE( "Support Management System Model Proposal for the Student Affairs of Faculty")
+)
+
+
