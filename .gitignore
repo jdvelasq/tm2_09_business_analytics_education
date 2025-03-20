@@ -174,3 +174,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+manuscript/.$methodology.drawio.bkp
+manuscript/.$prisma-flow-chart.drawio.bkp
