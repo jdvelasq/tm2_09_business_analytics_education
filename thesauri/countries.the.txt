@@ -1,0 +1,184 @@
+Australia
+    Business Information Systems, University of Sydney, Business School, Sydney, 2006, NSW, Australia
+    Deakin Business School Deakin University, Geelong, VIC, Australia
+    Deakin Learning Futures Deakin University, Geelong, VIC, Australia
+    Department of Information Systems and Business Analytics, Deakin University, Burwood, 3125, VIC, Australia
+    Faculty of Business and Law, Queensland University of Technology, Brisbane, QLD, Australia
+    La Trobe Business School, La Trobe University, Bundoora, 3086, VIC, Australia
+    University of Sydney Business School, Sydney, Australia
+    University of Sydney, Business School, Sydney, NSW 2006, Australia
+    University of Sydney, NSW, Australia
+    Victoria University, Footscray Park Campus, Footscray, Melbourne, Australia
+Canada
+    Asper School of Business, University of Manitoba, Winnipeg, R3T 5V4, MB, Canada
+    Sobey School of Business Saint Mary's University, Halifax, B3H 2W3, NS, Canada
+    Ted Rogers School of Information Technology Management, Ryerson University, Canada
+China
+    Anhui University of Finance and Economics, Department of Computer Science and Technology, Bengbu, China
+    Business School, Foshan University, Foshan, China
+    Faculty of Education, University of Macau, Zhuhai, China
+France
+    Department of Information Management, University of Toulouse, Toulouse, France
+Germany
+    Ludwig-Maximilians-Universität Mönchen, Institut för Statistik, Ludwigstr. 33, Mönchen, 80539, Germany
+India
+    Department of IT and Analytics, Institute of Management Technology, Nagpur, India
+    IBM Research - India, Manyata Embassy Business Park, Nagawara, Bangalore 560045, Block D4, Outer Ring Road, India
+    Institute of Management Technology, Nagpur, India
+    Symbiosis Institute of Operations Management, Constituent of Symbiosis International University, CIDCO, New Nashik, India
+Ireland
+    School of Business, University College Dublin, Dublin, Ireland
+Mauritius
+    University of Mauritius, Department of Software and Information Systems, Reduit, Mauritius
+Philippines
+    University of the Philippines Diliman, Quezon City, 1101, Philippines
+    Xavier University, Philippines
+Portugal
+    LASIGE, Faculdade de Ciências, Universidade de Lisboa, Lisbon, Portugal
+    Universidade Aberta and Lasige-FCUL, Portugal
+Russia
+    Federal State-Funded Educational Institution of Higher Education, «Kuban State Agrarian University named after I.T. Trubilin», Kalinina street, 13, Krasnodar, 350044, Russian Federation
+    Krasnodar Branch of Federal State-Funded Educational Institution of Higher Education, Financial University Under the Government of Russian Federation», Shosse Neftianikov street, 32, Krasnodar, 350901, Russian Federation
+    Krasnodar Branch of Plekhanov Russian University of Economics, Sadovaya street, 17, Krasnodar, 350002, Russian Federation
+Singapore
+    School of Information Systems, Singapore Management University, Singapore
+    Singapore Management University, School of Computing and Information Systems, Singapore
+    Singapore Management University, Singapore
+South Africa
+    Informatics, Tshwane University of Technology, Pretoria, South Africa
+Taiwan
+    Institute of Business and Management, National Chiao Tung University, Taiwan
+Thailand
+    National Institute of Development Administration, NIDA Business School, 118 Seri Thai Road, Bangkapi, Bangkok, 10240, Thailand
+Tunisia
+    Higher Institute of Computer Science, University of Tunis El Manar, Tunis, Tunisia
+    Higher Institute of Management University of Tunis, Tunis, Tunisia
+Turkey
+    Beykent University, Management Information Systems, Istanbul, Turkey
+    Kayseri University, Humanities and Social Sciences, Kayseri, Turkey
+United Arab Emirates
+    Al Ain University, United Arab Emirates
+    College of Technological Innovation at Zayed University, Dubai, United Arab Emirates
+United Kingdom
+    IBM T. J. Watson Research Center, United Kingdom
+    ICAEW, London EC2R 6EA, Chartered Accountants Hall, Moorgate Place, United Kingdom
+    ICAEW, United Kingdom
+    Loughborough University, Loughborough, Leicestershire, United Kingdom
+    MIT Sloan School of Management, United Kingdom
+    University of Winchester, Winchester, SO22 5HT, United Kingdom
+United States
+    Anisfield School of Business, Ramapo College of New Jersey, United States
+    Arizona State University, United States
+    BHEF, United States
+    Bentley University, Waltham, MA, United States
+    Boston University, Boston, United States
+    Business-Higher Education Forum (BHEF), 2025 M Street NW, Suite 800, Washington, 20036, DC, United States
+    California State University, Dominguez Hills, Carson, CA, United States
+    Charlton College of Business University of Massachusetts - Dartmouth, Dartmouth, 02747, MA, United States
+    Charlton College of Business, University of Massachusetts Dartmouth, North Dartmouth, MA, United States
+    College of Business and Economics, California State University, Fullerton, United States
+    College of Business and Economics, California State University, Los Angeles, Los Angeles, 90032, CA, United States
+    College of Business, California State University Monterey Bay, United States
+    College of Business, North Dakota State University, Fargo, 58102, ND, United States
+    College of Business, University of Arkansas, United States
+    College of Science and Engineering, University of Houston – Clear Lake, Houston, 77058, TX, United States
+    Computer and Information Systems, Robert Morris University, Moon Township, 15108, PA, United States
+    David Nazarian College of Business and Economics, California State University, Northridge, CA, United States
+    David Nazarian College of Business and Economics, California State University, Northridge, Northridge, 91330, CA, United States
+    Deloitte Analytics, Atlanta, GA 30303-1749, 191 Peachtree St., United States
+    Deloitte Information Management Practice, United States
+    Department of Accounting, Economics, Finance and Information Sciences, Embry-Riddle Aeronautical University, Daytona Beach, 32114, FL, United States
+    Department of Accounting, Rider University, Lawrenceville, NJ, United States
+    Department of Administrative Sciences, Applied Business Analytics Program, Boston University Metropolitan College, Boston, 02215, MA, United States
+    Department of Business Administration, Bemidji State University, Bemidji, 56601, MN, United States
+    Department of Business Information and Analytics, University of Denver, United States
+    Department of Computer Science and Engineering, University of Tennessee at Chattanooga, Chattanooga, TN, United States
+    Department of Computer Science, Florida Polytechnic University, Lakeland, 33805, FL, United States
+    Department of Computer Science, Rochester Institute Technology, Rochester, NY, United States
+    Department of Data Analytics and Information Systems Utah State University Logan, 84322, UT, United States
+    Department of Data Analytics and Information Systems Utah State University Tooele, 84074, UT, United States
+    Department of Data Science and Business Analytics, Florida Polytechnic University, Lakeland, 33805, FL, United States
+    Department of Decision and Information Sciences, School of Business Administration, Stetson University, DeLand, FL, United States
+    Department of Economics, Finance and Insurance, Barney School of Business, University of Hartford, West Hartford, CT, United States
+    Department of Information Management and Business Analytics, Feliciano School of Business, Montclair State University, 1 Normal Ave, Montclair, 07043, NJ, United States
+    Department of Information Systems and Business Analytics, College of Business Florida International University Miami, 11200 SW 8th Street, RB 250, Miami, 33199, FL, United States
+    Department of Information Systems and Business Analytics, Loyola Marymount University, Los Angeles, 90045, CA, United States
+    Department of Information Systems and Decision Sciences, California State University, Fullerton, Fullerton, 92831, CA, United States
+    Department of Information Systems and Decision Sciences, California State University, Fullerton, United States
+    Department of Information Systems and Operations Management, Lutgert College of Business, 10501 FGCU Boulevard South, Florida Gulf Coast University, Fort Myers, 33965, FL, United States
+    Department of Information Systems, Management, and Marketing, Northern Arizona University, Flagstaff, 86011, AZ, United States
+    Department of Information Systems, W.P. Carey School of Business, Arizona State University, United States
+    Department of Information Technology Management, University of Hawaii at Manoa, Honolulu, HI, United States
+    Department of Management Information Systems Gonzaga University Spokane, 99258, WA, United States
+    Department of Management Science, University of South Carolina, Columbia, 20208, SC, United States
+    Department of Marketing, Rider University, Lawrenceville, NJ, United States
+    Department of Operations and Information Systems, University of Massachusetts Lowell, United States
+    Department of Quantitative Business Studies, Purdue University Northwest, Hammond, 46323, IN, United States
+    Department of Statistics and Wisconsin Institute for Discovery, University of Wisconsin—Madison, Madison, WI, United States
+    Department of Systems and Operations Management, California State University, Northridge, CA, United States
+    Dept. of Computer Information Systems, Metropolitan State University of Denver, Colorado, United States
+    Duquesne University, United States
+    E&Y of Accounting and Information Systems, Associate Dean, Undergraduate Programs, Broad College of Business, Michigan State University, 632 Bogue Street, Room N520, East Lansing, 48824, MI, United States
+    Graziadio School of Business and Management, Pepperdine University, United States
+    Hoagland-Metzler Endowed of Purchasing and Supply Management, Co-Editor-in-Chief, International Journal of Operations and Production Management, Department of Supply Chain Management, Broad College of Business, Michigan State University, 632 Bogue Street, Room N370, East Lansing, 48824, MI, United States
+    IBM IBM Ecosystem Development, United States
+    IOM Department, School of Business, Montclair State University, Montclair, 07043, NJ, United States
+    Information Systems and Supply Chain Management Department, The University of North Carolina, Greensboro, United States
+    Information Systems and Supply Chain Management, Wright State University, Dayton, 45435, OH, United States
+    Institute for Research in Information Systems, Spears School of Business, Oklahoma State University, Stillwater, OK 74078, United States
+    James Madison University, Harrisonburg, VA, United States
+    Loyola University Maryland, United States
+    Lyon College, 2300 Highland Rd, Batesville, 72501, AR, United States
+    MIT Sloan School, Cambridge, MA 02139, 100 Main Street, United States
+    Management Information Systems, West Virginia University, Morgantown, 26506, WV, United States
+    Management, West Virginia University, Morgantown, 26506, WV, United States
+    Massachusetts Institute of Technology Sloan School of Management's, Center for Information Systems Research (CISR), United States
+    McCombs School of Business, Center for Analytics and Transformative Technologies, The University of Texas at Austin, Austin, TX, United States
+    Merrimack College, United States
+    Michigan State University, Broad College of Business, Accounting and Information Systems Department, United States
+    Northeastern Illinois University, United States
+    Northeastern University, United States
+    Northern Arizona University, United States
+    Oklahoma State University, United States
+    Operations & Analytics Department, University of Scranton, Scranton, 18510, PA, United States
+    Orfalea College of Business, California Polytechnic State University, San Luis Obispo, 93407, CA, United States
+    Portland State University, Portland, OR, United States
+    Portland State University, The School of Business, Accounting Department, Portland, OR, United States
+    Portland State University, The School of Business, Management Department, Portland, OR, United States
+    Princeton University, Princeton, 08544, NJ, United States
+    Quinlan School of Business, Loyola University Chicago, Chicago, 60611, IL, United States
+    Quinlan School of Business, Loyola University Chicago, Chicago, IL, United States
+    Raymond A. Mason School of Business, College of William and Mary, Williamsburg, 23187, VA, United States
+    Rider University, United States
+    Robert H. Smith School of Business, The University of Texas at Austin, Austin, TX, United States
+    Robert H. Smith School of Business, University of Maryland, College Park, MD 20742-1815, 4357 Van Munching Hall, United States
+    Robert H. Smith School of Business, University of Maryland, United States
+    Rutgers University, United States
+    Saint Joseph's University, Philadelphia, PA 19131, United States
+    Scholar in Residence at the Brain and Creativity Institute, Department of Psychology, University of Southern California (USC), United States
+    School of Business Administration, Fort Lewis College, Durango, 81301, CO, United States
+    Service Innovation and Business Analytics The Milgard School of Business, University of Washington, Tacoma, WA, United States
+    Stillman School of Business, Seton Hall University, South Orange, NJ, United States
+    Strategy & Innovation, AACSB, Tampa, United States
+    Suffolk University, Boston, 02108, MA, United States
+    Teradata, United States
+    Texas A & M University–Commerce, Department of Marketing & Business Analytics, Commerce, TX, United States
+    The Business-Higher Education Forum, United States
+    The University of Memphis, United States
+    The University of South Florida, Tampa, FL, United States
+    Trinity University, One Trinity Place, San Antonio, 78212, TX, United States
+    Troy University, Troy, AL, United States
+    University of Dayton, Dayton, OH 45469, United States
+    University of Montana, 32 Campus Drive, Missoula, 59801, MT, United States
+    University of North Carolina at Greensboro, United States
+    University of Scranton, Scranton, PA, United States
+    University of Texas-Pan American, United States
+    Virginia Commonwealth University, United States
+    Widener University, Chester, United States
+    Williams College of Business, Xavier University, Cincinnati, United States
+    Wright State University, United States
+Vietnam
+    Adjunct International School, Vietnam National University, Hanoi, Viet Nam
+    National Economics University, Hanoi, Viet Nam
+    Thuongmai University, Hanoi, Viet Nam
+    University of Greenwich (Vietnam), Hanoi, Viet Nam
