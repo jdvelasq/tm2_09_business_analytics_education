@@ -1,0 +1,69 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1185" dy="941" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;endArrow=openThin;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-1" target="A8jI9ixNdDlGXySxQDu9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="291" y="29" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-2" target="A8jI9ixNdDlGXySxQDu9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-2" value="Step 1. Initial search string:&lt;br&gt;&lt;font face=&quot;Verdana&quot;&gt;TITLE(&quot;business analytics&quot;) &lt;br&gt;OR AUTHKEY(&lt;/font&gt;&quot;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business analytics&lt;/span&gt;&quot;&lt;font face=&quot;Verdana&quot;&gt;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="173" y="106" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-4" target="A8jI9ixNdDlGXySxQDu9-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-4" value="Step 2. Search in Scopus and document extraction" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="173" y="190" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-5" target="A8jI9ixNdDlGXySxQDu9-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-5" value="Step 3. Review of titles and keywords of documents and titles of references" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="173" y="274" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-13" value="Yes" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-6" target="A8jI9ixNdDlGXySxQDu9-7" edge="1">
+          <mxGeometry y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-6" target="A8jI9ixNdDlGXySxQDu9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="425" />
+              <mxPoint x="476" y="628" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-6" value="Is a new search&lt;br&gt;term found?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="245.5" y="360" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=openThin;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A8jI9ixNdDlGXySxQDu9-7" target="A8jI9ixNdDlGXySxQDu9-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="551" />
+              <mxPoint x="134" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-7" value="Step 4. Modify the search string" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="173" y="521" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-15" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="291" y="602" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="A8jI9ixNdDlGXySxQDu9-19" value="&lt;div&gt;(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; TITLE ( &quot;business analytics&quot; )&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; OR TITLE ( &quot;business data analytics&quot; )&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OR TITLE ( &quot;data science&quot; AND business)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; OR TITLE ( business PRE/1 analytics )&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OR&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;( AUTHKEY ( business PRE/1 analytics ) AND ABS ( business PRE/1 analytics ) )&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OR ( AUTHKEY ( &quot;business analytics&quot; ) AND ABS ( &quot;business analytics&quot; ) )&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OR ( AUTHKEY ( &quot;business data analytics&quot; ) AND ABS ( &quot;business data analytics&quot; ) )&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; OR ( AUTHKEY ( &quot;data science&quot; AND business ) AND ABS ( &quot;data science&quot; AND business ) )&amp;nbsp;&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;AND (&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; TITLE ( curricula OR curriculum OR teaching OR education OR student&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;OR &quot;business schools&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR pedagogy OR &quot;higher education&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OR &quot;engineering education&quot; OR academia&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;OR&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;AUTHKEY ( curricula OR curriculum OR teaching OR education OR student&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR &quot;business schools&quot; OR pedagogy OR &quot;higher education&quot;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;OR &quot;engineering education&quot;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OR academia&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;)&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="79" y="678" width="526" height="181" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
